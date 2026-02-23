@@ -1,7 +1,7 @@
-# Version: 2026-02-23 17:10:16
+# Version: 2026-02-24 05:06:00
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 32610
+# Total domains: 32611
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12997,6 +12997,7 @@
 0.0.0.0	@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 0.0.0.0	@@.com/o.js$domain=2biqu.com
 0.0.0.0	@@down.360safe.com
+0.0.0.0	@@gimg*.baidu.com/gimg/app=$domain=kimivod.com
 0.0.0.0	@@googlesyndication.com$domain=bilinovel.com
 0.0.0.0	@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 0.0.0.0	@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
