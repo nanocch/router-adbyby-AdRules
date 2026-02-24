@@ -1,7 +1,7 @@
-# Version: 2026-02-24 17:10:47
+# Version: 2026-02-25 05:00:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 32611
+# Total domains: 32612
 
 0.0.0.0	!
 0.0.0.0	!
@@ -14483,6 +14483,7 @@
 0.0.0.0	@@||mm3.365dmp.com
 0.0.0.0	@@||mmbiz.qpic.cn
 0.0.0.0	@@||mmgame.qpic.cn
+0.0.0.0	@@||mmocgame.qpic.cn
 0.0.0.0	@@||mms-static.pddpic.com
 0.0.0.0	@@||mms-static.pinduoduo.com
 0.0.0.0	@@||mms.pinduoduo.com
