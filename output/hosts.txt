@@ -1,7 +1,7 @@
-# Version: 2026-02-28 16:48:03
+# Version: 2026-03-01 04:44:07
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 32612
+# Total domains: 32617
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12022,6 +12022,7 @@
 0.0.0.0	13.226.254.58
 0.0.0.0	13.35.0.128
 0.0.0.0	13023.url.7wkw.com
+0.0.0.0	133.237.176.198
 0.0.0.0	1338999.com
 0.0.0.0	1372.w13726954.com
 0.0.0.0	1377a.xyz
@@ -12259,6 +12260,7 @@
 0.0.0.0	22lm.cc
 0.0.0.0	22wap.jiezibook.cn
 0.0.0.0	23.12.10.105
+0.0.0.0	23.192.47.137
 0.0.0.0	23.201.165.153
 0.0.0.0	23.204.10.89
 0.0.0.0	23.204.10.89
@@ -12467,6 +12469,7 @@
 0.0.0.0	42trck.com
 0.0.0.0	42yenxh.cn
 0.0.0.0	43.159.198.195
+0.0.0.0	43.206.62.10
 0.0.0.0	4336wang.cn
 0.0.0.0	44r9fl.xyz
 0.0.0.0	45.116.79.187
@@ -14946,6 +14949,7 @@
 0.0.0.0	@@||res.imtt.qq.com
 0.0.0.0	@@||res.mall.10010.cn
 0.0.0.0	@@||res.mi.baidu.com
+0.0.0.0	@@||res.openinstall.com
 0.0.0.0	@@||res.oplist.org
 0.0.0.0	@@||res.oplist.org.cn
 0.0.0.0	@@||res.qiyukf.net
@@ -15388,6 +15392,7 @@
 0.0.0.0	@@||v9-x.toutiaovod.com
 0.0.0.0	@@||vali-g1.cp31.ott.cibntv.net
 0.0.0.0	@@||vali01.cp31.ott.cibntv.net
+0.0.0.0	@@||valuecommerce.com
 0.0.0.0	@@||vas.snssdk.com
 0.0.0.0	@@||vcs-quality.zijieapi.com
 0.0.0.0	@@||vcs.snssdk.com
