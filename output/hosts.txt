@@ -1,4 +1,4 @@
-# Version: 2026-03-05 17:04:33
+# Version: 2026-03-06 04:57:17
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 32619
@@ -18364,13 +18364,13 @@
 0.0.0.0	bimibimi.cc##[src
 0.0.0.0	binaryage-leechgate.herokuapp.com
 0.0.0.0	bing.com,cn.bing.net###bnp_rich_div
+0.0.0.0	bing.com,cn.bing.net###uaanswer
 0.0.0.0	bing.com,cn.bing.net##.ad_sc
 0.0.0.0	bing.com,cn.bing.net##.adsMvC
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
-0.0.0.0	bing.com,cn.bing.net##.b_ans
 0.0.0.0	bing.com,cn.bing.net##.b_ans:has([class
 0.0.0.0	bing.com,cn.bing.net##.b_bza_pole
 0.0.0.0	bing.com,cn.bing.net##.pa_sb
