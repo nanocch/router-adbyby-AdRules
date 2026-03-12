@@ -1,7 +1,7 @@
-# Version: 2026-03-12 17:05:02
+# Version: 2026-03-13 04:57:43
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32619
+# Total domains: 32622
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12655,6 +12655,7 @@
 0.0.0.0	64si.com
 0.0.0.0	65.8.164.121
 0.0.0.0	65432.pw
+0.0.0.0	65487496.xyz
 0.0.0.0	654mmm.com
 0.0.0.0	65564535.com
 0.0.0.0	66.203.124.31
@@ -20997,6 +20998,7 @@
 0.0.0.0	emss.zjhim.com
 0.0.0.0	en.shenyun.com
 0.0.0.0	en.shenyun.org
+0.0.0.0	endlesshandbaglinked.com
 0.0.0.0	endowmentoverhangutmost.com
 0.0.0.0	endpoint.zhuishushenqi.com
 0.0.0.0	enennsa.gushiwen.cn
@@ -26566,6 +26568,7 @@
 0.0.0.0	orbit.jd.com
 0.0.0.0	orchidscape.net
 0.0.0.0	oredero.com
+0.0.0.0	orqmimfug.in
 0.0.0.0	ort-stsdk.vivo.com.cn
 0.0.0.0	ort.stsdk.vivo.com.cn
 0.0.0.0	ortc.cc
