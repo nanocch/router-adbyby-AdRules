@@ -1,7 +1,7 @@
-# Version: 2026-03-16 04:49:54
+# Version: 2026-03-16 17:36:43
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32624
+# Total domains: 32675
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13087,6 +13087,8 @@
 0.0.0.0	@@||account.dianping.com
 0.0.0.0	@@||account.wps.cn
 0.0.0.0	@@||account.xfinfr.com
+0.0.0.0	@@||account.xiaomi.com
+0.0.0.0	@@||account.youku.com
 0.0.0.0	@@||accountapi.dianping.com
 0.0.0.0	@@||accscdn.m.taobao.com
 0.0.0.0	@@||accscdn4public.m.taobao.com
@@ -13188,6 +13190,7 @@
 0.0.0.0	@@||api.coolapk.com
 0.0.0.0	@@||api.coolapk1s.com
 0.0.0.0	@@||api.crashguard.me
+0.0.0.0	@@||api.dangbei.com
 0.0.0.0	@@||api.developer.xiaomi.com
 0.0.0.0	@@||api.device.xiaomi.net
 0.0.0.0	@@||api.ds.163.com
@@ -13200,6 +13203,7 @@
 0.0.0.0	@@||api.jdl.com
 0.0.0.0	@@||api.jr.mi.com
 0.0.0.0	@@||api.kuaishouzt.com
+0.0.0.0	@@||api.kumiao.com
 0.0.0.0	@@||api.kwaizt.com
 0.0.0.0	@@||api.live.bilibili.com
 0.0.0.0	@@||api.m.jd.com
@@ -13226,6 +13230,7 @@
 0.0.0.0	@@||api.ts.feedback.qy.net
 0.0.0.0	@@||api.tuisong.baidu.com
 0.0.0.0	@@||api.tv.sohu.com
+0.0.0.0	@@||api.tv.xiaomi.com
 0.0.0.0	@@||api.twitter.com
 0.0.0.0	@@||api.union.vip.com
 0.0.0.0	@@||api.unipay.qq.com
@@ -13234,6 +13239,7 @@
 0.0.0.0	@@||api.vip.miui.com
 0.0.0.0	@@||api.weathercn.com
 0.0.0.0	@@||api.x.com
+0.0.0.0	@@||api.youku.com
 0.0.0.0	@@||api.zhihu.com
 0.0.0.0	@@||api.zhuti.xiaomi.com
 0.0.0.0	@@||api2-album.quark.cn
@@ -13253,6 +13259,7 @@
 0.0.0.0	@@||app.bilibili.com
 0.0.0.0	@@||app.biligame.com
 0.0.0.0	@@||app.chat.xiaomi.net
+0.0.0.0	@@||app.dangbei.com
 0.0.0.0	@@||app.home.360.cn
 0.0.0.0	@@||app.huabao.360.cn
 0.0.0.0	@@||app.market.xiaomi.com
@@ -13272,6 +13279,7 @@
 0.0.0.0	@@||appmsg.gzmtr.cn
 0.0.0.0	@@||apps.game.qq.com
 0.0.0.0	@@||appsec-mobile.meituan.com
+0.0.0.0	@@||appstore.pandora.xiaomi.com
 0.0.0.0	@@||appsupport.qq.com
 0.0.0.0	@@||aps.amap.com
 0.0.0.0	@@||aq.qq.com
@@ -13385,6 +13393,7 @@
 0.0.0.0	@@||cards.iqiyi.com
 0.0.0.0	@@||cardservice.openspeech.cn
 0.0.0.0	@@||care.meizu.com
+0.0.0.0	@@||cast.mi.com
 0.0.0.0	@@||castatic.fengkongcloud.com
 0.0.0.0	@@||cbg.163.com
 0.0.0.0	@@||cbu01.alicdn.com
@@ -13410,6 +13419,7 @@
 0.0.0.0	@@||cdn.iocdn.cc
 0.0.0.0	@@||cdn.jsdelivr.net
 0.0.0.0	@@||cdn.myhuaweicloud.com
+0.0.0.0	@@||cdn.pandora.xiaomi.com
 0.0.0.0	@@||cdn.pinduoduo.com
 0.0.0.0	@@||cdn.ping0.cc
 0.0.0.0	@@||cdn.plyr.io
@@ -13441,6 +13451,7 @@
 0.0.0.0	@@||chat.deepseek.com
 0.0.0.0	@@||chrome-infra-packages.appspot.com
 0.0.0.0	@@||ci.xiaohongshu.com
+0.0.0.0	@@||cibntv.net
 0.0.0.0	@@||cl2.webterren.com
 0.0.0.0	@@||clarins.com.cn
 0.0.0.0	@@||cli.im
@@ -13548,6 +13559,9 @@
 0.0.0.0	@@||computemaster.bxcearth.com
 0.0.0.0	@@||conf.hpplay.cn
 0.0.0.0	@@||config.cmpassport.com
+0.0.0.0	@@||config.dangbei.com
+0.0.0.0	@@||config.tv.xiaomi.com
+0.0.0.0	@@||config.youku.com
 0.0.0.0	@@||connect-drcn.hispace.hicloud.com
 0.0.0.0	@@||connect.intl.rom.miui.com
 0.0.0.0	@@||connect.rom.miui.com
@@ -13619,8 +13633,10 @@
 0.0.0.0	@@||d2na2p72vtqyok.cloudfront.net
 0.0.0.0	@@||da.mmarket.com
 0.0.0.0	@@||danbooru.donmai.us
+0.0.0.0	@@||dangbei.com
 0.0.0.0	@@||dashi.163.com
 0.0.0.0	@@||data.bilibili.com
+0.0.0.0	@@||data.dangbei.com
 0.0.0.0	@@||data.flurry.com
 0.0.0.0	@@||data.mistat.*xiaomi.com
 0.0.0.0	@@||data.mistat.intl.xiaomi.com
@@ -13636,6 +13652,7 @@
 0.0.0.0	@@||dd.myapp.com
 0.0.0.0	@@||ddys.pro
 0.0.0.0	@@||ddyunbo.com
+0.0.0.0	@@||de.pandora.xiaomi.com
 0.0.0.0	@@||debugtbs.qq.com
 0.0.0.0	@@||defaultts.tc.qq.com
 0.0.0.0	@@||detail.meizu.com
@@ -13669,6 +13686,7 @@
 0.0.0.0	@@||dldir1.qq.com
 0.0.0.0	@@||dldir1v6.qq.com
 0.0.0.0	@@||dldir3.qq.com
+0.0.0.0	@@||dlna.mi.com
 0.0.0.0	@@||dm.toutiao.com
 0.0.0.0	@@||dm.video.qq.com
 0.0.0.0	@@||dm1.phncdn.com
@@ -13692,11 +13710,13 @@
 0.0.0.0	@@||down-update.qq.com
 0.0.0.0	@@||down.360safe.com
 0.0.0.0	@@||down.anticheatexpert.com
+0.0.0.0	@@||down.dangbei.com
 0.0.0.0	@@||down.sandai.net
 0.0.0.0	@@||download-cdn.jetbrains.com
 0.0.0.0	@@||download-cdn.jetbrains.com.cn
 0.0.0.0	@@||download.alicdn.com
 0.0.0.0	@@||download.bitcomet.com
+0.0.0.0	@@||download.dangbei.com
 0.0.0.0	@@||download.deepseek.com
 0.0.0.0	@@||download.jetbrains.com
 0.0.0.0	@@||download.pinduoduo.com
@@ -14001,6 +14021,7 @@
 0.0.0.0	@@||hot.browser.intl.miui.com
 0.0.0.0	@@||hot.browser.miui.com
 0.0.0.0	@@||hotel.17u.cn
+0.0.0.0	@@||hpplay.cn
 0.0.0.0	@@||hr.163.com
 0.0.0.0	@@||hsforms.net
 0.0.0.0	@@||hsr.hoyoverse.com
@@ -14044,6 +14065,7 @@
 0.0.0.0	@@||icws.jb51.net
 0.0.0.0	@@||id.163.com
 0.0.0.0	@@||id.mail.wo.cn
+0.0.0.0	@@||id.mi.com
 0.0.0.0	@@||id6.me
 0.0.0.0	@@||idmb.register.xmpush.global.xiaomi.com
 0.0.0.0	@@||ietheivaicai.com
@@ -14232,6 +14254,7 @@
 0.0.0.0	@@||lc-cn-n1-shared.com
 0.0.0.0	@@||ld246.com
 0.0.0.0	@@||learn.scriptcat.org
+0.0.0.0	@@||lebo.cn
 0.0.0.0	@@||leihuo.163.com
 0.0.0.0	@@||lens.zhihu.com
 0.0.0.0	@@||lequ-qfe.iqiyi.com
@@ -14415,6 +14438,7 @@
 0.0.0.0	@@||map.qq.com
 0.0.0.0	@@||mapi.m.jd.com
 0.0.0.0	@@||market.cloud.tencent.com
+0.0.0.0	@@||market.dangbei.com
 0.0.0.0	@@||market.m.taobao.com
 0.0.0.0	@@||market.mi-img.com
 0.0.0.0	@@||market.waimai.meituan.com
@@ -14469,11 +14493,13 @@
 0.0.0.0	@@||minorshort.weixin.qq.com
 0.0.0.0	@@||mip.xiachufang.com
 0.0.0.0	@@||mipcache.bdstatic.com
+0.0.0.0	@@||miracast.mi.com
 0.0.0.0	@@||mirrors.163.com
 0.0.0.0	@@||mirrors.huaweicloud.com
 0.0.0.0	@@||missav.ai
 0.0.0.0	@@||missav.live
 0.0.0.0	@@||missav.ws
+0.0.0.0	@@||mitv.api.miui.com
 0.0.0.0	@@||mivideo.cdn.pandora.xiaomi.com
 0.0.0.0	@@||mivideo.g.mi.com
 0.0.0.0	@@||mix.sina.com.cn
@@ -14651,7 +14677,9 @@
 0.0.0.0	@@||oss.b3logfile.com
 0.0.0.0	@@||ossapi.baidu.com
 0.0.0.0	@@||ossp.voicecloud.cn
+0.0.0.0	@@||ota.tv.xiaomi.com
 0.0.0.0	@@||otheve.beacon.qq.com
+0.0.0.0	@@||ott.cibntv.net
 0.0.0.0	@@||outexp-beta.cdn.qq.com
 0.0.0.0	@@||p**-ppx.byteimg.com
 0.0.0.0	@@||p*-ecom-fe.byteimg.com
@@ -14759,6 +14787,7 @@
 0.0.0.0	@@||package.wallpaper.cdn.pandora.xiaomi.com.lan
 0.0.0.0	@@||pages.github.com
 0.0.0.0	@@||pan.quark.cn
+0.0.0.0	@@||pandora.xiaomi.com
 0.0.0.0	@@||papegames.qiyukf.com
 0.0.0.0	@@||parked-content.godaddy.com
 0.0.0.0	@@||parking.namesilo.com
@@ -14770,7 +14799,9 @@
 0.0.0.0	@@||passport.qidian.com
 0.0.0.0	@@||passport.weibo.cn
 0.0.0.0	@@||passport.weibo.com
+0.0.0.0	@@||passport.xiaomi.com
 0.0.0.0	@@||passport.youdao.com
+0.0.0.0	@@||passport.youku.com
 0.0.0.0	@@||passport.yuewen.com
 0.0.0.0	@@||patchwiki.biligame.com
 0.0.0.0	@@||pay.bilibili.com
@@ -14827,6 +14858,10 @@
 0.0.0.0	@@||pitaya.bytedance.com
 0.0.0.0	@@||pkg.biligame.com
 0.0.0.0	@@||pkg.sinaimg.cn
+0.0.0.0	@@||pl-ali.youku.com
+0.0.0.0	@@||pl-aliyun.youku.com
+0.0.0.0	@@||pl-hw.youku.com
+0.0.0.0	@@||pl-tx.youku.com
 0.0.0.0	@@||pl.taptap.cn
 0.0.0.0	@@||platform.deepseek.com
 0.0.0.0	@@||play-fe.googleapis.com
@@ -15124,8 +15159,10 @@
 0.0.0.0	@@||starlusts.com
 0.0.0.0	@@||stars.shuqireader.com
 0.0.0.0	@@||stat.api.4399.com
+0.0.0.0	@@||stat.dangbei.com
 0.0.0.0	@@||stat.funshion.com
 0.0.0.0	@@||stat.y.qq.com
+0.0.0.0	@@||stat.youku.com
 0.0.0.0	@@||stat6.y.qq.com
 0.0.0.0	@@||static-*.xvideos-cdn.com
 0.0.0.0	@@||static-cdn77.xnxx-cdn.com
@@ -15342,8 +15379,12 @@
 0.0.0.0	@@||up.cm.ksmobile.com
 0.0.0.0	@@||upage.imtt.qq.com
 0.0.0.0	@@||update.360safe.com
+0.0.0.0	@@||update.tv.xiaomi.com
 0.0.0.0	@@||updateinfo.market.xiaomi.com
+0.0.0.0	@@||upgrade.dangbei.com
 0.0.0.0	@@||upgrade.ptmi.gitv.tv
+0.0.0.0	@@||upgrade.tv.xiaomi.com
+0.0.0.0	@@||upgrade.youku.com
 0.0.0.0	@@||upload-bbs.miyoushe.com
 0.0.0.0	@@||upload-images.jianshu.io
 0.0.0.0	@@||upload.jianshu.io
@@ -15391,6 +15432,16 @@
 0.0.0.0	@@||v9-mllqsv.onewsvod.com
 0.0.0.0	@@||v9-novelapp.fqnovelvod.com
 0.0.0.0	@@||v9-x.toutiaovod.com
+0.0.0.0	@@||vali-dns.cp31.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp32.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp33.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp34.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp35.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp36.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp37.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp38.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp39.ott.cibntv.net
+0.0.0.0	@@||vali-dns.cp40.ott.cibntv.net
 0.0.0.0	@@||vali-g1.cp31.ott.cibntv.net
 0.0.0.0	@@||vali01.cp31.ott.cibntv.net
 0.0.0.0	@@||valuecommerce.com
@@ -15427,6 +15478,7 @@
 0.0.0.0	@@||view.inews.qq.com
 0.0.0.0	@@||vip-pro.m.yhd.com
 0.0.0.0	@@||vip.iqiyi.com
+0.0.0.0	@@||vip.youku.com
 0.0.0.0	@@||vip1.kuwo.cn
 0.0.0.0	@@||vjav.com
 0.0.0.0	@@||vjav0.ahcdn.com
@@ -27279,7 +27331,6 @@
 0.0.0.0	psb.lenovomm.com
 0.0.0.0	psfq.gou.sogou.com
 0.0.0.0	psma02.com
-0.0.0.0	pss.alicdn.com
 0.0.0.0	pstatp.com/growth/fe_sdk/bannersdk
 0.0.0.0	pstatp.com/toutiao/push.js
 0.0.0.0	pstun.kugou.com

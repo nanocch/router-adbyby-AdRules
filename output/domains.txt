@@ -1,14 +1,14 @@
-# Version: 2026-03-16 04:49:54
+# Version: 2026-03-16 17:36:43
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32624
+# Total domains: 32675
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 32782
-! Version: 2026-03-15 20:50:50（北京时间）
+! Total count: 32833
+! Version: 2026-03-16 10:13:35（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13087,6 +13087,8 @@
 @@||account.dianping.com
 @@||account.wps.cn
 @@||account.xfinfr.com
+@@||account.xiaomi.com
+@@||account.youku.com
 @@||accountapi.dianping.com
 @@||accscdn.m.taobao.com
 @@||accscdn4public.m.taobao.com
@@ -13188,6 +13190,7 @@
 @@||api.coolapk.com
 @@||api.coolapk1s.com
 @@||api.crashguard.me
+@@||api.dangbei.com
 @@||api.developer.xiaomi.com
 @@||api.device.xiaomi.net
 @@||api.ds.163.com
@@ -13200,6 +13203,7 @@
 @@||api.jdl.com
 @@||api.jr.mi.com
 @@||api.kuaishouzt.com
+@@||api.kumiao.com
 @@||api.kwaizt.com
 @@||api.live.bilibili.com
 @@||api.m.jd.com
@@ -13226,6 +13230,7 @@
 @@||api.ts.feedback.qy.net
 @@||api.tuisong.baidu.com
 @@||api.tv.sohu.com
+@@||api.tv.xiaomi.com
 @@||api.twitter.com
 @@||api.union.vip.com
 @@||api.unipay.qq.com
@@ -13234,6 +13239,7 @@
 @@||api.vip.miui.com
 @@||api.weathercn.com
 @@||api.x.com
+@@||api.youku.com
 @@||api.zhihu.com
 @@||api.zhuti.xiaomi.com
 @@||api2-album.quark.cn
@@ -13253,6 +13259,7 @@
 @@||app.bilibili.com
 @@||app.biligame.com
 @@||app.chat.xiaomi.net
+@@||app.dangbei.com
 @@||app.home.360.cn
 @@||app.huabao.360.cn
 @@||app.market.xiaomi.com
@@ -13272,6 +13279,7 @@
 @@||appmsg.gzmtr.cn
 @@||apps.game.qq.com
 @@||appsec-mobile.meituan.com
+@@||appstore.pandora.xiaomi.com
 @@||appsupport.qq.com
 @@||aps.amap.com
 @@||aq.qq.com
@@ -13385,6 +13393,7 @@
 @@||cards.iqiyi.com
 @@||cardservice.openspeech.cn
 @@||care.meizu.com
+@@||cast.mi.com
 @@||castatic.fengkongcloud.com
 @@||cbg.163.com
 @@||cbu01.alicdn.com
@@ -13410,6 +13419,7 @@
 @@||cdn.iocdn.cc
 @@||cdn.jsdelivr.net
 @@||cdn.myhuaweicloud.com
+@@||cdn.pandora.xiaomi.com
 @@||cdn.pinduoduo.com
 @@||cdn.ping0.cc
 @@||cdn.plyr.io
@@ -13441,6 +13451,7 @@
 @@||chat.deepseek.com
 @@||chrome-infra-packages.appspot.com
 @@||ci.xiaohongshu.com
+@@||cibntv.net
 @@||cl2.webterren.com
 @@||clarins.com.cn
 @@||cli.im
@@ -13548,6 +13559,9 @@
 @@||computemaster.bxcearth.com
 @@||conf.hpplay.cn
 @@||config.cmpassport.com
+@@||config.dangbei.com
+@@||config.tv.xiaomi.com
+@@||config.youku.com
 @@||connect-drcn.hispace.hicloud.com
 @@||connect.intl.rom.miui.com
 @@||connect.rom.miui.com
@@ -13619,8 +13633,10 @@
 @@||d2na2p72vtqyok.cloudfront.net
 @@||da.mmarket.com
 @@||danbooru.donmai.us
+@@||dangbei.com
 @@||dashi.163.com
 @@||data.bilibili.com
+@@||data.dangbei.com
 @@||data.flurry.com
 @@||data.mistat.*xiaomi.com
 @@||data.mistat.intl.xiaomi.com
@@ -13636,6 +13652,7 @@
 @@||dd.myapp.com
 @@||ddys.pro
 @@||ddyunbo.com
+@@||de.pandora.xiaomi.com
 @@||debugtbs.qq.com
 @@||defaultts.tc.qq.com
 @@||detail.meizu.com
@@ -13669,6 +13686,7 @@
 @@||dldir1.qq.com
 @@||dldir1v6.qq.com
 @@||dldir3.qq.com
+@@||dlna.mi.com
 @@||dm.toutiao.com
 @@||dm.video.qq.com
 @@||dm1.phncdn.com
@@ -13692,11 +13710,13 @@
 @@||down-update.qq.com
 @@||down.360safe.com
 @@||down.anticheatexpert.com
+@@||down.dangbei.com
 @@||down.sandai.net
 @@||download-cdn.jetbrains.com
 @@||download-cdn.jetbrains.com.cn
 @@||download.alicdn.com
 @@||download.bitcomet.com
+@@||download.dangbei.com
 @@||download.deepseek.com
 @@||download.jetbrains.com
 @@||download.pinduoduo.com
@@ -14001,6 +14021,7 @@
 @@||hot.browser.intl.miui.com
 @@||hot.browser.miui.com
 @@||hotel.17u.cn
+@@||hpplay.cn
 @@||hr.163.com
 @@||hsforms.net
 @@||hsr.hoyoverse.com
@@ -14044,6 +14065,7 @@
 @@||icws.jb51.net
 @@||id.163.com
 @@||id.mail.wo.cn
+@@||id.mi.com
 @@||id6.me
 @@||idmb.register.xmpush.global.xiaomi.com
 @@||ietheivaicai.com
@@ -14232,6 +14254,7 @@
 @@||lc-cn-n1-shared.com
 @@||ld246.com
 @@||learn.scriptcat.org
+@@||lebo.cn
 @@||leihuo.163.com
 @@||lens.zhihu.com
 @@||lequ-qfe.iqiyi.com
@@ -14415,6 +14438,7 @@
 @@||map.qq.com
 @@||mapi.m.jd.com
 @@||market.cloud.tencent.com
+@@||market.dangbei.com
 @@||market.m.taobao.com
 @@||market.mi-img.com
 @@||market.waimai.meituan.com
@@ -14469,11 +14493,13 @@
 @@||minorshort.weixin.qq.com
 @@||mip.xiachufang.com
 @@||mipcache.bdstatic.com
+@@||miracast.mi.com
 @@||mirrors.163.com
 @@||mirrors.huaweicloud.com
 @@||missav.ai
 @@||missav.live
 @@||missav.ws
+@@||mitv.api.miui.com
 @@||mivideo.cdn.pandora.xiaomi.com
 @@||mivideo.g.mi.com
 @@||mix.sina.com.cn
@@ -14651,7 +14677,9 @@
 @@||oss.b3logfile.com
 @@||ossapi.baidu.com
 @@||ossp.voicecloud.cn
+@@||ota.tv.xiaomi.com
 @@||otheve.beacon.qq.com
+@@||ott.cibntv.net
 @@||outexp-beta.cdn.qq.com
 @@||p**-ppx.byteimg.com
 @@||p*-ecom-fe.byteimg.com
@@ -14759,6 +14787,7 @@
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan
 @@||pages.github.com
 @@||pan.quark.cn
+@@||pandora.xiaomi.com
 @@||papegames.qiyukf.com
 @@||parked-content.godaddy.com
 @@||parking.namesilo.com
@@ -14770,7 +14799,9 @@
 @@||passport.qidian.com
 @@||passport.weibo.cn
 @@||passport.weibo.com
+@@||passport.xiaomi.com
 @@||passport.youdao.com
+@@||passport.youku.com
 @@||passport.yuewen.com
 @@||patchwiki.biligame.com
 @@||pay.bilibili.com
@@ -14827,6 +14858,10 @@
 @@||pitaya.bytedance.com
 @@||pkg.biligame.com
 @@||pkg.sinaimg.cn
+@@||pl-ali.youku.com
+@@||pl-aliyun.youku.com
+@@||pl-hw.youku.com
+@@||pl-tx.youku.com
 @@||pl.taptap.cn
 @@||platform.deepseek.com
 @@||play-fe.googleapis.com
@@ -15124,8 +15159,10 @@
 @@||starlusts.com
 @@||stars.shuqireader.com
 @@||stat.api.4399.com
+@@||stat.dangbei.com
 @@||stat.funshion.com
 @@||stat.y.qq.com
+@@||stat.youku.com
 @@||stat6.y.qq.com
 @@||static-*.xvideos-cdn.com
 @@||static-cdn77.xnxx-cdn.com
@@ -15342,8 +15379,12 @@
 @@||up.cm.ksmobile.com
 @@||upage.imtt.qq.com
 @@||update.360safe.com
+@@||update.tv.xiaomi.com
 @@||updateinfo.market.xiaomi.com
+@@||upgrade.dangbei.com
 @@||upgrade.ptmi.gitv.tv
+@@||upgrade.tv.xiaomi.com
+@@||upgrade.youku.com
 @@||upload-bbs.miyoushe.com
 @@||upload-images.jianshu.io
 @@||upload.jianshu.io
@@ -15391,6 +15432,16 @@
 @@||v9-mllqsv.onewsvod.com
 @@||v9-novelapp.fqnovelvod.com
 @@||v9-x.toutiaovod.com
+@@||vali-dns.cp31.ott.cibntv.net
+@@||vali-dns.cp32.ott.cibntv.net
+@@||vali-dns.cp33.ott.cibntv.net
+@@||vali-dns.cp34.ott.cibntv.net
+@@||vali-dns.cp35.ott.cibntv.net
+@@||vali-dns.cp36.ott.cibntv.net
+@@||vali-dns.cp37.ott.cibntv.net
+@@||vali-dns.cp38.ott.cibntv.net
+@@||vali-dns.cp39.ott.cibntv.net
+@@||vali-dns.cp40.ott.cibntv.net
 @@||vali-g1.cp31.ott.cibntv.net
 @@||vali01.cp31.ott.cibntv.net
 @@||valuecommerce.com
@@ -15427,6 +15478,7 @@
 @@||view.inews.qq.com
 @@||vip-pro.m.yhd.com
 @@||vip.iqiyi.com
+@@||vip.youku.com
 @@||vip1.kuwo.cn
 @@||vjav.com
 @@||vjav0.ahcdn.com
@@ -27279,7 +27331,6 @@ ps.browser.qq.com
 psb.lenovomm.com
 psfq.gou.sogou.com
 psma02.com
-pss.alicdn.com
 pstatp.com/growth/fe_sdk/bannersdk
 pstatp.com/toutiao/push.js
 pstun.kugou.com
