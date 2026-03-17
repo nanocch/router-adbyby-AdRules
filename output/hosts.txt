@@ -1,7 +1,7 @@
-# Version: 2026-03-17 17:11:44
+# Version: 2026-03-18 05:00:58
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32675
+# Total domains: 32676
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17161,6 +17161,7 @@
 0.0.0.0	ah.5l59k.com
 0.0.0.0	ah.bwaa301.icu
 0.0.0.0	ahf.bugly.qq.com
+0.0.0.0	ahfqiraq.in
 0.0.0.0	ahhuazhen.com
 0.0.0.0	ahm.jiankang123.net
 0.0.0.0	ahp10.site
