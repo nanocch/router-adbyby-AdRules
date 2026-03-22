@@ -1,7 +1,7 @@
-# Version: 2026-03-22 16:55:16
+# Version: 2026-03-23 04:48:38
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32849
+# Total domains: 32873
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13106,6 +13106,7 @@
 0.0.0.0	@@||account.agiso.com
 0.0.0.0	@@||account.dianping.com
 0.0.0.0	@@||account.oppo.com
+0.0.0.0	@@||account.realme.com
 0.0.0.0	@@||account.vivo.com
 0.0.0.0	@@||account.wps.cn
 0.0.0.0	@@||account.xfinfr.com
@@ -13247,6 +13248,7 @@
 0.0.0.0	@@||api.pxb7.com
 0.0.0.0	@@||api.pzds.com
 0.0.0.0	@@||api.qiniu.com
+0.0.0.0	@@||api.realme.com
 0.0.0.0	@@||api.revenuecat.com
 0.0.0.0	@@||api.revved.com
 0.0.0.0	@@||api.rikka.app
@@ -13343,6 +13345,7 @@
 0.0.0.0	@@||auditude.com
 0.0.0.0	@@||auth.huaweicloud.com
 0.0.0.0	@@||auth.icloud.com
+0.0.0.0	@@||auth.realme.com
 0.0.0.0	@@||auth.wosms.cn
 0.0.0.0	@@||auth.zijieapi.com
 0.0.0.0	@@||avatar.bdstatic.com
@@ -13571,6 +13574,7 @@
 0.0.0.0	@@||cloud.huawei.com
 0.0.0.0	@@||cloud.oneplus.com
 0.0.0.0	@@||cloud.oppo.com
+0.0.0.0	@@||cloud.realme.com
 0.0.0.0	@@||cloud.video.taobao.com
 0.0.0.0	@@||cloudcache.tencent-cloud.cn
 0.0.0.0	@@||cloudcontrol.live.360.cn
@@ -13926,6 +13930,7 @@
 0.0.0.0	@@||finderpdd.video.qq.com
 0.0.0.0	@@||findphone.vivo.com.cn
 0.0.0.0	@@||fino.svc.litv.tv
+0.0.0.0	@@||firmware.realme.com
 0.0.0.0	@@||flash.sec.intl.miui.com
 0.0.0.0	@@||flash.sec.miui.com
 0.0.0.0	@@||flowus.cn
@@ -14144,6 +14149,7 @@
 0.0.0.0	@@||id.mail.wo.cn
 0.0.0.0	@@||id.mi.com
 0.0.0.0	@@||id.oneplus.com
+0.0.0.0	@@||id.realme.com
 0.0.0.0	@@||id1.cloud.huawei.com
 0.0.0.0	@@||id6.me
 0.0.0.0	@@||idmb.register.xmpush.global.xiaomi.com
@@ -14421,6 +14427,7 @@
 0.0.0.0	@@||log.heytap.com
 0.0.0.0	@@||log.map.baidu.com
 0.0.0.0	@@||log.oppo.com
+0.0.0.0	@@||log.realme.com
 0.0.0.0	@@||log.snssdk.com
 0.0.0.0	@@||log.vivo.com
 0.0.0.0	@@||log1.cmpassport.com
@@ -14662,6 +14669,7 @@
 0.0.0.0	@@||msedown.360safe.com
 0.0.0.0	@@||msfwifi.3g.qq.com
 0.0.0.0	@@||msg.douyu.com
+0.0.0.0	@@||msg.realme.com
 0.0.0.0	@@||msg.video.qiyi.com
 0.0.0.0	@@||msg.vivo.com
 0.0.0.0	@@||msgacs.cn-zhangjiakou.aliyuncs.com
@@ -14791,6 +14799,7 @@
 0.0.0.0	@@||ota.coloros.com
 0.0.0.0	@@||ota.oneplus.com
 0.0.0.0	@@||ota.oppo.com
+0.0.0.0	@@||ota.realme.com
 0.0.0.0	@@||ota.tv.xiaomi.com
 0.0.0.0	@@||ota.vivo.com
 0.0.0.0	@@||otheve.beacon.qq.com
@@ -14933,6 +14942,7 @@
 0.0.0.0	@@||pay.heytap.com
 0.0.0.0	@@||pay.openspeech.cn
 0.0.0.0	@@||pay.oppo.com
+0.0.0.0	@@||pay.realme.com
 0.0.0.0	@@||pay.weixin.qq.com
 0.0.0.0	@@||payapp.weixin.qq.com
 0.0.0.0	@@||paydns.wechatpay.cn
@@ -15042,6 +15052,7 @@
 0.0.0.0	@@||push.m.youku.com
 0.0.0.0	@@||push.oppo.com
 0.0.0.0	@@||push.oray.com
+0.0.0.0	@@||push.realme.com
 0.0.0.0	@@||push.vivo.com
 0.0.0.0	@@||push1.91cloud.net
 0.0.0.0	@@||puui.qpic.cn
@@ -15132,9 +15143,11 @@
 0.0.0.0	@@||resolver*mi.com
 0.0.0.0	@@||resolver.gslb.mi-idc.com
 0.0.0.0	@@||resolver.msg.xiaomi.net
+0.0.0.0	@@||resource.realme.com
 0.0.0.0	@@||restapi.amap.com
 0.0.0.0	@@||richmedia.video.qq.com
 0.0.0.0	@@||rls.tapimg.com
+0.0.0.0	@@||rom.realme.com
 0.0.0.0	@@||router.ctc.lan
 0.0.0.0	@@||rs.xmeye.net
 0.0.0.0	@@||ru.register.xmpush.global.xiaomi.com
@@ -15215,6 +15228,7 @@
 0.0.0.0	@@||sec.resource.xiaomi.net
 0.0.0.0	@@||secrets.icloud.com
 0.0.0.0	@@||securemetrics.apple.com
+0.0.0.0	@@||security.realme.com
 0.0.0.0	@@||security.vivo.com
 0.0.0.0	@@||self.events.data.microsoft.com
 0.0.0.0	@@||sentry.zhuanzhuan.com
@@ -15307,6 +15321,7 @@
 0.0.0.0	@@||stat.api.4399.com
 0.0.0.0	@@||stat.dangbei.com
 0.0.0.0	@@||stat.funshion.com
+0.0.0.0	@@||stat.realme.com
 0.0.0.0	@@||stat.vivo.com
 0.0.0.0	@@||stat.y.qq.com
 0.0.0.0	@@||stat.youku.com
@@ -15369,7 +15384,9 @@
 0.0.0.0	@@||store.heytapimage.com
 0.0.0.0	@@||store.is.autonavi.com
 0.0.0.0	@@||store.meizu.com
+0.0.0.0	@@||store.oppo.com
 0.0.0.0	@@||store.oppomobile.com
+0.0.0.0	@@||store.realme.com
 0.0.0.0	@@||store.steamchina.com
 0.0.0.0	@@||store.steamchina.queniuam.com
 0.0.0.0	@@||store.steampowered.com
@@ -15448,6 +15465,7 @@
 0.0.0.0	@@||theme.heytap.com
 0.0.0.0	@@||theme.heytapimage.com
 0.0.0.0	@@||theme.oppo.com
+0.0.0.0	@@||theme.realme.com
 0.0.0.0	@@||theporndude.com
 0.0.0.0	@@||thirdqq.qlogo.cn
 0.0.0.0	@@||thirdwx.qlogo.cn
@@ -15539,6 +15557,8 @@
 0.0.0.0	@@||update.360safe.com
 0.0.0.0	@@||update.coloros.com
 0.0.0.0	@@||update.hicloud.com
+0.0.0.0	@@||update.oppo.com
+0.0.0.0	@@||update.realme.com
 0.0.0.0	@@||update.tv.xiaomi.com
 0.0.0.0	@@||update.vivo.com
 0.0.0.0	@@||updateinfo.market.xiaomi.com
@@ -15563,6 +15583,7 @@
 0.0.0.0	@@||url.163.com
 0.0.0.0	@@||urswebzj.nosdn.127.net
 0.0.0.0	@@||user.e.189.cn
+0.0.0.0	@@||user.realme.com
 0.0.0.0	@@||user1.game.qq.com
 0.0.0.0	@@||uxip.meizu.com
 0.0.0.0	@@||uzzf.com
@@ -15623,6 +15644,7 @@
 0.0.0.0	@@||vectorsdk.map.qq.com
 0.0.0.0	@@||venus.yhd.com
 0.0.0.0	@@||verify.cmpassport.com
+0.0.0.0	@@||verify.realme.com
 0.0.0.0	@@||verify.snssdk.com
 0.0.0.0	@@||verify.vivo.com
 0.0.0.0	@@||verify.zijieapi.com
@@ -15666,8 +15688,10 @@
 0.0.0.0	@@||waapdg.jd.com
 0.0.0.0	@@||waimai-guide.ele.me
 0.0.0.0	@@||wallet.heytap.com
+0.0.0.0	@@||wallet.realme.com
 0.0.0.0	@@||wallpaper.cdn.pandora.xiaomi.com
 0.0.0.0	@@||wallpaper.heytap.com
+0.0.0.0	@@||wallpaper.realme.com
 0.0.0.0	@@||wallpaperm.cmcm.com
 0.0.0.0	@@||wan.baidu.com
 0.0.0.0	@@||wan.douyu.com
