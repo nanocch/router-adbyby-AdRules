@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33049
-! Version: 2026-03-23 10:07:02（北京时间）
+! Total count: 33063
+! Version: 2026-03-23 21:04:55（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13429,6 +13429,7 @@
 @@||c1.skype.com
 @@||cache.ip138.com
 @@||cache.video.iqiyi.com
+@@||cache.youku.com
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com
 @@||calendars.icloud.com
 @@||callback.58.com
@@ -13709,6 +13710,7 @@
 @@||data.services.jetbrains.com
 @@||data.vivo.com
 @@||data.vod.itc.cn
+@@||data.youku.com
 @@||dataprajna.net
 @@||dc.sigmob.cn
 @@||dcloud.net.cn
@@ -13749,6 +13751,7 @@
 @@||dl.hicloud.com
 @@||dl.listary.net
 @@||dl.reg.163.com
+@@||dl.youku.com
 @@||dldir1.qq.com
 @@||dldir1v6.qq.com
 @@||dldir3.qq.com
@@ -13792,6 +13795,7 @@
 @@||download.uc.cn
 @@||download.voicecloud.cn
 @@||download.windowsupdate.com
+@@||download.youku.com
 @@||downloads.marketplace.jetbrains.com
 @@||downpack.baidu.com
 @@||downum.game.uc.cn
@@ -14434,6 +14438,7 @@
 @@||log.realme.com
 @@||log.snssdk.com
 @@||log.vivo.com
+@@||log.youku.com
 @@||log1.cmpassport.com
 @@||log5-applog-lf.fqnovel.com
 @@||log5-applog.fqnovel.com
@@ -14500,6 +14505,7 @@
 @@||m.xunlei.com
 @@||m.yjwujian.cn
 @@||m.ykimg.com
+@@||m.youku.com
 @@||m.youlai.cn
 @@||m.youtube.com
 @@||m.zhibo8.com
@@ -14676,6 +14682,7 @@
 @@||msg.realme.com
 @@||msg.video.qiyi.com
 @@||msg.vivo.com
+@@||msg.youku.com
 @@||msgacs.cn-zhangjiakou.aliyuncs.com
 @@||msgacs.m.taobao.com
 @@||msn.yidianzixun.com
@@ -14733,6 +14740,7 @@
 @@||north-plus.net
 @@||notes.icloud.com
 @@||notification.vivo.com
+@@||notify.youku.com
 @@||novelfm.changdunovel.com
 @@||novelfm.zlink.toutiao.com
 @@||now.bdstatic.com
@@ -14950,6 +14958,7 @@
 @@||pay.oppo.com
 @@||pay.realme.com
 @@||pay.weixin.qq.com
+@@||pay.youku.com
 @@||payapp.weixin.qq.com
 @@||paydns.wechatpay.cn
 @@||payment.hicloud.com
@@ -15015,6 +15024,7 @@
 @@||play.163.com
 @@||play.googleapis.com
 @@||play1.heytapimage.com
+@@||player.youku.com
 @@||plyr.io
 @@||pm.funshion.com
 @@||po.funshion.com
@@ -15060,6 +15070,7 @@
 @@||push.oray.com
 @@||push.realme.com
 @@||push.vivo.com
+@@||push.youku.com
 @@||push1.91cloud.net
 @@||puui.qpic.cn
 @@||pv.sohu.com
@@ -15116,6 +15127,7 @@
 @@||reading.snssdk.com
 @@||readstatic.zhulang.com
 @@||recmd.html5.qq.com
+@@||recommend.youku.com
 @@||redirector.gvt1.com
 @@||reg.163.com
 @@||register*mi.com
@@ -15171,6 +15183,7 @@
 @@||s.mvconf.f.360.cn
 @@||s.pximg.net
 @@||s.ssl.qhres2.com
+@@||s.youku.com
 @@||s0.2mdn.net
 @@||s0.meituan.net
 @@||s01.mifile.cn
@@ -15228,6 +15241,7 @@
 @@||se.360.cn
 @@||search.kuwo.cn
 @@||search.sogoucdn.com
+@@||search.youku.com
 @@||searchrec.marketplace-intl.huaweicloud.com
 @@||sec-cdn.static.xiaomi.net
 @@||sec.heytap.com
@@ -15273,6 +15287,7 @@
 @@||siyuannote.com
 @@||sjh.baidu.com
 @@||sjws.ssl.qihucdn.com
+@@||sky.vip.youku.com
 @@||sl.hpplay.cn
 @@||sm.cn
 @@||smart.360.cn
@@ -15606,6 +15621,7 @@
 @@||v.smtcdns.com
 @@||v.stream.qq.com
 @@||v.uc.cn
+@@||v.youku.com
 @@||v1-mllqsv.onewsvod.com
 @@||v1.jinrishici.com
 @@||v11-fq-tts.fqnovelvod.com
@@ -15681,6 +15697,8 @@
 @@||vmmp.qpic.cn
 @@||vmware.com
 @@||vod.cc.163.com
+@@||vod.youku.com
+@@||vodcdn.youku.com
 @@||vodkgeyttp8.vod.126.net
 @@||vodkgeyttp9.vod.126.net
 @@||volcengine-cache-weboffice.wpscdn.cn
@@ -15978,6 +15996,7 @@
 @@||yhd.com
 @@||yixiu-abtest.alicdn.com
 @@||ykimg.com
+@@||ykstatic.youku.com
 @@||ylog.huya.com
 @@||ym.163.com
 @@||youdata.163.com

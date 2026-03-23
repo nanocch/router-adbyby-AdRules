@@ -1,7 +1,7 @@
-# Version: 2026-03-23 17:33:19
+# Version: 2026-03-24 04:58:32
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32887
+# Total domains: 32906
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13433,6 +13433,7 @@
 0.0.0.0	@@||c1.skype.com
 0.0.0.0	@@||cache.ip138.com
 0.0.0.0	@@||cache.video.iqiyi.com
+0.0.0.0	@@||cache.youku.com
 0.0.0.0	@@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com
 0.0.0.0	@@||calendars.icloud.com
 0.0.0.0	@@||callback.58.com
@@ -13713,6 +13714,7 @@
 0.0.0.0	@@||data.services.jetbrains.com
 0.0.0.0	@@||data.vivo.com
 0.0.0.0	@@||data.vod.itc.cn
+0.0.0.0	@@||data.youku.com
 0.0.0.0	@@||dataprajna.net
 0.0.0.0	@@||dc.sigmob.cn
 0.0.0.0	@@||dcloud.net.cn
@@ -13753,6 +13755,7 @@
 0.0.0.0	@@||dl.hicloud.com
 0.0.0.0	@@||dl.listary.net
 0.0.0.0	@@||dl.reg.163.com
+0.0.0.0	@@||dl.youku.com
 0.0.0.0	@@||dldir1.qq.com
 0.0.0.0	@@||dldir1v6.qq.com
 0.0.0.0	@@||dldir3.qq.com
@@ -13796,6 +13799,7 @@
 0.0.0.0	@@||download.uc.cn
 0.0.0.0	@@||download.voicecloud.cn
 0.0.0.0	@@||download.windowsupdate.com
+0.0.0.0	@@||download.youku.com
 0.0.0.0	@@||downloads.marketplace.jetbrains.com
 0.0.0.0	@@||downpack.baidu.com
 0.0.0.0	@@||downum.game.uc.cn
@@ -14438,6 +14442,7 @@
 0.0.0.0	@@||log.realme.com
 0.0.0.0	@@||log.snssdk.com
 0.0.0.0	@@||log.vivo.com
+0.0.0.0	@@||log.youku.com
 0.0.0.0	@@||log1.cmpassport.com
 0.0.0.0	@@||log5-applog-lf.fqnovel.com
 0.0.0.0	@@||log5-applog.fqnovel.com
@@ -14504,6 +14509,7 @@
 0.0.0.0	@@||m.xunlei.com
 0.0.0.0	@@||m.yjwujian.cn
 0.0.0.0	@@||m.ykimg.com
+0.0.0.0	@@||m.youku.com
 0.0.0.0	@@||m.youlai.cn
 0.0.0.0	@@||m.youtube.com
 0.0.0.0	@@||m.zhibo8.com
@@ -14680,6 +14686,7 @@
 0.0.0.0	@@||msg.realme.com
 0.0.0.0	@@||msg.video.qiyi.com
 0.0.0.0	@@||msg.vivo.com
+0.0.0.0	@@||msg.youku.com
 0.0.0.0	@@||msgacs.cn-zhangjiakou.aliyuncs.com
 0.0.0.0	@@||msgacs.m.taobao.com
 0.0.0.0	@@||msn.yidianzixun.com
@@ -14737,6 +14744,7 @@
 0.0.0.0	@@||north-plus.net
 0.0.0.0	@@||notes.icloud.com
 0.0.0.0	@@||notification.vivo.com
+0.0.0.0	@@||notify.youku.com
 0.0.0.0	@@||novelfm.changdunovel.com
 0.0.0.0	@@||novelfm.zlink.toutiao.com
 0.0.0.0	@@||now.bdstatic.com
@@ -14954,6 +14962,7 @@
 0.0.0.0	@@||pay.oppo.com
 0.0.0.0	@@||pay.realme.com
 0.0.0.0	@@||pay.weixin.qq.com
+0.0.0.0	@@||pay.youku.com
 0.0.0.0	@@||payapp.weixin.qq.com
 0.0.0.0	@@||paydns.wechatpay.cn
 0.0.0.0	@@||payment.hicloud.com
@@ -15019,6 +15028,7 @@
 0.0.0.0	@@||play.163.com
 0.0.0.0	@@||play.googleapis.com
 0.0.0.0	@@||play1.heytapimage.com
+0.0.0.0	@@||player.youku.com
 0.0.0.0	@@||plyr.io
 0.0.0.0	@@||pm.funshion.com
 0.0.0.0	@@||po.funshion.com
@@ -15064,6 +15074,7 @@
 0.0.0.0	@@||push.oray.com
 0.0.0.0	@@||push.realme.com
 0.0.0.0	@@||push.vivo.com
+0.0.0.0	@@||push.youku.com
 0.0.0.0	@@||push1.91cloud.net
 0.0.0.0	@@||puui.qpic.cn
 0.0.0.0	@@||pv.sohu.com
@@ -15120,6 +15131,7 @@
 0.0.0.0	@@||reading.snssdk.com
 0.0.0.0	@@||readstatic.zhulang.com
 0.0.0.0	@@||recmd.html5.qq.com
+0.0.0.0	@@||recommend.youku.com
 0.0.0.0	@@||redirector.gvt1.com
 0.0.0.0	@@||reg.163.com
 0.0.0.0	@@||register*mi.com
@@ -15175,6 +15187,7 @@
 0.0.0.0	@@||s.mvconf.f.360.cn
 0.0.0.0	@@||s.pximg.net
 0.0.0.0	@@||s.ssl.qhres2.com
+0.0.0.0	@@||s.youku.com
 0.0.0.0	@@||s0.2mdn.net
 0.0.0.0	@@||s0.meituan.net
 0.0.0.0	@@||s01.mifile.cn
@@ -15232,6 +15245,7 @@
 0.0.0.0	@@||se.360.cn
 0.0.0.0	@@||search.kuwo.cn
 0.0.0.0	@@||search.sogoucdn.com
+0.0.0.0	@@||search.youku.com
 0.0.0.0	@@||searchrec.marketplace-intl.huaweicloud.com
 0.0.0.0	@@||sec-cdn.static.xiaomi.net
 0.0.0.0	@@||sec.heytap.com
@@ -15277,6 +15291,7 @@
 0.0.0.0	@@||siyuannote.com
 0.0.0.0	@@||sjh.baidu.com
 0.0.0.0	@@||sjws.ssl.qihucdn.com
+0.0.0.0	@@||sky.vip.youku.com
 0.0.0.0	@@||sl.hpplay.cn
 0.0.0.0	@@||sm.cn
 0.0.0.0	@@||smart.360.cn
@@ -15610,6 +15625,7 @@
 0.0.0.0	@@||v.smtcdns.com
 0.0.0.0	@@||v.stream.qq.com
 0.0.0.0	@@||v.uc.cn
+0.0.0.0	@@||v.youku.com
 0.0.0.0	@@||v1-mllqsv.onewsvod.com
 0.0.0.0	@@||v1.jinrishici.com
 0.0.0.0	@@||v11-fq-tts.fqnovelvod.com
@@ -15685,6 +15701,8 @@
 0.0.0.0	@@||vmmp.qpic.cn
 0.0.0.0	@@||vmware.com
 0.0.0.0	@@||vod.cc.163.com
+0.0.0.0	@@||vod.youku.com
+0.0.0.0	@@||vodcdn.youku.com
 0.0.0.0	@@||vodkgeyttp8.vod.126.net
 0.0.0.0	@@||vodkgeyttp9.vod.126.net
 0.0.0.0	@@||volcengine-cache-weboffice.wpscdn.cn
@@ -15982,6 +16000,7 @@
 0.0.0.0	@@||yhd.com
 0.0.0.0	@@||yixiu-abtest.alicdn.com
 0.0.0.0	@@||ykimg.com
+0.0.0.0	@@||ykstatic.youku.com
 0.0.0.0	@@||ylog.huya.com
 0.0.0.0	@@||ym.163.com
 0.0.0.0	@@||youdata.163.com
