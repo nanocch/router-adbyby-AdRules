@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33031
-! Version: 2026-03-22 20:48:38（北京时间）
+! Total count: 33049
+! Version: 2026-03-23 10:07:02（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13100,6 +13100,7 @@
 @@||access1.tpns.tencent.com
 @@||account.agiso.com
 @@||account.dianping.com
+@@||account.huawei.com
 @@||account.oppo.com
 @@||account.realme.com
 @@||account.vivo.com
@@ -13301,6 +13302,7 @@
 @@||appdl-2-drcn.dbankcdn.com
 @@||appdownload.alicdn.com
 @@||appgallery.hicloud.com
+@@||appgallery.huawei.com
 @@||appgoad.189.cn
 @@||appimg-drcn.dbankcdn.com
 @@||appimg.dbankcdn.com
@@ -13331,6 +13333,7 @@
 @@||assets.oneweb.mercedes-benz.com
 @@||assets.sb-cd.com
 @@||assets.youlai.cn
+@@||assistant.huawei.com
 @@||at.umeng.com
 @@||audid-api-sg.taobao.com
 @@||audid-api.taobao.com
@@ -13356,6 +13359,7 @@
 @@||b.bdstatic.com
 @@||b3log.org
 @@||b3logfile.com
+@@||backup.huawei.com
 @@||bad.news
 @@||bag.itunes.apple.com
 @@||baijiahao.baidu.com
@@ -13404,6 +13408,7 @@
 @@||broccoli.uc.cn
 @@||browser.360.cn
 @@||browser.events.data.msn.com
+@@||browser.huawei.com
 @@||browser.pipe.aria.microsoft.com
 @@||bs-origin.pull.yximgs.com
 @@||btrace.qq.com
@@ -14071,6 +14076,8 @@
 @@||hctn.nv7s.com
 @@||hdzog.ahcdn.com
 @@||hdzog.com
+@@||health.huawei.com
+@@||healthkit.huawei.com
 @@||hectorstatic.baidu.com
 @@||help.twitter.com
 @@||help.x.com
@@ -14247,6 +14254,7 @@
 @@||io75a.ocloud.heytapmobi.com
 @@||ios.bugly.qq.com
 @@||ios.crashsight.qq.com
+@@||iot.huawei.com
 @@||ip*.ahcdn.com
 @@||ip.900cha.com
 @@||ip.cn
@@ -14675,6 +14683,7 @@
 @@||msync-im1-vip6-std.easemob.com
 @@||mumu.163.com
 @@||music.163.com
+@@||music.huawei.com
 @@||mv6.music.tc.qq.com
 @@||mvconf.f.360.cn
 @@||mvod.itunes.apple.com
@@ -14935,6 +14944,7 @@
 @@||patchwiki.biligame.com
 @@||pay.bilibili.com
 @@||pay.heytap.com
+@@||pay.huawei.com
 @@||pay.openspeech.cn
 @@||pay.oppo.com
 @@||pay.realme.com
@@ -15100,6 +15110,7 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com
 @@||r5---sn-4g5ednsl.googlevideo.com
 @@||rdelivery.qq.com
+@@||read.huawei.com
 @@||reader.browser.miui.com
 @@||reading.snssdk.com
 @@||readstatic.zhulang.com
@@ -15578,6 +15589,7 @@
 @@||url.163.com
 @@||urswebzj.nosdn.127.net
 @@||user.e.189.cn
+@@||user.huawei.com
 @@||user.realme.com
 @@||user1.game.qq.com
 @@||uxip.meizu.com
@@ -15647,6 +15659,7 @@
 @@||via.placeholder.com
 @@||video.da.mgtv.com
 @@||video.goofish.com
+@@||video.huawei.com
 @@||video.kts.g.mi.com
 @@||video.twimg.com
 @@||video.zhihu.com
@@ -15698,6 +15711,7 @@
 @@||wbapp.mobile.sina.cn
 @@||wbox.sinaimg.cn
 @@||we.tl
+@@||wear.huawei.com
 @@||weatherapi.market.xiaomi.com
 @@||web.vip.miui.com
 @@||webapi.amap.com

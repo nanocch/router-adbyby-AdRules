@@ -1,7 +1,7 @@
-# Version: 2026-03-23 04:48:38
+# Version: 2026-03-23 17:33:19
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32873
+# Total domains: 32887
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13105,6 +13105,7 @@
 0.0.0.0	@@||access1.tpns.tencent.com
 0.0.0.0	@@||account.agiso.com
 0.0.0.0	@@||account.dianping.com
+0.0.0.0	@@||account.huawei.com
 0.0.0.0	@@||account.oppo.com
 0.0.0.0	@@||account.realme.com
 0.0.0.0	@@||account.vivo.com
@@ -13306,6 +13307,7 @@
 0.0.0.0	@@||appdl-2-drcn.dbankcdn.com
 0.0.0.0	@@||appdownload.alicdn.com
 0.0.0.0	@@||appgallery.hicloud.com
+0.0.0.0	@@||appgallery.huawei.com
 0.0.0.0	@@||appgoad.189.cn
 0.0.0.0	@@||appimg-drcn.dbankcdn.com
 0.0.0.0	@@||appimg.dbankcdn.com
@@ -13336,6 +13338,7 @@
 0.0.0.0	@@||assets.oneweb.mercedes-benz.com
 0.0.0.0	@@||assets.sb-cd.com
 0.0.0.0	@@||assets.youlai.cn
+0.0.0.0	@@||assistant.huawei.com
 0.0.0.0	@@||at.umeng.com
 0.0.0.0	@@||audid-api-sg.taobao.com
 0.0.0.0	@@||audid-api.taobao.com
@@ -13361,6 +13364,7 @@
 0.0.0.0	@@||b.bdstatic.com
 0.0.0.0	@@||b3log.org
 0.0.0.0	@@||b3logfile.com
+0.0.0.0	@@||backup.huawei.com
 0.0.0.0	@@||bad.news
 0.0.0.0	@@||bag.itunes.apple.com
 0.0.0.0	@@||baijiahao.baidu.com
@@ -13409,6 +13413,7 @@
 0.0.0.0	@@||broccoli.uc.cn
 0.0.0.0	@@||browser.360.cn
 0.0.0.0	@@||browser.events.data.msn.com
+0.0.0.0	@@||browser.huawei.com
 0.0.0.0	@@||browser.pipe.aria.microsoft.com
 0.0.0.0	@@||bs-origin.pull.yximgs.com
 0.0.0.0	@@||btrace.qq.com
@@ -14076,6 +14081,8 @@
 0.0.0.0	@@||hctn.nv7s.com
 0.0.0.0	@@||hdzog.ahcdn.com
 0.0.0.0	@@||hdzog.com
+0.0.0.0	@@||health.huawei.com
+0.0.0.0	@@||healthkit.huawei.com
 0.0.0.0	@@||hectorstatic.baidu.com
 0.0.0.0	@@||help.twitter.com
 0.0.0.0	@@||help.x.com
@@ -14252,6 +14259,7 @@
 0.0.0.0	@@||io75a.ocloud.heytapmobi.com
 0.0.0.0	@@||ios.bugly.qq.com
 0.0.0.0	@@||ios.crashsight.qq.com
+0.0.0.0	@@||iot.huawei.com
 0.0.0.0	@@||ip*.ahcdn.com
 0.0.0.0	@@||ip.900cha.com
 0.0.0.0	@@||ip.cn
@@ -14680,6 +14688,7 @@
 0.0.0.0	@@||msync-im1-vip6-std.easemob.com
 0.0.0.0	@@||mumu.163.com
 0.0.0.0	@@||music.163.com
+0.0.0.0	@@||music.huawei.com
 0.0.0.0	@@||mv6.music.tc.qq.com
 0.0.0.0	@@||mvconf.f.360.cn
 0.0.0.0	@@||mvod.itunes.apple.com
@@ -14940,6 +14949,7 @@
 0.0.0.0	@@||patchwiki.biligame.com
 0.0.0.0	@@||pay.bilibili.com
 0.0.0.0	@@||pay.heytap.com
+0.0.0.0	@@||pay.huawei.com
 0.0.0.0	@@||pay.openspeech.cn
 0.0.0.0	@@||pay.oppo.com
 0.0.0.0	@@||pay.realme.com
@@ -15105,6 +15115,7 @@
 0.0.0.0	@@||r4---sn-qxo7rn7e.googlevideo.com
 0.0.0.0	@@||r5---sn-4g5ednsl.googlevideo.com
 0.0.0.0	@@||rdelivery.qq.com
+0.0.0.0	@@||read.huawei.com
 0.0.0.0	@@||reader.browser.miui.com
 0.0.0.0	@@||reading.snssdk.com
 0.0.0.0	@@||readstatic.zhulang.com
@@ -15583,6 +15594,7 @@
 0.0.0.0	@@||url.163.com
 0.0.0.0	@@||urswebzj.nosdn.127.net
 0.0.0.0	@@||user.e.189.cn
+0.0.0.0	@@||user.huawei.com
 0.0.0.0	@@||user.realme.com
 0.0.0.0	@@||user1.game.qq.com
 0.0.0.0	@@||uxip.meizu.com
@@ -15652,6 +15664,7 @@
 0.0.0.0	@@||via.placeholder.com
 0.0.0.0	@@||video.da.mgtv.com
 0.0.0.0	@@||video.goofish.com
+0.0.0.0	@@||video.huawei.com
 0.0.0.0	@@||video.kts.g.mi.com
 0.0.0.0	@@||video.twimg.com
 0.0.0.0	@@||video.zhihu.com
@@ -15703,6 +15716,7 @@
 0.0.0.0	@@||wbapp.mobile.sina.cn
 0.0.0.0	@@||wbox.sinaimg.cn
 0.0.0.0	@@||we.tl
+0.0.0.0	@@||wear.huawei.com
 0.0.0.0	@@||weatherapi.market.xiaomi.com
 0.0.0.0	@@||web.vip.miui.com
 0.0.0.0	@@||webapi.amap.com
