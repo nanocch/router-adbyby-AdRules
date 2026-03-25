@@ -1,7 +1,7 @@
-# Version: 2026-03-25 17:11:51
+# Version: 2026-03-26 04:58:28
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32965
+# Total domains: 32964
 
 0.0.0.0	!
 0.0.0.0	!
@@ -30677,7 +30677,6 @@
 0.0.0.0	unjs.jfcdns.com
 0.0.0.0	unjs.jingyanben.com
 0.0.0.0	unlitui.com
-0.0.0.0	unpkg.com
 0.0.0.0	unpkg.com/aladug/*.js
 0.0.0.0	unpleasantconcrete.com
 0.0.0.0	unreshiramor.com

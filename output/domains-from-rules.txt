@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33122
-! Version: 2026-03-25 10:04:57（北京时间）
+! Total count: 33121
+! Version: 2026-03-25 21:07:15（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -30673,7 +30673,6 @@ unjld.com
 unjs.jfcdns.com
 unjs.jingyanben.com
 unlitui.com
-unpkg.com
 unpkg.com/aladug/*.js
 unpleasantconcrete.com
 unreshiramor.com
