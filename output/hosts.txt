@@ -1,7 +1,7 @@
-# Version: 2026-03-25 05:00:16
+# Version: 2026-03-25 17:11:51
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32967
+# Total domains: 32965
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13791,7 +13791,6 @@
 0.0.0.0	@@||dorado.xiaojukeji.com
 0.0.0.0	@@||doris.yidianzixun.com
 0.0.0.0	@@||dot.360.cn
-0.0.0.0	@@||doubleclick.net
 0.0.0.0	@@||douyincdn.com
 0.0.0.0	@@||down-update.qq.com
 0.0.0.0	@@||down.360safe.com
@@ -13954,7 +13953,6 @@
 0.0.0.0	@@||findphone.vivo.com.cn
 0.0.0.0	@@||fino.svc.litv.tv
 0.0.0.0	@@||firebase.googleapis.com
-0.0.0.0	@@||firebaseio.com
 0.0.0.0	@@||firmware.realme.com
 0.0.0.0	@@||flash.sec.intl.miui.com
 0.0.0.0	@@||flash.sec.miui.com

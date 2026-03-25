@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33124
-! Version: 2026-03-24 21:09:02（北京时间）
+! Total count: 33122
+! Version: 2026-03-25 10:04:57（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13787,7 +13787,6 @@
 @@||dorado.xiaojukeji.com
 @@||doris.yidianzixun.com
 @@||dot.360.cn
-@@||doubleclick.net
 @@||douyincdn.com
 @@||down-update.qq.com
 @@||down.360safe.com
@@ -13950,7 +13949,6 @@
 @@||findphone.vivo.com.cn
 @@||fino.svc.litv.tv
 @@||firebase.googleapis.com
-@@||firebaseio.com
 @@||firmware.realme.com
 @@||flash.sec.intl.miui.com
 @@||flash.sec.miui.com
