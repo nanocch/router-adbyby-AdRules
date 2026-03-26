@@ -1,7 +1,7 @@
-# Version: 2026-03-26 17:30:56
+# Version: 2026-03-27 04:54:55
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32964
+# Total domains: 32973
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12466,6 +12466,7 @@
 0.0.0.0	4242jj.com
 0.0.0.0	4242lll.com
 0.0.0.0	4242uuu.com
+0.0.0.0	429:
 0.0.0.0	42trck.com
 0.0.0.0	42yenxh.cn
 0.0.0.0	43.159.198.195
@@ -13596,6 +13597,7 @@
 0.0.0.0	@@||cloudcontrol.live.360.cn
 0.0.0.0	@@||cloudflare-dns.com
 0.0.0.0	@@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
+0.0.0.0	@@||cloudflareinsights.com
 0.0.0.0	@@||cloudpush.aliyuncs.com
 0.0.0.0	@@||cm-10-*.getui.com
 0.0.0.0	@@||cm-h.phncdn.com
@@ -15630,6 +15632,7 @@
 0.0.0.0	@@||union-click.jd.com
 0.0.0.0	@@||union.jd.com
 0.0.0.0	@@||unisdk.update.netease.com
+0.0.0.0	@@||unpkg.com
 0.0.0.0	@@||unpkg.zhimg.com
 0.0.0.0	@@||uop.quark.cn
 0.0.0.0	@@||up.cm.ksmobile.com
@@ -16095,6 +16098,14 @@
 0.0.0.0	@@||zodgame.xyz
 0.0.0.0	@@||ztgame.com
 0.0.0.0	@adsmogo.com
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
+0.0.0.0	For
 0.0.0.0	Media.net
 0.0.0.0	Mplay/kk1.js
 0.0.0.0	[个人合并
@@ -16432,7 +16443,6 @@
 0.0.0.0	ad-sdk.lenovomm.com
 0.0.0.0	ad-sh-sz-zb.wagbridge.tanx.alimama.com
 0.0.0.0	ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com
-0.0.0.0	ad-sign.byteimg.com
 0.0.0.0	ad-specs.guoshipartners.com
 0.0.0.0	ad-splash-tracking.hktvmall.com
 0.0.0.0	ad-splash.hktvmall.com
@@ -32966,4 +32976,3 @@
 0.0.0.0	zzzzz4.52896368.com
 0.0.0.0	‖*.chat.bilibili.com
 0.0.0.0	奥门广场.com
-0.0.0.0	﻿#版本：2.9

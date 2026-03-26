@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33121
-! Version: 2026-03-26 10:10:23（北京时间）
+! Total count: 33130
+! Version: 2026-03-26 21:13:17（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -12462,6 +12462,7 @@
 4242jj.com
 4242lll.com
 4242uuu.com
+429: Too Many Requests
 42trck.com
 42yenxh.cn
 43.159.198.195
@@ -13592,6 +13593,7 @@
 @@||cloudcontrol.live.360.cn
 @@||cloudflare-dns.com
 @@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
+@@||cloudflareinsights.com
 @@||cloudpush.aliyuncs.com
 @@||cm-10-*.getui.com
 @@||cm-h.phncdn.com
@@ -15626,6 +15628,7 @@
 @@||union-click.jd.com
 @@||union.jd.com
 @@||unisdk.update.netease.com
+@@||unpkg.com
 @@||unpkg.zhimg.com
 @@||uop.quark.cn
 @@||up.cm.ksmobile.com
@@ -16091,6 +16094,14 @@
 @@||zodgame.xyz
 @@||ztgame.com
 @adsmogo.com
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).! Description: 反馈群538268498
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).! Title: LWJ's black list
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).! Title: 黑名单补充
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).#************************************************************************#
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).#————SM广告丟那吗hosts————
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).[Adblock Plus 2.0]
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).||ad-sign.byteimg.com
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).﻿#版本：2.9
 Media.net
 Mplay/kk1.js
 [个人合并 2.0]
@@ -16428,7 +16439,6 @@ ad-sdk.huxiu.com
 ad-sdk.lenovomm.com
 ad-sh-sz-zb.wagbridge.tanx.alimama.com
 ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com
-ad-sign.byteimg.com
 ad-specs.guoshipartners.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
@@ -32962,4 +32972,3 @@ zzztl.com
 zzzzz4.52896368.com
 ‖*.chat.bilibili.com
 奥门广场.com
-﻿#版本：2.9
