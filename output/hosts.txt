@@ -1,4 +1,4 @@
-# Version: 2026-03-27 17:11:03
+# Version: 2026-03-28 05:01:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 32968
@@ -13494,6 +13494,7 @@
 0.0.0.0	@@||cdn.webclicks24.com
 0.0.0.0	@@||cdn.wtzw.com
 0.0.0.0	@@||cdn.ynuf.aliapp.org
+0.0.0.0	@@||cdn.yyb.gtimg.com
 0.0.0.0	@@||cdn1-smallimg.phncdn.com
 0.0.0.0	@@||cdn1d-static-shared.phncdn.com
 0.0.0.0	@@||cdn2.jianshu.io
@@ -13603,6 +13604,7 @@
 0.0.0.0	@@||cm.bilibili.com
 0.0.0.0	@@||cms-assets.unrealengine.com
 0.0.0.0	@@||cms-bucket.ws.126.net
+0.0.0.0	@@||cms.myapp.com
 0.0.0.0	@@||cmshow.qq.com
 0.0.0.0	@@||cmts.iqiyi.com
 0.0.0.0	@@||cn-*.bilivideo.cn
@@ -19364,7 +19366,6 @@
 0.0.0.0	cdn.xinstall.com
 0.0.0.0	cdn.ynuf.aliapp.org
 0.0.0.0	cdn.yunliunet.com
-0.0.0.0	cdn.yyb.gtimg.com
 0.0.0.0	cdn.zampda.net
 0.0.0.0	cdn.zampdsp.com
 0.0.0.0	cdn0.mobmore.com
@@ -19659,7 +19660,6 @@
 0.0.0.0	cmpxaup.cn
 0.0.0.0	cms.an.m.liebao.cn
 0.0.0.0	cms.laifeng.com
-0.0.0.0	cms.myapp.com
 0.0.0.0	cms.quantserve.com
 0.0.0.0	cmsapi.wifi8.com
 0.0.0.0	cmshow.gtimg.cn

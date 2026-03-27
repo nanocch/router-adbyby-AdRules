@@ -1,4 +1,4 @@
-# Version: 2026-03-27 17:11:03
+# Version: 2026-03-28 05:01:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 32968
@@ -7,8 +7,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33125
-! Version: 2026-03-27 10:11:29（北京时间）
+! Total count: 33126
+! Version: 2026-03-27 21:03:46（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13494,6 +13494,7 @@
 @@||cdn.webclicks24.com
 @@||cdn.wtzw.com
 @@||cdn.ynuf.aliapp.org
+@@||cdn.yyb.gtimg.com
 @@||cdn1-smallimg.phncdn.com
 @@||cdn1d-static-shared.phncdn.com
 @@||cdn2.jianshu.io
@@ -13603,6 +13604,7 @@
 @@||cm.bilibili.com
 @@||cms-assets.unrealengine.com
 @@||cms-bucket.ws.126.net
+@@||cms.myapp.com
 @@||cmshow.qq.com
 @@||cmts.iqiyi.com
 @@||cn-*.bilivideo.cn
@@ -19364,7 +19366,6 @@ cdn.xianliao.me
 cdn.xinstall.com
 cdn.ynuf.aliapp.org
 cdn.yunliunet.com
-cdn.yyb.gtimg.com
 cdn.zampda.net
 cdn.zampdsp.com
 cdn0.mobmore.com
@@ -19659,7 +19660,6 @@ cmpp.gentags.net
 cmpxaup.cn
 cms.an.m.liebao.cn
 cms.laifeng.com
-cms.myapp.com
 cms.quantserve.com
 cmsapi.wifi8.com
 cmshow.gtimg.cn
