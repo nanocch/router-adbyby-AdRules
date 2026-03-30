@@ -1,4 +1,4 @@
-# Version: 2026-03-30 17:51:54
+# Version: 2026-03-31 05:05:08
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 32968
@@ -8,7 +8,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 33126
-! Version: 2026-03-30 10:24:36（北京时间）
+! Version: 2026-03-30 21:16:32（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
