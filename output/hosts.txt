@@ -1,7 +1,7 @@
-# Version: 2026-04-05 04:53:36
+# Version: 2026-04-05 17:03:37
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33354
+# Total domains: 33355
 
 0.0.0.0	!
 0.0.0.0	!
@@ -15019,6 +15019,7 @@
 0.0.0.0	@@||parking.namesilo.com
 0.0.0.0	@@||party.163.com
 0.0.0.0	@@||passport.360.cn
+0.0.0.0	@@||passport.baidu.com
 0.0.0.0	@@||passport.bilibili.com
 0.0.0.0	@@||passport.doubao.com
 0.0.0.0	@@||passport.goofish.com
