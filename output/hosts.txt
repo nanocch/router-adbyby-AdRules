@@ -1,7 +1,7 @@
-# Version: 2026-04-07 17:40:09
+# Version: 2026-04-08 05:06:51
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33355
+# Total domains: 33356
 
 0.0.0.0	!
 0.0.0.0	!
@@ -26355,6 +26355,7 @@
 0.0.0.0	mobile-service.segment.com
 0.0.0.0	mobile.baidu.com##SECTION.detail-banner.banner-ck
 0.0.0.0	mobile.da.mgtv.com
+0.0.0.0	mobile.events.data.microsoft.com
 0.0.0.0	mobile.launchdarkly.com
 0.0.0.0	mobile.yangkeduo.com
 0.0.0.0	mobile2.da.mgtv.com
