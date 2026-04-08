@@ -1,7 +1,7 @@
-# Version: 2026-04-08 17:40:50
+# Version: 2026-04-09 05:05:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33357
+# Total domains: 33359
 
 0.0.0.0	!
 0.0.0.0	!
@@ -21785,6 +21785,7 @@
 0.0.0.0	falundata.com
 0.0.0.0	falundata.org
 0.0.0.0	familydoctor.com.cn##IFRAME[width='400']
+0.0.0.0	familydoctor.com.cn/c/a/000/ggw_
 0.0.0.0	familyincloud.com
 0.0.0.0	famorlymal.com
 0.0.0.0	fan-yong.com
@@ -32197,6 +32198,7 @@
 0.0.0.0	xf.yellowto.com
 0.0.0.0	xfacai103.wuuorz.cn
 0.0.0.0	xfgctg.com
+0.0.0.0	xfidfuxidr.in
 0.0.0.0	xfiwpoj.icu
 0.0.0.0	xflsj.com
 0.0.0.0	xfo.monesyy.com
