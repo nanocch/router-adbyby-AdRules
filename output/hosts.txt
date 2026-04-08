@@ -1,7 +1,7 @@
-# Version: 2026-04-08 05:06:51
+# Version: 2026-04-08 17:40:50
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33356
+# Total domains: 33357
 
 0.0.0.0	!
 0.0.0.0	!
@@ -15216,6 +15216,7 @@
 0.0.0.0	@@||readstatic.zhulang.com
 0.0.0.0	@@||recmd.html5.qq.com
 0.0.0.0	@@||recommend.youku.com
+0.0.0.0	@@||redditmedia.com
 0.0.0.0	@@||redirector.gvt1.com
 0.0.0.0	@@||reg.163.com
 0.0.0.0	@@||register*mi.com
