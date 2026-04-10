@@ -1,7 +1,7 @@
-# Version: 2026-04-10 17:42:33
+# Version: 2026-04-11 04:59:54
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33424
+# Total domains: 33440
 
 0.0.0.0	!
 0.0.0.0	!
@@ -162,6 +162,7 @@
 0.0.0.0	*.ochhnea.xyz
 0.0.0.0	*.ombuw.xyz
 0.0.0.0	*.oneliner.cn
+0.0.0.0	*.org/config/v7.js
 0.0.0.0	*.oweisik.top
 0.0.0.0	*.p2p.huya.com
 0.0.0.0	*.p3q0tt.com
@@ -434,6 +435,7 @@
 0.0.0.0	/bytedance.*/
 0.0.0.0	/bytegoofy.*/
 0.0.0.0	/byteorge.*/
+0.0.0.0	/config/tj.js
 0.0.0.0	/css/ad.
 0.0.0.0	/delivery/afr.
 0.0.0.0	/dibu.adadadad
@@ -447,6 +449,7 @@
 0.0.0.0	/hm/ytymer?x=
 0.0.0.0	/ht.js?site_
 0.0.0.0	/index.html?channelCode=
+0.0.0.0	/js/0x1a2b3c4d.js
 0.0.0.0	/js/ads
 0.0.0.0	/js/gd.js
 0.0.0.0	/js/gg123/*
@@ -454,6 +457,7 @@
 0.0.0.0	/js/htmlka.js
 0.0.0.0	/js/htmlkb.js
 0.0.0.0	/js/htmlkc.js
+0.0.0.0	/js/j*s*r*u*n*n*e*r.js$~third-party
 0.0.0.0	/js/js4.js
 0.0.0.0	/js/kaixin.js
 0.0.0.0	/js/lmdas.js
@@ -18643,6 +18647,7 @@
 0.0.0.0	baiwanchuangyi.com
 0.0.0.0	baiwb.com
 0.0.0.0	baiyishaonian.cn
+0.0.0.0	bajielm.com
 0.0.0.0	bal113.rhdej.cn
 0.0.0.0	bali351.leeuvl.cn
 0.0.0.0	bam-cell.nr-data.net
@@ -19690,6 +19695,7 @@
 0.0.0.0	cheh9k4t.com
 0.0.0.0	chemdraw.com
 0.0.0.0	chemdraw.com.cn
+0.0.0.0	chemist68.top
 0.0.0.0	chen-xing/figure_bed*
 0.0.0.0	chengadx.com
 0.0.0.0	chenggao.cn
@@ -23707,6 +23713,7 @@
 0.0.0.0	imgg.mgid.com
 0.0.0.0	imgp.cymzc.com
 0.0.0.0	imgpublic.ycomesc.live
+0.0.0.0	imgsdy8iyf8723y97g.top
 0.0.0.0	imgsreview.dftoutiao.com
 0.0.0.0	imgur.com##.Ad.sas.Smart
 0.0.0.0	imgwdyey.com
@@ -24217,6 +24224,7 @@
 0.0.0.0	jjhd47.115seo.com
 0.0.0.0	jjjak.com
 0.0.0.0	jjjcyjj.cn
+0.0.0.0	jjjxsw.com/js/common.*
 0.0.0.0	jjkiahh.icu
 0.0.0.0	jjklrcw.com
 0.0.0.0	jjtyss.com##ins[class],.myui-player.clearfix
@@ -25231,6 +25239,7 @@
 0.0.0.0	lmlt.socket.tw
 0.0.0.0	lmltapi.socket.tw
 0.0.0.0	lmnpd.xyz
+0.0.0.0	lmtjapi.com
 0.0.0.0	lmwap.awtks.com
 0.0.0.0	lmx7.com
 0.0.0.0	lmxxxz.com
@@ -26972,6 +26981,7 @@
 0.0.0.0	npdaqy6x1j.me
 0.0.0.0	npftmqv.cn
 0.0.0.0	nphqw.cn
+0.0.0.0	npzc1yzag7.com
 0.0.0.0	nqdufv.xyz
 0.0.0.0	nqoxurf.icu
 0.0.0.0	nr-data.net
@@ -28603,6 +28613,7 @@
 0.0.0.0	report.tencentmusic.com
 0.0.0.0	report.tv.kohesport.qq.com
 0.0.0.0	report.vip.qq.com
+0.0.0.0	report123.help
 0.0.0.0	reportlog.dftoutiao.com
 0.0.0.0	reports.crashlytics.com
 0.0.0.0	repyua.com
@@ -30862,6 +30873,7 @@
 0.0.0.0	txt.go.sohu.com
 0.0.0.0	txtad.jijiplayer.com
 0.0.0.0	txtyuzhaiwu.com/astyle/wap.js
+0.0.0.0	txutayo.com
 0.0.0.0	txx99.top
 0.0.0.0	ty8bz.com
 0.0.0.0	tyaqy.m.cn.miaozhen.com
@@ -31242,6 +31254,7 @@
 0.0.0.0	utility.baidu.com
 0.0.0.0	utility.rogersmedia.com
 0.0.0.0	utk.baidu.com
+0.0.0.0	utmtmkfjbitxzlhijfce.top
 0.0.0.0	utoken.umeng.com
 0.0.0.0	utp-dmp.ucweb.com
 0.0.0.0	utp.ucweb.com
@@ -32069,6 +32082,7 @@
 0.0.0.0	wubizigeng.com
 0.0.0.0	wudang05.com
 0.0.0.0	wuk.91c0218.top
+0.0.0.0	wukongtongji.com
 0.0.0.0	wuliao.epro.sogou.com
 0.0.0.0	wuliao.ganji.cn
 0.0.0.0	wuliao.jingyanben.com
@@ -32448,6 +32462,7 @@
 0.0.0.0	xn--49s928hlshoya.cn
 0.0.0.0	xn--521-x72fh66s.cn
 0.0.0.0	xn--6dcm9jb.xn--gecrj9c
+0.0.0.0	xn--9krv3x413bbyb.com
 0.0.0.0	xn--blqw4qdtj1zl4x4c.net
 0.0.0.0	xn--bqro42frpg5up.cn
 0.0.0.0	xn--gov-x68dy61b.shop
@@ -32822,6 +32837,7 @@
 0.0.0.0	ymima360.com
 0.0.0.0	ymm17.cc
 0.0.0.0	ymm19.cc
+0.0.0.0	ymmiyun.com
 0.0.0.0	ymrz581.com
 0.0.0.0	ymrzr.com
 0.0.0.0	ymyile.xyz
