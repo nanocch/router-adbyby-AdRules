@@ -1,4 +1,4 @@
-# Version: 2026-04-11 17:05:11
+# Version: 2026-04-12 04:56:13
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 33440
@@ -13436,6 +13436,7 @@
 0.0.0.0	@@||c.58cdn.com.cn
 0.0.0.0	@@||c.duomai.com
 0.0.0.0	@@||c.evidon.com
+0.0.0.0	@@||c.fa.jd.com
 0.0.0.0	@@||c.fantia.jp
 0.0.0.0	@@||c.gj.qq.com
 0.0.0.0	@@||c.pc.qq.com
@@ -13868,6 +13869,7 @@
 0.0.0.0	@@||duote.com
 0.0.0.0	@@||dw-data-channel.quark.cn
 0.0.0.0	@@||dw.uptodown.com
+0.0.0.0	@@||dwz.cn
 0.0.0.0	@@||dx.10086.cn
 0.0.0.0	@@||dxx.wwwtop.top
 0.0.0.0	@@||dxy.com
@@ -16377,7 +16379,6 @@
 0.0.0.0	a8.obihiro-butaichi.jp
 0.0.0.0	a8age.com
 0.0.0.0	a8clk.shop.shareme.jp
-0.0.0.0	a8clk.www.jaf.or.jp
 0.0.0.0	a8cv.bonaventura.shop
 0.0.0.0	a8cv.udition.jp
 0.0.0.0	a8lp-tebiki.e-sogi.com
@@ -21201,7 +21202,6 @@
 0.0.0.0	dwin1.com
 0.0.0.0	dwuupq.com
 0.0.0.0	dwyngjb.icu
-0.0.0.0	dwz.cn
 0.0.0.0	dx1200.com
 0.0.0.0	dxlxjvmo.icu
 0.0.0.0	dxp.baidu.com
