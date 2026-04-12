@@ -1,7 +1,7 @@
-# Version: 2026-04-12 17:08:33
+# Version: 2026-04-13 04:59:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33440
+# Total domains: 33442
 
 0.0.0.0	!
 0.0.0.0	!
@@ -22076,6 +22076,7 @@
 0.0.0.0	fota4.adups.cn
 0.0.0.0	fotao9.com
 0.0.0.0	founseezb.cn
+0.0.0.0	fourier.alibaba.com
 0.0.0.0	fourier.taobao.com
 0.0.0.0	fourlaile.com
 0.0.0.0	fozhu.rrsdl.com
@@ -26155,6 +26156,7 @@
 0.0.0.0	mediaplex.com
 0.0.0.0	mediapro.pro.cn
 0.0.0.0	mediav.com
+0.0.0.0	mediav.com$third-party
 0.0.0.0	mediavisor.doubleclick.net
 0.0.0.0	medium.com##.m,
 0.0.0.0	medproad.com
