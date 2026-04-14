@@ -1,7 +1,7 @@
-# Version: 2026-04-14 17:52:56
+# Version: 2026-04-15 05:10:35
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33500
+# Total domains: 33509
 
 0.0.0.0	!
 0.0.0.0	!
@@ -327,8 +327,10 @@
 0.0.0.0	.com/xz/*?token8=
 0.0.0.0	.com:*.js?v=17*$third-party
 0.0.0.0	.com:*/api/v4/*?*=$third-party
+0.0.0.0	.com:*/bug?*=$third-party
 0.0.0.0	.com:*/cc/*?is_not=*&target=*
 0.0.0.0	.com:*/d/*?c=*$third-party
+0.0.0.0	.com:*/d/*?t=
 0.0.0.0	.com:*/sc/*?n=$third-party
 0.0.0.0	.com:10446/*/get*.html
 0.0.0.0	.com:7891/stats$third-party
@@ -500,6 +502,8 @@
 0.0.0.0	/theme/damn_b.js$~third-party
 0.0.0.0	/tj/tongji.js?v=$third-party
 0.0.0.0	/tjjs.js
+0.0.0.0	/tong*ji.js
+0.0.0.0	/tongji/ad.js
 0.0.0.0	/v0/amp-addthis-*.js
 0.0.0.0	/v2/stats/1*/1*$third-party
 0.0.0.0	/v2/stats/9*$third-party
@@ -20270,6 +20274,7 @@
 0.0.0.0	creative.jdkic.com
 0.0.0.0	creative.ltheanine.cn
 0.0.0.0	creative.medproad.com
+0.0.0.0	creative.myavlive.com
 0.0.0.0	creatives.cliphunter.com
 0.0.0.0	creatives.ftchinese.com
 0.0.0.0	creatives.inmotionhosting.com
@@ -21608,6 +21613,7 @@
 0.0.0.0	edge.sharethis.com
 0.0.0.0	edge.wshttpdns.com
 0.0.0.0	edge.yunjiasu.com
+0.0.0.0	edgelib.net
 0.0.0.0	edigitalsurvey.com
 0.0.0.0	ediuschina.com
 0.0.0.0	edncui.net
@@ -22577,6 +22583,7 @@
 0.0.0.0	go.skimresources.com
 0.0.0.0	go.sohu.com
 0.0.0.0	go.util.zlibs.com
+0.0.0.0	go.xlivrdr.com
 0.0.0.0	go2click.online
 0.0.0.0	go2cloud.org
 0.0.0.0	goblin.hupu.com
@@ -26391,6 +26398,7 @@
 0.0.0.0	misc.wcd.qq.com
 0.0.0.0	misc.weshineapp.com
 0.0.0.0	mishop.pandora.xiaomi.com
+0.0.0.0	missav.*/pop?url=
 0.0.0.0	missav.com/pop?url=
 0.0.0.0	mission-pub.smart-tv.cn
 0.0.0.0	mistat.xiaomi.com
@@ -33491,6 +33499,7 @@
 0.0.0.0	zzrjdp.xyz
 0.0.0.0	zzsx8.com
 0.0.0.0	zztxr.cn
+0.0.0.0	zzuccikqt.com
 0.0.0.0	zzxedr.xyz
 0.0.0.0	zzxlhwyp.com
 0.0.0.0	zzy.mipujia.com
