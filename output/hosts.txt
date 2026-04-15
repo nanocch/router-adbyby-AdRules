@@ -1,7 +1,7 @@
-# Version: 2026-04-15 17:53:58
+# Version: 2026-04-16 05:10:44
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33510
+# Total domains: 33509
 
 0.0.0.0	!
 0.0.0.0	!
@@ -20009,7 +20009,6 @@
 0.0.0.0	cnwimk.xn--mnqs5g04o2ng.com
 0.0.0.0	cnxad.com
 0.0.0.0	cnxad.net
-0.0.0.0	cnxgct.com###interstitial_fade
 0.0.0.0	cnzhqs.com
 0.0.0.0	cnzz.cn
 0.0.0.0	cnzz.com
