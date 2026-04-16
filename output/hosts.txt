@@ -1,4 +1,4 @@
-# Version: 2026-04-16 17:52:50
+# Version: 2026-04-17 05:06:59
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 33509
