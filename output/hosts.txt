@@ -1,7 +1,7 @@
-# Version: 2026-04-18 17:08:15
+# Version: 2026-04-19 04:59:27
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33509
+# Total domains: 33511
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17857,6 +17857,7 @@
 0.0.0.0	analytics.adjust.cn
 0.0.0.0	analytics.amplitude.com
 0.0.0.0	analytics.google.com
+0.0.0.0	analytics.immersivetranslate.com
 0.0.0.0	analytics.libertymutual.com.edgekey.net
 0.0.0.0	analytics.map.qq.com
 0.0.0.0	analytics.meituan.net
@@ -28038,6 +28039,7 @@
 0.0.0.0	prodigalpromotion.com
 0.0.0.0	proesh.com
 0.0.0.0	profile.ssp.rambler.ru
+0.0.0.0	profitablecpmratenetwork.com
 0.0.0.0	projectwonderful.com
 0.0.0.0	prokyrn.icu
 0.0.0.0	prom.b.qq.com
