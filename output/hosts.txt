@@ -1,7 +1,7 @@
-# Version: 2026-04-19 17:10:29
+# Version: 2026-04-20 05:00:11
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33511
+# Total domains: 33513
 
 0.0.0.0	!
 0.0.0.0	!
@@ -14294,6 +14294,7 @@
 0.0.0.0	@@||img-hw.xvideos-cdn.com
 0.0.0.0	@@||img-l3.xnxx-cdn.com
 0.0.0.0	@@||img-l3.xvideos-cdn.com
+0.0.0.0	@@||img-vip-ssl.a.88cdn.com
 0.0.0.0	@@||img.360kuai.com
 0.0.0.0	@@||img.alicdn.com
 0.0.0.0	@@||img.client.10010.com
@@ -15343,6 +15344,7 @@
 0.0.0.0	@@||res.openinstall.com
 0.0.0.0	@@||res.oplist.org
 0.0.0.0	@@||res.oplist.org.cn
+0.0.0.0	@@||res.qhmsg.com
 0.0.0.0	@@||res.qiyukf.net
 0.0.0.0	@@||res.vmallres.com
 0.0.0.0	@@||res.ximalaya.com
@@ -27584,6 +27586,7 @@
 0.0.0.0	pan.baidu.com##div.content
 0.0.0.0	pan.baidu.com##div.nd-main-layout:first-child
 0.0.0.0	pan.baidu.com/buy/ad/*
+0.0.0.0	pan0304.com/ads.
 0.0.0.0	panchaxumbilic.com
 0.0.0.0	panda.kdnet.net
 0.0.0.0	pangle.io
@@ -28698,7 +28701,6 @@
 0.0.0.0	res.kekedy.app
 0.0.0.0	res.mi.baidu.com
 0.0.0.0	res.mmstat.com
-0.0.0.0	res.qhupdate.com
 0.0.0.0	res1.applovin.com
 0.0.0.0	res1.hubcloud.com.cn
 0.0.0.0	res2.hubcloud.com.cn
