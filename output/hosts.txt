@@ -1,7 +1,7 @@
-# Version: 2026-04-22 05:08:17
+# Version: 2026-04-22 17:57:27
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32779
+# Total domains: 32770
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12512,7 +12512,6 @@
 0.0.0.0	5dyx.com/static/jquery.js
 0.0.0.0	5dyx.com/static/js/deny.js
 0.0.0.0	5egk.com
-0.0.0.0	5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com
 0.0.0.0	5gg17gm.com
 0.0.0.0	5ggj5cp.com
 0.0.0.0	5h3s.live
@@ -13588,7 +13587,6 @@
 0.0.0.0	@@||dfcfw.com
 0.0.0.0	@@||dftoutiao.com
 0.0.0.0	@@||dg.k.jd.com
-0.0.0.0	@@||diagnose.vivo.com
 0.0.0.0	@@||dianfeijisuanqi.bmcx.com
 0.0.0.0	@@||dig.bdurl.net
 0.0.0.0	@@||dig.lianjia.com
@@ -13954,7 +13952,6 @@
 0.0.0.0	@@||hot.browser.intl.miui.com
 0.0.0.0	@@||hot.browser.miui.com
 0.0.0.0	@@||hotel.17u.cn
-0.0.0.0	@@||hpplay.cn
 0.0.0.0	@@||hr.163.com
 0.0.0.0	@@||hsforms.net
 0.0.0.0	@@||hsr.hoyoverse.com
@@ -13999,7 +13996,6 @@
 0.0.0.0	@@||icws.jb51.net
 0.0.0.0	@@||id.163.com
 0.0.0.0	@@||id.heytap.com
-0.0.0.0	@@||id.mi.com
 0.0.0.0	@@||id.oneplus.com
 0.0.0.0	@@||id.realme.com
 0.0.0.0	@@||id1.cloud.huawei.com
@@ -14203,7 +14199,6 @@
 0.0.0.0	@@||lcdn-locator.apple.com
 0.0.0.0	@@||ld246.com
 0.0.0.0	@@||learn.scriptcat.org
-0.0.0.0	@@||lebo.cn
 0.0.0.0	@@||leihuo.163.com
 0.0.0.0	@@||lens.zhihu.com
 0.0.0.0	@@||lequ-qfe.iqiyi.com
@@ -14280,10 +14275,8 @@
 0.0.0.0	@@||log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0	@@||log-api.pangolin-sdk-toutiao.com
 0.0.0.0	@@||log-upload.mihoyo.com
-0.0.0.0	@@||log.doubao.com
 0.0.0.0	@@||log.snssdk.com
 0.0.0.0	@@||log.taobao.com
-0.0.0.0	@@||log.vivo.com
 0.0.0.0	@@||log1.cmpassport.com
 0.0.0.0	@@||log5-applog-lf.fqnovel.com
 0.0.0.0	@@||log5-applog.fqnovel.com
@@ -15154,7 +15147,6 @@
 0.0.0.0	@@||stars.shuqireader.com
 0.0.0.0	@@||stat.api.4399.com
 0.0.0.0	@@||stat.funshion.com
-0.0.0.0	@@||stat.vivo.com
 0.0.0.0	@@||stat.y.qq.com
 0.0.0.0	@@||stat6.y.qq.com
 0.0.0.0	@@||static-*.xvideos-cdn.com
@@ -25547,7 +25539,6 @@
 0.0.0.0	mc.muhtbnd.cn
 0.0.0.0	mc.yandex.com
 0.0.0.0	mc.yandex.ru
-0.0.0.0	mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 0.0.0.0	mcc.inf.miui.com
 0.0.0.0	mcdn.bilivideo.cn
 0.0.0.0	mcdwfed.cn
