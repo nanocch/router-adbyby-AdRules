@@ -1,7 +1,7 @@
-# Version: 2026-04-23 18:00:52
+# Version: 2026-04-24 05:11:05
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32769
+# Total domains: 32770
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12879,6 +12879,7 @@
 0.0.0.0	:8008/*/*?is_not=
 0.0.0.0	:8891/v*$third-party
 0.0.0.0	::1
+0.0.0.0	<!DOCTYPE
 0.0.0.0	?adspot_
 0.0.0.0	?local_ga_js=
 0.0.0.0	@@*$redirect-rule,domain=d3ward.github.io
