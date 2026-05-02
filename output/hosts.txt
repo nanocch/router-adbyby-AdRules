@@ -1,7 +1,7 @@
-# Version: 2026-05-02 05:10:34
+# Version: 2026-05-02 17:36:59
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32771
+# Total domains: 32773
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17383,6 +17383,7 @@
 0.0.0.0	anyunwl04.com
 0.0.0.0	aoao11241iis.top
 0.0.0.0	aobuygo.com
+0.0.0.0	aoc-p2.shop
 0.0.0.0	aodongjiaosu.com
 0.0.0.0	aombjl099.com
 0.0.0.0	aoodoo.feng.com
@@ -21032,6 +21033,7 @@
 0.0.0.0	edd26.yingguo996.com
 0.0.0.0	eddong.com
 0.0.0.0	edesf.xyzxmark.cn
+0.0.0.0	edg-n2.top
 0.0.0.0	edge.ads.twitch.tv
 0.0.0.0	edge.api.flagsmith.com
 0.0.0.0	edge.fullstory.com
