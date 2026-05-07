@@ -1,7 +1,7 @@
-# Version: 2026-05-07 05:35:20
+# Version: 2026-05-07 18:37:29
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32773
+# Total domains: 32774
 
 0.0.0.0	!
 0.0.0.0	!
@@ -27706,6 +27706,7 @@
 0.0.0.0	qnieo.fun
 0.0.0.0	qnipkk.xyz
 0.0.0.0	qnqcdn.net
+0.0.0.0	qnywjs.buzz
 0.0.0.0	qoilbsfwqd.net
 0.0.0.0	qoiusky.com
 0.0.0.0	qonkdwwf.net
