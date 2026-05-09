@@ -1,7 +1,7 @@
-# Version: 2026-05-09 05:31:48
+# Version: 2026-05-09 17:49:48
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32774
+# Total domains: 32795
 
 0.0.0.0	!
 0.0.0.0	!
@@ -72,6 +72,7 @@
 0.0.0.0	*.bllst.cn
 0.0.0.0	*.bmddsofta.cc
 0.0.0.0	*.bmdzu8m.cc
+0.0.0.0	*.cc
 0.0.0.0	*.cknr6y.com
 0.0.0.0	*.cru0xr.com
 0.0.0.0	*.ctk4xy.com
@@ -6913,6 +6914,7 @@
 0.0.0.0	1.hao123.com
 0.0.0.0	1.hnyouneng.com
 0.0.0.0	1.hslyqs.com
+0.0.0.0	1.huanle739.cc
 0.0.0.0	1.i1766.com
 0.0.0.0	1.iqeq.com.cn
 0.0.0.0	1.jeasyui.net
@@ -12258,6 +12260,7 @@
 0.0.0.0	3.cjcp.cn
 0.0.0.0	3.guidaye.com
 0.0.0.0	3.hlg102a.cc
+0.0.0.0	3.se2208hu.cc
 0.0.0.0	3.ssqzj.com
 0.0.0.0	30350f.com
 0.0.0.0	30407799.com
@@ -12604,6 +12607,7 @@
 0.0.0.0	6functf.com
 0.0.0.0	6gukaitu.xyz
 0.0.0.0	6hejing.cn
+0.0.0.0	6hqp8y5w.idtad523.top
 0.0.0.0	6huu.com
 0.0.0.0	6iwoif.com
 0.0.0.0	6kwan.com
@@ -12651,6 +12655,7 @@
 0.0.0.0	7566dh1.com
 0.0.0.0	7566dh9.com
 0.0.0.0	75to.com
+0.0.0.0	7600mqsv.njoomsj4.top
 0.0.0.0	7631.com
 0.0.0.0	7663caf8d231fa527wm.cc1tph.com
 0.0.0.0	766ba.net
@@ -12771,6 +12776,8 @@
 0.0.0.0	8cnd.com
 0.0.0.0	8d7hhh8x.com
 0.0.0.0	8dulm.com
+0.0.0.0	8e7c7ik.anhuiyo.com
+0.0.0.0	8e7c7ik.anhuiyo.com.bplslb.com
 0.0.0.0	8f1s.mm51-tneb1555.cc
 0.0.0.0	8g0j.cn
 0.0.0.0	8gp4wjq3.com
@@ -18423,6 +18430,7 @@
 0.0.0.0	bigcood.xyz
 0.0.0.0	bigdatacloud.net
 0.0.0.0	bihaipack.com
+0.0.0.0	bijenpogfidrrg.com
 0.0.0.0	billionfocus.com
 0.0.0.0	bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 0.0.0.0	bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
@@ -19133,6 +19141,7 @@
 0.0.0.0	cdnpa.hyperpromote.com
 0.0.0.0	cdns.mbxt.net
 0.0.0.0	cdntest.a8tiyu.com
+0.0.0.0	cdppdgwrq.mcapxr.cn
 0.0.0.0	cdrhjt.com
 0.0.0.0	cds.51y5.net
 0.0.0.0	cdsxaz02.xyz
@@ -21791,6 +21800,7 @@
 0.0.0.0	gator.volces.com
 0.0.0.0	gb.corp.163.com
 0.0.0.0	gbcnvip15.com
+0.0.0.0	gbe29fb.cdn.zjedge.xopo11ek.com
 0.0.0.0	gbrtyhnsc.xyz
 0.0.0.0	gbsp002.com
 0.0.0.0	gc.keefung-zs.com
@@ -22367,6 +22377,7 @@
 0.0.0.0	hcbmq.cn
 0.0.0.0	hccms.com.cn
 0.0.0.0	hcdjy.xyz
+0.0.0.0	hcdnw123.vip.foreign.cdnhwcibv122.com
 0.0.0.0	hchh.capmvb.net
 0.0.0.0	hciea.xyz
 0.0.0.0	hcl.baidu.com
@@ -23945,6 +23956,7 @@
 0.0.0.0	json.gewuwen.com
 0.0.0.0	jsonatm-wss.broker.tplay.qq.com
 0.0.0.0	jspg.cc
+0.0.0.0	jsppfqzqv.mcapxr.cn
 0.0.0.0	jsqmt.qq.c
 0.0.0.0	jsqmt.qq.com
 0.0.0.0	jssav4hk.xyz
@@ -24098,6 +24110,8 @@
 0.0.0.0	kcc4445.top
 0.0.0.0	kcnwe.xyz
 0.0.0.0	kcybtc.ezzgnn.info
+0.0.0.0	kd2bchz.qinall.com
+0.0.0.0	kd2bchz.qinall.com.bplslb.com
 0.0.0.0	kdcl.pchome.com.tw
 0.0.0.0	kdcxhr.cn
 0.0.0.0	kddtri.cn
@@ -25384,6 +25398,8 @@
 0.0.0.0	m1.h5.ygmicroloan.com
 0.0.0.0	m1.mgogo.com
 0.0.0.0	m1.xcy8.com
+0.0.0.0	m1e3hifb.wbzr100.com
+0.0.0.0	m1e3hifb.wbzr100.com.eo.dnse3.com
 0.0.0.0	m2.da.mgtv.com
 0.0.0.0	m2.qinsx.cn
 0.0.0.0	m2k3j7x8.com
@@ -28369,6 +28385,8 @@
 0.0.0.0	s1.tansuotv.com
 0.0.0.0	s10.histats.com
 0.0.0.0	s184.com
+0.0.0.0	s1dxptru.boey2012.com
+0.0.0.0	s1dxptru.boey2012.com.eo.dnse3.com
 0.0.0.0	s1m.mediav.com
 0.0.0.0	s2.dnaxddnc.com
 0.0.0.0	s2.hiapk.com
@@ -29808,6 +29826,7 @@
 0.0.0.0	tgdopodk.com
 0.0.0.0	tgfyq.cn
 0.0.0.0	tggsd07.com
+0.0.0.0	tgoy162.top
 0.0.0.0	tgw-masdk.3g.qq.com
 0.0.0.0	tgw-sasdk.3g.qq.com
 0.0.0.0	tgymhwt.cn
@@ -30365,6 +30384,7 @@
 0.0.0.0	ufgg55.xyz
 0.0.0.0	ufile.cc
 0.0.0.0	ufndsm.com
+0.0.0.0	ufnzvmf-ef5.mt6pu515vhdg.com
 0.0.0.0	ufvauj.cn
 0.0.0.0	ug-data.mihoyo.com
 0.0.0.0	ug-data.mihoyo.com/ads-track/*
@@ -32229,6 +32249,7 @@
 0.0.0.0	yqs66.82098999.com
 0.0.0.0	yquqoj.com
 0.0.0.0	yqw88.com
+0.0.0.0	yrdgycacwd18.com
 0.0.0.0	yrqwnc.cn
 0.0.0.0	yrt7dgkf.exashare.com
 0.0.0.0	yruws6.com
