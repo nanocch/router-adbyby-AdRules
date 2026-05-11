@@ -1,7 +1,7 @@
-# Version: 2026-05-11 05:09:11
+# Version: 2026-05-11 19:39:21
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32794
+# Total domains: 32791
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13181,7 +13181,6 @@
 0.0.0.0	@@||appgoad.189.cn
 0.0.0.0	@@||appimg-drcn.dbankcdn.com
 0.0.0.0	@@||appimg.dbankcdn.com
-0.0.0.0	@@||appldnld.apple.com
 0.0.0.0	@@||appleid.apple.com
 0.0.0.0	@@||applog.lc.quark.cn
 0.0.0.0	@@||appmsg.gzmtr.cn
@@ -13843,7 +13842,6 @@
 0.0.0.0	@@||gateway.kugou.com
 0.0.0.0	@@||gator.volces.com
 0.0.0.0	@@||gdfp.gifshow.com
-0.0.0.0	@@||gdmf.apple.com
 0.0.0.0	@@||gdown.baidu.com
 0.0.0.0	@@||gdtimg.com
 0.0.0.0	@@||gecko.zijieapi.com
@@ -14432,7 +14430,6 @@
 0.0.0.0	@@||member.jiaoyimao.com
 0.0.0.0	@@||members.bitcomet.com
 0.0.0.0	@@||message.bilibili.com
-0.0.0.0	@@||mesu.apple.com
 0.0.0.0	@@||metok.sys.miui.com
 0.0.0.0	@@||metrics.apple.com
 0.0.0.0	@@||metrics.icloud.com
@@ -15245,7 +15242,6 @@
 0.0.0.0	@@||survey.feelgood.cn
 0.0.0.0	@@||sv.map.baidu.com
 0.0.0.0	@@||swap.stu.126.net
-0.0.0.0	@@||swcdn.apple.com
 0.0.0.0	@@||swimg1.hstdyf.com
 0.0.0.0	@@||sysdk.cl2009.com
 0.0.0.0	@@||szlong.weixin.qq.com
@@ -15385,7 +15381,6 @@
 0.0.0.0	@@||update.hicloud.com
 0.0.0.0	@@||update.vivo.com
 0.0.0.0	@@||updateinfo.market.xiaomi.com
-0.0.0.0	@@||updates.cdn-apple.com
 0.0.0.0	@@||upgrade.ptmi.gitv.tv
 0.0.0.0	@@||upgrade.vivo.com
 0.0.0.0	@@||upload-bbs.miyoushe.com
@@ -21824,6 +21819,7 @@
 0.0.0.0	gdgy56.com
 0.0.0.0	gdjme27.com
 0.0.0.0	gdls114.com
+0.0.0.0	gdmf.apple.com
 0.0.0.0	gdoibwfvjqf.com
 0.0.0.0	gdpr.trustarc.com
 0.0.0.0	gdskywings.com
@@ -30551,6 +30547,7 @@
 0.0.0.0	updatecenter.qq.com
 0.0.0.0	updatepage.kuwo.cn
 0.0.0.0	updatepush.appstore.vivo.com.cn
+0.0.0.0	updates-http.cdn-apple.com
 0.0.0.0	updates-s3.binaryage.com
 0.0.0.0	upgrade-adservice.hismarttv.com
 0.0.0.0	upgrade-backup.hismarttv.com
