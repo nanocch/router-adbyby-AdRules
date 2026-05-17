@@ -1,7 +1,7 @@
-# Version: 2026-05-17 05:07:34
+# Version: 2026-05-17 18:02:14
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32791
+# Total domains: 32801
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13238,6 +13238,7 @@
 0.0.0.0	@@||baikebcs.bdimg.com
 0.0.0.0	@@||baixing.com
 0.0.0.0	@@||bbs-static.miyoushe.com
+0.0.0.0	@@||bbs.huorong.cn
 0.0.0.0	@@||bbs.mobileapi.hupu.com
 0.0.0.0	@@||bbs.tampermonkey.net.cn
 0.0.0.0	@@||bce.baidu.com
@@ -13324,6 +13325,7 @@
 0.0.0.0	@@||cdn-go.cn
 0.0.0.0	@@||cdn-msp*.18comic*.*
 0.0.0.0	@@||cdn-msp*.18comic.*
+0.0.0.0	@@||cdn-www.huorong.cn
 0.0.0.0	@@||cdn.akamai.steamstatic.com
 0.0.0.0	@@||cdn.aligames.com
 0.0.0.0	@@||cdn.ark.qq.com
@@ -13636,10 +13638,12 @@
 0.0.0.0	@@||doris.yidianzixun.com
 0.0.0.0	@@||dot.360.cn
 0.0.0.0	@@||douyincdn.com
+0.0.0.0	@@||down-tencent.huorong.cn
 0.0.0.0	@@||down-update.qq.com
 0.0.0.0	@@||down.360safe.com
 0.0.0.0	@@||down.anticheatexpert.com
 0.0.0.0	@@||down.sandai.net
+0.0.0.0	@@||download-cdn.clf.jetbrains.com.cn
 0.0.0.0	@@||download-cdn.jetbrains.com
 0.0.0.0	@@||download-cdn.jetbrains.com.cn
 0.0.0.0	@@||download.alicdn.com
@@ -14317,6 +14321,7 @@
 0.0.0.0	@@||m.ds.163.com
 0.0.0.0	@@||m.dxy.com
 0.0.0.0	@@||m.facebook.com
+0.0.0.0	@@||m.gushiwen.cn
 0.0.0.0	@@||m.image.so.com
 0.0.0.0	@@||m.intl.taobao.com
 0.0.0.0	@@||m.ip138.com
@@ -14977,6 +14982,7 @@
 0.0.0.0	@@||resolver*mi.com
 0.0.0.0	@@||resolver.gslb.mi-idc.com
 0.0.0.0	@@||resolver.msg.xiaomi.net
+0.0.0.0	@@||resources.jetbrains.com.cn
 0.0.0.0	@@||restapi.amap.com
 0.0.0.0	@@||retail.taobao.com
 0.0.0.0	@@||richmedia.video.qq.com
@@ -15356,6 +15362,7 @@
 0.0.0.0	@@||u1.img.mobile.sina.cn
 0.0.0.0	@@||uc-titans-cn-01.heytapimage.com
 0.0.0.0	@@||uc-titans-cn.heytapimage.com
+0.0.0.0	@@||uc.huorong.cn
 0.0.0.0	@@||uc.ucweb.com
 0.0.0.0	@@||ucweb.com
 0.0.0.0	@@||uczzd.cn
@@ -15379,6 +15386,7 @@
 0.0.0.0	@@||upage.imtt.qq.com
 0.0.0.0	@@||update.360safe.com
 0.0.0.0	@@||update.hicloud.com
+0.0.0.0	@@||update.huorong.cn
 0.0.0.0	@@||update.vivo.com
 0.0.0.0	@@||updateinfo.market.xiaomi.com
 0.0.0.0	@@||upgrade.ptmi.gitv.tv
@@ -15627,6 +15635,7 @@
 0.0.0.0	@@||www.hisense.com
 0.0.0.0	@@||www.hoyoverse.com
 0.0.0.0	@@||www.huaweicloud.com
+0.0.0.0	@@||www.huorong.cn
 0.0.0.0	@@||www.ibook.info
 0.0.0.0	@@||www.icloud.com
 0.0.0.0	@@||www.ijinshan.com
@@ -15636,6 +15645,7 @@
 0.0.0.0	@@||www.itools.info
 0.0.0.0	@@||www.javbangers.com
 0.0.0.0	@@||www.jd.com
+0.0.0.0	@@||www.jetbrains.com.cn
 0.0.0.0	@@||www.jianshu.com
 0.0.0.0	@@||www.jiaoyimao.com
 0.0.0.0	@@||www.jsdelivr.com
