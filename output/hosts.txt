@@ -1,7 +1,7 @@
-# Version: 2026-05-21 19:40:39
+# Version: 2026-05-22 05:54:08
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32807
+# Total domains: 32810
 
 0.0.0.0	!
 0.0.0.0	!
@@ -72,7 +72,6 @@
 0.0.0.0	*.bllst.cn
 0.0.0.0	*.bmddsofta.cc
 0.0.0.0	*.bmdzu8m.cc
-0.0.0.0	*.cc
 0.0.0.0	*.cknr6y.com
 0.0.0.0	*.cru0xr.com
 0.0.0.0	*.ctk4xy.com
@@ -23284,6 +23283,7 @@
 0.0.0.0	ingest.sentry.io
 0.0.0.0	ini.litingxin.cn
 0.0.0.0	ini.update.360safe.com
+0.0.0.0	ininav.com/sites/default/files/js/js
 0.0.0.0	init.phpwind.com
 0.0.0.0	init.phpwind.net
 0.0.0.0	init.startappexchange.com
@@ -25466,6 +25466,7 @@
 0.0.0.0	makeding.com
 0.0.0.0	malacca.inveno.com
 0.0.0.0	maljxp.cn
+0.0.0.0	malluktig.in
 0.0.0.0	manage.wdfans.cn
 0.0.0.0	manage88.com
 0.0.0.0	manbag.net
@@ -25542,6 +25543,7 @@
 0.0.0.0	mathtype.cn
 0.0.0.0	matomo.cloud
 0.0.0.0	maumkt.ppdaicdn.com
+0.0.0.0	mavrtracktor.com
 0.0.0.0	maw.wnbfw.com
 0.0.0.0	maximpetus.com
 0.0.0.0	maxwebsearch.com
@@ -28037,6 +28039,7 @@
 0.0.0.0	remote88.com
 0.0.0.0	remoteads.oss-cn-beijing.aliyuncs.com
 0.0.0.0	remotedu.cn
+0.0.0.0	renamereptiliantrance.com
 0.0.0.0	rencai56.com
 0.0.0.0	render-resource.11222.cn
 0.0.0.0	render-server.cdn.bcebos.com
