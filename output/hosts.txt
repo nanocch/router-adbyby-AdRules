@@ -1,7 +1,7 @@
-# Version: 2026-05-21 06:07:38
+# Version: 2026-05-21 19:40:39
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32804
+# Total domains: 32807
 
 0.0.0.0	!
 0.0.0.0	!
@@ -337,6 +337,7 @@
 0.0.0.0	.xyz:*/bug?*=$third-party
 0.0.0.0	.xyz:*/hm$third-party
 0.0.0.0	.xyz:*/js/b.php?v=*
+0.0.0.0	/*.css?*r=0$third-party
 0.0.0.0	/*/*.add.*.add
 0.0.0.0	/*_*_aubi.js$third-party
 0.0.0.0	/360mse/360mse_*.apk?
@@ -26603,6 +26604,7 @@
 0.0.0.0	ok.8358211.cc
 0.0.0.0	ok365.com
 0.0.0.0	okbd2ou.icu
+0.0.0.0	okeeblr.com
 0.0.0.0	okforwardt.fun
 0.0.0.0	okjhb.xyz
 0.0.0.0	okkkk.com
@@ -29744,6 +29746,7 @@
 0.0.0.0	tchkcc.cn
 0.0.0.0	tci.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0	tcjy66.cc
+0.0.0.0	tcmxmlu.com
 0.0.0.0	tcsgcdn.top
 0.0.0.0	tcss.qq.com
 0.0.0.0	tctakoh.com
