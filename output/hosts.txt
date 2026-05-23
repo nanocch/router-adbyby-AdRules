@@ -1,7 +1,7 @@
-# Version: 2026-05-23 05:39:10
+# Version: 2026-05-23 18:09:33
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32810
+# Total domains: 32819
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17092,6 +17092,7 @@
 0.0.0.0	aefdcxoi.com
 0.0.0.0	aefmbeq.cn
 0.0.0.0	aegis.qq.com
+0.0.0.0	aekjg-cdn.77t-tusu.com
 0.0.0.0	aeletheacd.com
 0.0.0.0	aem.dentsuchina.cn
 0.0.0.0	aercxy.com
@@ -20253,6 +20254,7 @@
 0.0.0.0	dfsj8050.ahyyxpk.com
 0.0.0.0	dfstt5031.ayhnb.cn
 0.0.0.0	dfsvhv88.com
+0.0.0.0	dftveb.xn--6krw8b915a62m.com
 0.0.0.0	dfx.shhuixiangwuliu.com
 0.0.0.0	dfx.vnnv777.cn
 0.0.0.0	dfxwdc.com
@@ -20671,6 +20673,7 @@
 0.0.0.0	duclick.baidu.com
 0.0.0.0	dugbvb.com
 0.0.0.0	dugesheying.com
+0.0.0.0	dui.suiji.red
 0.0.0.0	duier.top
 0.0.0.0	duiwai.baidu.com
 0.0.0.0	dumedia.ru
@@ -22564,6 +22567,7 @@
 0.0.0.0	hmp33.com
 0.0.0.0	hmttoly.com
 0.0.0.0	hmyangshengji.com
+0.0.0.0	hn.bfvvs.com
 0.0.0.0	hnasd.com
 0.0.0.0	hnbhrt.xyz
 0.0.0.0	hncadh.com
@@ -24432,6 +24436,7 @@
 0.0.0.0	lalabaos1026.top
 0.0.0.0	lalaping.com
 0.0.0.0	laljjn.xyz
+0.0.0.0	lambda.raidrive.com
 0.0.0.0	lamkghx.icu
 0.0.0.0	lan.btwan5.com
 0.0.0.0	landing.gdtimg.com
@@ -25212,6 +25217,7 @@
 0.0.0.0	m.lfdydk.com
 0.0.0.0	m.lovezhishou.com
 0.0.0.0	m.lusrg.cn
+0.0.0.0	m.lwlm-nideta.cc
 0.0.0.0	m.lyjz001.com
 0.0.0.0	m.lzida.com
 0.0.0.0	m.lzytt.com
@@ -26325,6 +26331,7 @@
 0.0.0.0	nfh.cnshef.com
 0.0.0.0	nfl9j.com
 0.0.0.0	nflks.cn
+0.0.0.0	nfnykg.xn--6krw8b915a62m.com
 0.0.0.0	nftjjw.com
 0.0.0.0	ng8f.top
 0.0.0.0	ngads.go.com
@@ -28088,6 +28095,7 @@
 0.0.0.0	responsys.net
 0.0.0.0	restorationbowelsunflower.com
 0.0.0.0	results.optimizely.com
+0.0.0.0	reszavxz.malunwudi.com
 0.0.0.0	ret.xinlongrubber.com
 0.0.0.0	rev.fapdu.com
 0.0.0.0	revdepo.com
@@ -28270,6 +28278,7 @@
 0.0.0.0	rvzlobj.cn
 0.0.0.0	rwjfs.com
 0.0.0.0	rwq.youle55.com
+0.0.0.0	rxing.rxyoo.net
 0.0.0.0	rxlidz.ink
 0.0.0.0	rxwan.com
 0.0.0.0	rxyggrq.cn
