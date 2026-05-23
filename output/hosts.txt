@@ -1,7 +1,7 @@
-# Version: 2026-05-23 18:09:33
+# Version: 2026-05-24 05:10:47
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32819
+# Total domains: 32824
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17761,6 +17761,7 @@
 0.0.0.0	appicsh.qq.com
 0.0.0.0	appier.net
 0.0.0.0	appjiagu.com
+0.0.0.0	appldnld.apple.com
 0.0.0.0	applet-static.cftcredit.com
 0.0.0.0	applet.cftcredit.com
 0.0.0.0	applifier.com
@@ -29493,9 +29494,13 @@
 0.0.0.0	swallow.kakamobi.cn
 0.0.0.0	swan-api.iqiyi.com
 0.0.0.0	swappdl.duoyi.com
+0.0.0.0	swcdn.apple.com
+0.0.0.0	swdownload.apple.com
 0.0.0.0	switchadhub.com
 0.0.0.0	switching.atm.punchbox.org
 0.0.0.0	swpgjai.pop.weddingeeos.com
+0.0.0.0	swquery.apple.com
+0.0.0.0	swscan.apple.com
 0.0.0.0	swwwxww.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	swx.0.0.0.0.cn
 0.0.0.0	sxbhzs.net
