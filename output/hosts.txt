@@ -1,7 +1,7 @@
-# Version: 2026-05-25 05:14:56
+# Version: 2026-05-25 20:01:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32825
+# Total domains: 32824
 
 0.0.0.0	!
 0.0.0.0	!
@@ -14199,6 +14199,7 @@
 0.0.0.0	@@||knet.cn
 0.0.0.0	@@||konachan.com
 0.0.0.0	@@||kubernetes.io
+0.0.0.0	@@||kunlunpi.com
 0.0.0.0	@@||kwimgs.com
 0.0.0.0	@@||kyaru-concat.now.sh
 0.0.0.0	@@||l.qq.com
@@ -20596,7 +20597,6 @@
 0.0.0.0	dragonib.com
 0.0.0.0	dragonparking.com
 0.0.0.0	drawfxk.com
-0.0.0.0	drcn-weather.cloud.huawei.com
 0.0.0.0	drd.hauchi.com.tw
 0.0.0.0	drdj.m.gxwztv.com
 0.0.0.0	drdwy.com
@@ -31098,7 +31098,6 @@
 0.0.0.0	w.homes.yahoo.net
 0.0.0.0	w.inews.qq.com
 0.0.0.0	w.jscsd.cn
-0.0.0.0	w.kunlunpi.com
 0.0.0.0	w.l.qq.com
 0.0.0.0	w.m.taobao.com
 0.0.0.0	w.punchbox.org
