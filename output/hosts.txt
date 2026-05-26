@@ -1,7 +1,7 @@
-# Version: 2026-05-26 05:38:26
+# Version: 2026-05-27 05:59:28
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32825
+# Total domains: 32827
 
 0.0.0.0	!
 0.0.0.0	!
@@ -23435,6 +23435,8 @@
 0.0.0.0	item.ttkvod.com
 0.0.0.0	items.bingdiantao.com
 0.0.0.0	itheatmoran.com
+0.0.0.0	ithome.com##.j_iframe_show
+0.0.0.0	ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 0.0.0.0	itienlo.top
 0.0.0.0	itjcqlp.icu
 0.0.0.0	itnuzleafan.com
