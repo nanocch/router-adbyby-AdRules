@@ -1,7 +1,7 @@
-# Version: 2026-06-01 22:28:15
+# Version: 2026-06-02 06:38:46
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32827
+# Total domains: 32828
 
 0.0.0.0	!
 0.0.0.0	!
@@ -15457,6 +15457,7 @@
 0.0.0.0	@@||vd1.market.xiaomi.com
 0.0.0.0	@@||vd3.bdstatic.com
 0.0.0.0	@@||vdn3.vzuu.com
+0.0.0.0	@@||vdn5.vzuu.com
 0.0.0.0	@@||vdownload-*.sb-cd.com
 0.0.0.0	@@||vdownload.hembed.com
 0.0.0.0	@@||vectorsdk.map.qq.com
