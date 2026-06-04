@@ -1,7 +1,7 @@
-# Version: 2026-06-04 19:27:28
+# Version: 2026-06-05 05:57:23
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32828
+# Total domains: 32829
 
 0.0.0.0	!
 0.0.0.0	!
@@ -27688,6 +27688,7 @@
 0.0.0.0	qifake.com
 0.0.0.0	qifjksdqwd.xyz
 0.0.0.0	qifyeldy.top
+0.0.0.0	qihang168.top
 0.0.0.0	qihaoqu.com
 0.0.0.0	qijpaih.cn
 0.0.0.0	qilishusong.cn##[style*='display:
