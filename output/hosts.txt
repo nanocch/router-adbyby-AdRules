@@ -1,7 +1,7 @@
-# Version: 2026-06-07 18:38:45
+# Version: 2026-06-08 05:41:27
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33014
+# Total domains: 33013
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12929,7 +12929,6 @@
 0.0.0.0	@@||17u.cn
 0.0.0.0	@@||18comic.org
 0.0.0.0	@@||18comic.vip
-0.0.0.0	@@||1music.cc
 0.0.0.0	@@||1sapp.com
 0.0.0.0	@@||1tian.kuaishou.com
 0.0.0.0	@@||316.coolapk1s.com
@@ -13226,7 +13225,6 @@
 0.0.0.0	@@||b23.tv
 0.0.0.0	@@||b3log.org
 0.0.0.0	@@||b3logfile.com
-0.0.0.0	@@||backend.1music.cc
 0.0.0.0	@@||bad.news
 0.0.0.0	@@||bag.itunes.apple.com
 0.0.0.0	@@||baijiahao.baidu.com
@@ -14370,6 +14368,7 @@
 0.0.0.0	@@||m8.music.126.net
 0.0.0.0	@@||m801.music.126.net
 0.0.0.0	@@||ma*-normal-lf.zijieapi.com
+0.0.0.0	@@||ma.zijieapi.com
 0.0.0.0	@@||mac.bmcx.com
 0.0.0.0	@@||mac.xunlei.com
 0.0.0.0	@@||mai.91kami.com
