@@ -1,7 +1,7 @@
-# Version: 2026-06-08 05:41:27
+# Version: 2026-06-08 20:43:41
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33013
+# Total domains: 33015
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12894,6 +12894,8 @@
 0.0.0.0	@@|admin-oss-xlvip.a.88cdn.com
 0.0.0.0	@@|wxpaylogo.qpic.cn
 0.0.0.0	@@||*-cf.xvideos-cdn.com
+0.0.0.0	@@||*-misc-lf.fqnovel.com
+0.0.0.0	@@||*-novelapp.fqnovelvod.com
 0.0.0.0	@@||*-open-sign.byteimg.com
 0.0.0.0	@@||*-open.byteimg.com
 0.0.0.0	@@||*.*.szbdyd.com
@@ -14368,7 +14370,6 @@
 0.0.0.0	@@||m8.music.126.net
 0.0.0.0	@@||m801.music.126.net
 0.0.0.0	@@||ma*-normal-lf.zijieapi.com
-0.0.0.0	@@||ma.zijieapi.com
 0.0.0.0	@@||mac.bmcx.com
 0.0.0.0	@@||mac.xunlei.com
 0.0.0.0	@@||mai.91kami.com
@@ -31016,6 +31017,7 @@
 0.0.0.0	vdapprecv.app.cntvwb.cn
 0.0.0.0	vdazz.net
 0.0.0.0	vdn1.vzuu.com
+0.0.0.0	vdo3c.org
 0.0.0.0	vdrfes.site
 0.0.0.0	vds82e.sejqb.com
 0.0.0.0	ve.tsdlp.com
