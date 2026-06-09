@@ -1,7 +1,7 @@
-# Version: 2026-06-09 19:34:43
+# Version: 2026-06-10 06:00:45
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33015
+# Total domains: 33017
 
 0.0.0.0	!
 0.0.0.0	!
@@ -376,6 +376,7 @@
 0.0.0.0	/js/ads
 0.0.0.0	/js/gd.js
 0.0.0.0	/js/gg123/*
+0.0.0.0	/js/hf.js
 0.0.0.0	/js/htmlk*.js$~third-party
 0.0.0.0	/js/htmlka.js
 0.0.0.0	/js/htmlkb.js
@@ -30345,6 +30346,7 @@
 0.0.0.0	ttc.gdt.qq.com
 0.0.0.0	ttcdn.cn
 0.0.0.0	ttienli.top
+0.0.0.0	ttkxny.com
 0.0.0.0	ttlm.cc
 0.0.0.0	ttlowe.com
 0.0.0.0	ttly888.com
