@@ -1,7 +1,7 @@
-# Version: 2026-06-14 19:10:32
+# Version: 2026-06-15 05:47:37
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33019
+# Total domains: 33021
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13168,6 +13168,7 @@
 0.0.0.0	@@||app.toutiao.com
 0.0.0.0	@@||app.zhuanzhuan.com
 0.0.0.0	@@||appcenter.ms
+0.0.0.0	@@||appcfg.v.qq.com
 0.0.0.0	@@||appcloud.zhihu.com
 0.0.0.0	@@||appcloud2.zhihu.com
 0.0.0.0	@@||appconf.heytapdownload.com
@@ -14307,6 +14308,7 @@
 0.0.0.0	@@||lpl.qq.com
 0.0.0.0	@@||luna-dict-community.nosdn.127.net
 0.0.0.0	@@||lx.meituan.net
+0.0.0.0	@@||m-api.uc.cn
 0.0.0.0	@@||m.163.com
 0.0.0.0	@@||m.17173.com
 0.0.0.0	@@||m.360.cn
