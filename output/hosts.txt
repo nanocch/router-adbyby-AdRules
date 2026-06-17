@@ -1,7 +1,7 @@
-# Version: 2026-06-17 06:26:00
+# Version: 2026-06-17 20:32:28
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33023
+# Total domains: 33035
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13105,6 +13105,7 @@
 0.0.0.0	@@||api.kwaizt.com
 0.0.0.0	@@||api.live.bilibili.com
 0.0.0.0	@@||api.m.jd.com
+0.0.0.0	@@||api.magene.cn
 0.0.0.0	@@||api.map.baidu.com
 0.0.0.0	@@||api.meituan.com
 0.0.0.0	@@||api.micloud.xiaomi.net
@@ -13112,6 +13113,7 @@
 0.0.0.0	@@||api.miwifi.com
 0.0.0.0	@@||api.neixin.cn
 0.0.0.0	@@||api.nocturnal-narwhal.buzz
+0.0.0.0	@@||api.onelap.cn
 0.0.0.0	@@||api.open.uc.cn
 0.0.0.0	@@||api.pinduoduo.com
 0.0.0.0	@@||api.push.apple.com
@@ -13336,6 +13338,7 @@
 0.0.0.0	@@||cdn.ferrari.com
 0.0.0.0	@@||cdn.jsdelivr.net
 0.0.0.0	@@||cdn.myhuaweicloud.com
+0.0.0.0	@@||cdn.onelap.cn
 0.0.0.0	@@||cdn.pandora.xiaomi.com
 0.0.0.0	@@||cdn.pinduoduo.com
 0.0.0.0	@@||cdn.ping0.cc
@@ -13571,6 +13574,7 @@
 0.0.0.0	@@||data.mistat.*xiaomi.com
 0.0.0.0	@@||data.mistat.intl.xiaomi.com
 0.0.0.0	@@||data.mistat.xiaomi.com
+0.0.0.0	@@||data.onelap.cn
 0.0.0.0	@@||data.sec*.miui.com
 0.0.0.0	@@||data.sec.miui.com
 0.0.0.0	@@||data.services.jetbrains.com
@@ -14064,6 +14068,7 @@
 0.0.0.0	@@||img.kemono.su
 0.0.0.0	@@||img.meituan.net
 0.0.0.0	@@||img.mp.itc.cn
+0.0.0.0	@@||img.onelap.cn
 0.0.0.0	@@||img.pddpic.com
 0.0.0.0	@@||img.qidian.com
 0.0.0.0	@@||img.samsungapps.com
@@ -14377,6 +14382,7 @@
 0.0.0.0	@@||ma*-normal-lf.zijieapi.com
 0.0.0.0	@@||mac.bmcx.com
 0.0.0.0	@@||mac.xunlei.com
+0.0.0.0	@@||magene.cn
 0.0.0.0	@@||mai.91kami.com
 0.0.0.0	@@||mai.pinduoduo.com
 0.0.0.0	@@||mail.163.com
@@ -14632,6 +14638,8 @@
 0.0.0.0	@@||one.one.one.one
 0.0.0.0	@@||onegoods.nosdn.127.net
 0.0.0.0	@@||onekey1.cmpassport.com
+0.0.0.0	@@||onelap.cn
+0.0.0.0	@@||onelap.com
 0.0.0.0	@@||oneplus.cdn.cloudflare.net
 0.0.0.0	@@||oneplus.helpshift.com
 0.0.0.0	@@||open.bytedanceapi.com
@@ -14944,6 +14952,7 @@
 0.0.0.0	@@||r4---sn-npoldn7s.gvt1.com
 0.0.0.0	@@||r4---sn-qxo7rn7e.googlevideo.com
 0.0.0.0	@@||r5---sn-4g5ednsl.googlevideo.com
+0.0.0.0	@@||race.onelap.cn
 0.0.0.0	@@||rdelivery.qq.com
 0.0.0.0	@@||reader.browser.miui.com
 0.0.0.0	@@||reading.snssdk.com
@@ -15188,6 +15197,7 @@
 0.0.0.0	@@||static.iqiyi.com
 0.0.0.0	@@||static.itellyou.cn
 0.0.0.0	@@||static.miraheze.org
+0.0.0.0	@@||static.onelap.cn
 0.0.0.0	@@||static.pddpic.com
 0.0.0.0	@@||static.qiyi.com
 0.0.0.0	@@||static.res.qq.com
@@ -15364,6 +15374,7 @@
 0.0.0.0	@@||tybook.taoyuewenhua.net
 0.0.0.0	@@||u.10010.cn
 0.0.0.0	@@||u.163.com
+0.0.0.0	@@||u.onelap.cn
 0.0.0.0	@@||u.oppomobile.com
 0.0.0.0	@@||u1.img.mobile.sina.cn
 0.0.0.0	@@||uc-titans-cn-01.heytapimage.com
@@ -15518,6 +15529,7 @@
 0.0.0.0	@@||wap.cmpassport.com
 0.0.0.0	@@||wap.zol.com.cn
 0.0.0.0	@@||wappass.baidu.com
+0.0.0.0	@@||wattp.net
 0.0.0.0	@@||wb.amap.com
 0.0.0.0	@@||wbapp.mobile.sina.cn
 0.0.0.0	@@||wbox.sinaimg.cn
