@@ -1,4 +1,4 @@
-# Version: 2026-06-18 19:59:31
+# Version: 2026-06-19 06:27:38
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
 # Total domains: 33035
@@ -9,7 +9,6 @@
 0.0.0.0	!
 0.0.0.0	!
 0.0.0.0	!
-0.0.0.0	*$3p,domain=d3ward.github.io
 0.0.0.0	*-*-*-lrycfv.vip
 0.0.0.0	*-ad-sign.byteimg.com
 0.0.0.0	*-ad.a.yximgs.com
@@ -396,7 +395,6 @@
 0.0.0.0	/m.html?shareName=*&proxyAccount=
 0.0.0.0	/matomo.js$third-party
 0.0.0.0	/mgsdk-sign.*/
-0.0.0.0	/pagead.js$domain=d3ward.github.io
 0.0.0.0	/pangolin-sdk-toutiao.*/
 0.0.0.0	/pangolin-sdk-toutiao1.*/
 0.0.0.0	/pangolin-sdk.*/
@@ -12885,7 +12883,6 @@
 0.0.0.0	<!DOCTYPE
 0.0.0.0	?adspot_
 0.0.0.0	?local_ga_js=
-0.0.0.0	@@*$redirect-rule,domain=d3ward.github.io
 0.0.0.0	@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 0.0.0.0	@@.com/o.js$domain=2biqu.com
 0.0.0.0	@@down.360safe.com
@@ -12893,8 +12890,6 @@
 0.0.0.0	@@googlesyndication.com$domain=bilinovel.com
 0.0.0.0	@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 0.0.0.0	@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
-0.0.0.0	@@|admin-oss-xlvip.a.88cdn.com
-0.0.0.0	@@|wxpaylogo.qpic.cn
 0.0.0.0	@@||*-cf.xvideos-cdn.com
 0.0.0.0	@@||*-misc-lf.fqnovel.com
 0.0.0.0	@@||*-novelapp.fqnovelvod.com
@@ -12908,6 +12903,7 @@
 0.0.0.0	@@||*.bblmw.cn
 0.0.0.0	@@||*.cdninstagram.com
 0.0.0.0	@@||*.dlied1.cdntips.net
+0.0.0.0	@@||*.heytapdownload.com
 0.0.0.0	@@||*.img.mobile.sina.cn
 0.0.0.0	@@||*.in-addr.arpa
 0.0.0.0	@@||*.ke.com
@@ -13010,6 +13006,7 @@
 0.0.0.0	@@||ad.mcloud.139.com
 0.0.0.0	@@||adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0	@@||adidasapp.api.adidas.com.cn
+0.0.0.0	@@||admin-oss-xlvip.a.88cdn.com
 0.0.0.0	@@||adnmb3.com
 0.0.0.0	@@||ads.privacy.qq.com
 0.0.0.0	@@||adv.ccb.com
@@ -13490,6 +13487,7 @@
 0.0.0.0	@@||computemaster.bxcearth.com
 0.0.0.0	@@||conf.hpplay.cn
 0.0.0.0	@@||config.cmpassport.com
+0.0.0.0	@@||conn1.oppomobile.com
 0.0.0.0	@@||connect-drcn.hispace.hicloud.com
 0.0.0.0	@@||connect.intl.rom.miui.com
 0.0.0.0	@@||connect.rom.miui.com
@@ -13640,6 +13638,7 @@
 0.0.0.0	@@||docs.scriptcat.org
 0.0.0.0	@@||domains-ws.revved.com
 0.0.0.0	@@||dorado.xiaojukeji.com
+0.0.0.0	@@||dorangesource.alicdn.com
 0.0.0.0	@@||doris.yidianzixun.com
 0.0.0.0	@@||dot.360.cn
 0.0.0.0	@@||douyincdn.com
@@ -14632,6 +14631,7 @@
 0.0.0.0	@@||obs.sa-peru-1.myhuaweicloud.com
 0.0.0.0	@@||obs.tr-west-1.myhuaweicloud.com
 0.0.0.0	@@||obus-cn.dc.heytapmobi.com
+0.0.0.0	@@||obus-dc20058-cn.heytapmobi.com
 0.0.0.0	@@||ocsp.apple.com
 0.0.0.0	@@||ocsp2.apple.com
 0.0.0.0	@@||omofun.link
@@ -15767,6 +15767,7 @@
 0.0.0.0	@@||wxaurl.cn
 0.0.0.0	@@||wxmini-api.uyouqu.com
 0.0.0.0	@@||wxpay.qpic.cn
+0.0.0.0	@@||wxpaylogo.qpic.cn
 0.0.0.0	@@||wxsnsdy.wxs.qq.com
 0.0.0.0	@@||wxsnsencsvp.wxs.qq.com
 0.0.0.0	@@||x0.ifengimg.com
@@ -19971,7 +19972,6 @@
 0.0.0.0	d3nfknbv.icu
 0.0.0.0	d3upkyrv5jl3rn.cloudfront.net
 0.0.0.0	d3v1lb83psg9di.cloudfront.net
-0.0.0.0	d3ward.github.io##.textads
 0.0.0.0	d4-ks.a.kwimgs.com
 0.0.0.0	d4.sina.com.cn
 0.0.0.0	d5.sina.com.cn
