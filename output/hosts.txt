@@ -1,7 +1,7 @@
-# Version: 2026-07-12 18:04:10
+# Version: 2026-07-13 05:10:29
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33069
+# Total domains: 33099
 
 0.0.0.0	!
 0.0.0.0	!
@@ -11933,6 +11933,7 @@
 0.0.0.0	13.226.254.58
 0.0.0.0	13.35.0.128
 0.0.0.0	13023.url.7wkw.com
+0.0.0.0	131r3lknzg.com
 0.0.0.0	133.237.176.198
 0.0.0.0	1372.w13726954.com
 0.0.0.0	1377a.xyz
@@ -12896,13 +12897,16 @@
 0.0.0.0	@@||*-open-sign.byteimg.com
 0.0.0.0	@@||*-open.byteimg.com
 0.0.0.0	@@||*.*.szbdyd.com
+0.0.0.0	@@||*.95516.com
 0.0.0.0	@@||*.a.yximgs.com
 0.0.0.0	@@||*.akamai-cdn-content.com
 0.0.0.0	@@||*.allawntech.com
 0.0.0.0	@@||*.anjuke.com
 0.0.0.0	@@||*.bblmw.cn
 0.0.0.0	@@||*.cdninstagram.com
+0.0.0.0	@@||*.cup.com.cn
 0.0.0.0	@@||*.dlied1.cdntips.net
+0.0.0.0	@@||*.forgecdn.net
 0.0.0.0	@@||*.heytapdownload.com
 0.0.0.0	@@||*.img.mobile.sina.cn
 0.0.0.0	@@||*.in-addr.arpa
@@ -13237,8 +13241,10 @@
 0.0.0.0	@@||baike.so.com
 0.0.0.0	@@||baikebcs.bdimg.com
 0.0.0.0	@@||baixing.com
+0.0.0.0	@@||base.cup.com.cn
 0.0.0.0	@@||bbs-static.miyoushe.com
 0.0.0.0	@@||bbs.huorong.cn
+0.0.0.0	@@||bbs.mcmod.cn
 0.0.0.0	@@||bbs.mobileapi.hupu.com
 0.0.0.0	@@||bbs.tampermonkey.net.cn
 0.0.0.0	@@||bce.baidu.com
@@ -13283,6 +13289,7 @@
 0.0.0.0	@@||btrace.qq.com
 0.0.0.0	@@||bucket-ynote-online-cdn.note.youdao.com
 0.0.0.0	@@||bud.iqiyi.com
+0.0.0.0	@@||bug.mcmod.cn
 0.0.0.0	@@||buy.itunes.apple.com
 0.0.0.0	@@||c.58cdn.com.cn
 0.0.0.0	@@||c.duomai.com
@@ -13469,6 +13476,7 @@
 0.0.0.0	@@||cn.pornhub.com
 0.0.0.0	@@||cn.register.xmpush.xiaomi.com
 0.0.0.0	@@||cn.ultraiso.net
+0.0.0.0	@@||cn.unionpay.com
 0.0.0.0	@@||cn.uptodown.com
 0.0.0.0	@@||cnbj1.fds.api.xiaomi.com
 0.0.0.0	@@||cnlogin.cainiao.com
@@ -13984,6 +13992,7 @@
 0.0.0.0	@@||i.gtimg.cn
 0.0.0.0	@@||i.ibb.co
 0.0.0.0	@@||i.imgur.com
+0.0.0.0	@@||i.mcmod.cn
 0.0.0.0	@@||i.meituan.com
 0.0.0.0	@@||i.mi.com
 0.0.0.0	@@||i.pximg.net
@@ -14003,6 +14012,7 @@
 0.0.0.0	@@||iaas.cloud.tencent.com
 0.0.0.0	@@||iask.cn
 0.0.0.0	@@||iask.com.cn
+0.0.0.0	@@||iassapi.cup.com.cn
 0.0.0.0	@@||ib.snssdk.com
 0.0.0.0	@@||ib11.go2yd.com
 0.0.0.0	@@||ic.snssdk.com
@@ -14261,6 +14271,7 @@
 0.0.0.0	@@||lf9-open-ma-pkg-sign.bytemastatic.com
 0.0.0.0	@@||liangcang-material.alicdn.com
 0.0.0.0	@@||lib.sinaapp.com
+0.0.0.0	@@||life.cup.com.cn
 0.0.0.0	@@||lifemakeovermysg.archosaur.com
 0.0.0.0	@@||lightnovel.us
 0.0.0.0	@@||limbopro.com
@@ -14270,6 +14281,7 @@
 0.0.0.0	@@||line3-h5-mobile-api.biligame.com
 0.0.0.0	@@||line3-h5-pc-api.biligame.com
 0.0.0.0	@@||line3-statics-h5-mobile-api.biligame.net
+0.0.0.0	@@||link.mcmod.cn
 0.0.0.0	@@||link.zhihu.com
 0.0.0.0	@@||linux.do
 0.0.0.0	@@||liuyun.io
@@ -14501,6 +14513,8 @@
 0.0.0.0	@@||mobile.yangkeduo.com
 0.0.0.0	@@||mobilelog.kugou.com
 0.0.0.0	@@||mobilist.kuwo.cn
+0.0.0.0	@@||modfile.mcmod.cn
+0.0.0.0	@@||modrinth.com
 0.0.0.0	@@||modyolo.com
 0.0.0.0	@@||moggy-image-1251316161.file.myqcloud.com
 0.0.0.0	@@||mon.isnssdk.com
@@ -14646,6 +14660,8 @@
 0.0.0.0	@@||open.douyin.com
 0.0.0.0	@@||open.oppomobile.com
 0.0.0.0	@@||open.snssdk.com
+0.0.0.0	@@||open.unionpay.com
+0.0.0.0	@@||open.unionpayintl.com
 0.0.0.0	@@||openap-alps.51y5.net
 0.0.0.0	@@||openapi.vmall.com
 0.0.0.0	@@||opencloud.wostore.cn
@@ -14794,6 +14810,7 @@
 0.0.0.0	@@||passport.yuewen.com
 0.0.0.0	@@||patchwiki.biligame.com
 0.0.0.0	@@||pay.bilibili.com
+0.0.0.0	@@||pay.cup.com.cn
 0.0.0.0	@@||pay.heytap.com
 0.0.0.0	@@||pay.openspeech.cn
 0.0.0.0	@@||pay.soulapp.cn
@@ -14856,6 +14873,7 @@
 0.0.0.0	@@||play-fe.googleapis.com
 0.0.0.0	@@||play.163.com
 0.0.0.0	@@||play.googleapis.com
+0.0.0.0	@@||play.mcmod.cn
 0.0.0.0	@@||play.ximalaya.com
 0.0.0.0	@@||play1.heytapimage.com
 0.0.0.0	@@||player.youku.com
@@ -15056,6 +15074,7 @@
 0.0.0.0	@@||sbfast.com
 0.0.0.0	@@||sbfull.com
 0.0.0.0	@@||scan.call.f.360.cn
+0.0.0.0	@@||scene.cup.com.cn
 0.0.0.0	@@||scriptcat.org
 0.0.0.0	@@||sd.360.cn
 0.0.0.0	@@||sdk-api.beizi.biz
@@ -15070,6 +15089,7 @@
 0.0.0.0	@@||se.360.cn
 0.0.0.0	@@||search.doubao.com
 0.0.0.0	@@||search.kuwo.cn
+0.0.0.0	@@||search.mcmod.cn
 0.0.0.0	@@||search.sogoucdn.com
 0.0.0.0	@@||search.ximalaya.com
 0.0.0.0	@@||search.youku.com
@@ -15163,6 +15183,7 @@
 0.0.0.0	@@||ssl.gstatic.com
 0.0.0.0	@@||ssl.msdk.qq.com
 0.0.0.0	@@||ssl.p.jwpcdn.com
+0.0.0.0	@@||sso.curseforge.com
 0.0.0.0	@@||sso.ele.me
 0.0.0.0	@@||ssr.m.goofish.com
 0.0.0.0	@@||st.jingxi.com
@@ -15174,6 +15195,7 @@
 0.0.0.0	@@||stat.y.qq.com
 0.0.0.0	@@||stat6.y.qq.com
 0.0.0.0	@@||static-*.xvideos-cdn.com
+0.0.0.0	@@||static-beta.curseforge.com
 0.0.0.0	@@||static-cdn77.xnxx-cdn.com
 0.0.0.0	@@||static-hw.xnxx-cdn.com
 0.0.0.0	@@||static-l3.xnxx-cdn.com
@@ -15196,6 +15218,7 @@
 0.0.0.0	@@||static.iask.cn
 0.0.0.0	@@||static.iqiyi.com
 0.0.0.0	@@||static.itellyou.cn
+0.0.0.0	@@||static.mcmod.cn
 0.0.0.0	@@||static.miraheze.org
 0.0.0.0	@@||static.onelap.cn
 0.0.0.0	@@||static.pddpic.com
@@ -15339,6 +15362,7 @@
 0.0.0.0	@@||trade-acs.m.taobao.com
 0.0.0.0	@@||train.17u.cn
 0.0.0.0	@@||translator.qq.com
+0.0.0.0	@@||travel.cup.com.cn
 0.0.0.0	@@||trpc.qianbao.qq.com
 0.0.0.0	@@||ts.market.mi-img.com
 0.0.0.0	@@||ts1.tc.mm.bing.net
@@ -15387,6 +15411,7 @@
 0.0.0.0	@@||uee.me
 0.0.0.0	@@||ugame.9game.cn
 0.0.0.0	@@||ugurl.cn
+0.0.0.0	@@||uiam.unionpayintl.com
 0.0.0.0	@@||uland.taobao.com
 0.0.0.0	@@||ulive-interact.uc.cn
 0.0.0.0	@@||ulive-sc.uc.cn
@@ -15622,6 +15647,8 @@
 0.0.0.0	@@||www.cloudns.net
 0.0.0.0	@@||www.cmpassport.com
 0.0.0.0	@@||www.crossoverchina.com
+0.0.0.0	@@||www.cup.com.cn
+0.0.0.0	@@||www.curseforge.com
 0.0.0.0	@@||www.data.mistat.*xiaomi.com
 0.0.0.0	@@||www.data.sec*.miui.com
 0.0.0.0	@@||www.deepseek.com
@@ -15682,6 +15709,7 @@
 0.0.0.0	@@||www.mairuan.com
 0.0.0.0	@@||www.manhuabei.com
 0.0.0.0	@@||www.maserati.com
+0.0.0.0	@@||www.mcmod.cn
 0.0.0.0	@@||www.meituan.com
 0.0.0.0	@@||www.meizu.com
 0.0.0.0	@@||www.mercedes-benz.com
@@ -15732,6 +15760,7 @@
 0.0.0.0	@@||www.toutiao.com
 0.0.0.0	@@||www.tudou.com
 0.0.0.0	@@||www.twitter.com
+0.0.0.0	@@||www.unionpayintl.com
 0.0.0.0	@@||www.uzzf.com
 0.0.0.0	@@||www.vmall.com
 0.0.0.0	@@||www.wnacg.com
@@ -25100,6 +25129,7 @@
 0.0.0.0	lxg8s.xyz
 0.0.0.0	lxksalary.com
 0.0.0.0	lxqcgj.com
+0.0.0.0	lxrjekw.com
 0.0.0.0	lxting.com
 0.0.0.0	lyaeccn.com
 0.0.0.0	lyapi.1391.com
