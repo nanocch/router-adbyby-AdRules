@@ -1,7 +1,7 @@
-# Version: 2026-07-22 18:35:55
+# Version: 2026-07-23 05:33:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33217
+# Total domains: 33238
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12923,9 +12923,17 @@
 0.0.0.0	@@||*.bblmw.cn
 0.0.0.0	@@||*.cdninstagram.com
 0.0.0.0	@@||*.cup.com.cn
+0.0.0.0	@@||*.dbankcdn.cn
+0.0.0.0	@@||*.dbankcdn.com
+0.0.0.0	@@||*.dbankcloud.asia
+0.0.0.0	@@||*.dbankcloud.cn
+0.0.0.0	@@||*.dbankcloud.com
+0.0.0.0	@@||*.dbankcloud.eu
+0.0.0.0	@@||*.dbankcloud.ru
 0.0.0.0	@@||*.dlied1.cdntips.net
 0.0.0.0	@@||*.forgecdn.net
 0.0.0.0	@@||*.heytapdownload.com
+0.0.0.0	@@||*.hicloud.com
 0.0.0.0	@@||*.img.mobile.sina.cn
 0.0.0.0	@@||*.in-addr.arpa
 0.0.0.0	@@||*.ke.com
@@ -12995,6 +13003,7 @@
 0.0.0.0	@@||account.dianping.com
 0.0.0.0	@@||account.oneplus.com
 0.0.0.0	@@||account.oppo.com
+0.0.0.0	@@||account.qzhua.net
 0.0.0.0	@@||account.realme.com
 0.0.0.0	@@||account.vivo.com
 0.0.0.0	@@||account.wps.cn
@@ -13076,6 +13085,7 @@
 0.0.0.0	@@||antivirus.vivo.com
 0.0.0.0	@@||anythinktech.com
 0.0.0.0	@@||aod.cos.tx.xmcdn.com
+0.0.0.0	@@||ap-*-*.agora.io
 0.0.0.0	@@||ap.6wz.co
 0.0.0.0	@@||ap6.ssl.msdk.qq.com
 0.0.0.0	@@||apd-pcdniegwzlogin.teg.tencent-cloud.net
@@ -13099,6 +13109,7 @@
 0.0.0.0	@@||api-shoulei-ssl.xunlei.com
 0.0.0.0	@@||api-unionid.meituan.com
 0.0.0.0	@@||api.account.xiaomi.com
+0.0.0.0	@@||api.agora.io
 0.0.0.0	@@||api.airpush.com
 0.0.0.0	@@||api.amemv.com
 0.0.0.0	@@||api.bilibili.com
@@ -13660,9 +13671,12 @@
 0.0.0.0	@@||doc.oplist.org.cn
 0.0.0.0	@@||dockerstatic.com
 0.0.0.0	@@||docrdsfx76ssb.cloudfront.net
+0.0.0.0	@@||docs.chmlfrp.net
 0.0.0.0	@@||docs.doudou.fun
 0.0.0.0	@@||docs.idqqimg.com
 0.0.0.0	@@||docs.scriptcat.org
+0.0.0.0	@@||docs.trae.ai
+0.0.0.0	@@||docs.trae.cn
 0.0.0.0	@@||docs.vilinko.com
 0.0.0.0	@@||domains-ws.revved.com
 0.0.0.0	@@||dorado.xiaojukeji.com
@@ -13832,6 +13846,7 @@
 0.0.0.0	@@||fmip.icloud.com
 0.0.0.0	@@||fonts.googleapis.com
 0.0.0.0	@@||fonts.gstatic.com
+0.0.0.0	@@||forum.trae.cn
 0.0.0.0	@@||forums.oneplus.com
 0.0.0.0	@@||foundation.youdao.com
 0.0.0.0	@@||fourhoi.com
@@ -14239,6 +14254,7 @@
 0.0.0.0	@@||l36-danmu.hi.163.com
 0.0.0.0	@@||l36.gdl.netease.com
 0.0.0.0	@@||l36.update.netease.com
+0.0.0.0	@@||l36.update.nieapps.com
 0.0.0.0	@@||laohuangli.bmcx.com
 0.0.0.0	@@||laomaotao.net
 0.0.0.0	@@||laowang.vip
@@ -14797,6 +14813,7 @@
 0.0.0.0	@@||p6-sign.douyinpic.com
 0.0.0.0	@@||p6-webcast-sign.douyinpic.com
 0.0.0.0	@@||p6.douyinpic.com
+0.0.0.0	@@||p9-arcosite.byteimg.com
 0.0.0.0	@@||p9-catpcha.byteimg.com
 0.0.0.0	@@||p9-dcd-sign.byteimg.com
 0.0.0.0	@@||p9-dcd.byteimg.com
@@ -14816,6 +14833,7 @@
 0.0.0.0	@@||pages.github.com
 0.0.0.0	@@||pan.quark.cn
 0.0.0.0	@@||pan.xunlei.com
+0.0.0.0	@@||panel.chmlfrp.net
 0.0.0.0	@@||papegames.qiyukf.com
 0.0.0.0	@@||parked-content.godaddy.com
 0.0.0.0	@@||parking.namesilo.com
@@ -15666,6 +15684,7 @@
 0.0.0.0	@@||www.chemdraw.com.cn
 0.0.0.0	@@||www.chinaunicom.com
 0.0.0.0	@@||www.chinaunicom.com.cn
+0.0.0.0	@@||www.chmlfrp.net
 0.0.0.0	@@||www.clips4sale.com
 0.0.0.0	@@||www.cloudflare-cn.com
 0.0.0.0	@@||www.cloudflare.com
@@ -15684,6 +15703,7 @@
 0.0.0.0	@@||www.douyin.com
 0.0.0.0	@@||www.dpfile.com
 0.0.0.0	@@||www.dxmpay.com
+0.0.0.0	@@||www.emojiall.com
 0.0.0.0	@@||www.enigmaprotector.cn
 0.0.0.0	@@||www.enigmaprotector.com
 0.0.0.0	@@||www.epicgames.com
@@ -15735,6 +15755,7 @@
 0.0.0.0	@@||www.manhuabei.com
 0.0.0.0	@@||www.maserati.com
 0.0.0.0	@@||www.mcmod.cn
+0.0.0.0	@@||www.mefrp.com
 0.0.0.0	@@||www.meituan.com
 0.0.0.0	@@||www.meizu.com
 0.0.0.0	@@||www.mercedes-benz.com
