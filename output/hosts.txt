@@ -1,7 +1,7 @@
-# Version: 2026-08-07 08:55:36
+# Version: 2026-08-07 17:28:20
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33252
+# Total domains: 33275
 
 0.0.0.0	!
 0.0.0.0	!
@@ -42,12 +42,15 @@
 0.0.0.0	*.3r5ia7l.xyz
 0.0.0.0	*.4egscv.com
 0.0.0.0	*.59p643.com
+0.0.0.0	*.5z3r02h.com
 0.0.0.0	*.5z6h6b.cn
 0.0.0.0	*.60qso7.com
+0.0.0.0	*.636371.lifestyle
 0.0.0.0	*.6nxa6g.com
 0.0.0.0	*.80ritc.com
 0.0.0.0	*.8359300.cc
 0.0.0.0	*.8vx3zks.xyz
+0.0.0.0	*.9nm1ol2.com
 0.0.0.0	*.9tjoj6.com
 0.0.0.0	*.a48962121.top
 0.0.0.0	*.acdnrvh.com
@@ -55,6 +58,8 @@
 0.0.0.0	*.anhuyj.cn
 0.0.0.0	*.arbyyu.com
 0.0.0.0	*.awkwla.cn
+0.0.0.0	*.awsrp4.com
+0.0.0.0	*.b26u62v.com
 0.0.0.0	*.b5gvpk5.com
 0.0.0.0	*.bg3partner.fun
 0.0.0.0	*.bg4f8d.com
@@ -89,12 +94,14 @@
 0.0.0.0	*.fohbgjv.com
 0.0.0.0	*.fokm37.cn
 0.0.0.0	*.ft33t3w.pro
+0.0.0.0	*.fyzermq.com
 0.0.0.0	*.g0d679.com
 0.0.0.0	*.g9hc4.cn
 0.0.0.0	*.gdolr.cn
 0.0.0.0	*.giqnyl.cn
 0.0.0.0	*.guanaibao.com
 0.0.0.0	*.h6jv1o.com
+0.0.0.0	*.h9bc7k.top
 0.0.0.0	*.hrdhej.xyz
 0.0.0.0	*.hychwg.cyou
 0.0.0.0	*.iburtq.xyz
@@ -105,6 +112,7 @@
 0.0.0.0	*.jjoiw4.com
 0.0.0.0	*.jjzemoc3ca.top
 0.0.0.0	*.jqnljze.xyz
+0.0.0.0	*.jsak628.vip
 0.0.0.0	*.jtkkkxy.com
 0.0.0.0	*.jvere.xyz
 0.0.0.0	*.jwcnmta.top
@@ -118,11 +126,13 @@
 0.0.0.0	*.laebu.cn
 0.0.0.0	*.ligmd359543.vip
 0.0.0.0	*.lijie.*/*_*?$third-party
+0.0.0.0	*.lwaed631.vip
 0.0.0.0	*.lxclli.cn
 0.0.0.0	*.lzwrhiw.xyz
 0.0.0.0	*.md410.cc
 0.0.0.0	*.mise*.buzz
 0.0.0.0	*.mkwqj.com
+0.0.0.0	*.mmdf645.vip
 0.0.0.0	*.mokhuba.com
 0.0.0.0	*.mvepu.com
 0.0.0.0	*.myug4s.com
@@ -148,6 +158,7 @@
 0.0.0.0	*.pnwix.cn
 0.0.0.0	*.poeme.cn
 0.0.0.0	*.ppfu3m.com
+0.0.0.0	*.pqwxf4b.com
 0.0.0.0	*.qc.bsccdn.net
 0.0.0.0	*.qgivvd.cn
 0.0.0.0	*.qiuxl11.cn
@@ -169,12 +180,14 @@
 0.0.0.0	*.tkmihh.xyz
 0.0.0.0	*.tnprn.cn
 0.0.0.0	*.u101vb.com
+0.0.0.0	*.u2ir3v.top
 0.0.0.0	*.ud9ipy.com
 0.0.0.0	*.ul2tos.cn
 0.0.0.0	*.uryxw.com
 0.0.0.0	*.uweisit.top
 0.0.0.0	*.v4v6v4.com
 0.0.0.0	*.vkomjd.com
+0.0.0.0	*.vu1elrx.com
 0.0.0.0	*.wacaoldy1.com
 0.0.0.0	*.weilayun.com
 0.0.0.0	*.wfojsm.com
@@ -12359,6 +12372,7 @@
 0.0.0.0	42yenxh.cn
 0.0.0.0	43.206.62.10
 0.0.0.0	4336wang.cn
+0.0.0.0	437944.xyz
 0.0.0.0	44444444444.xyz
 0.0.0.0	44r9fl.xyz
 0.0.0.0	45.116.79.187
@@ -12569,6 +12583,7 @@
 0.0.0.0	6726lmym.top
 0.0.0.0	6728812.com
 0.0.0.0	678tl.com
+0.0.0.0	67evjpvdi.com
 0.0.0.0	67tool.com##.footer-banner
 0.0.0.0	685wo.com
 0.0.0.0	68665565.com
@@ -12601,6 +12616,7 @@
 0.0.0.0	6quspne.com
 0.0.0.0	6tofsu.com
 0.0.0.0	6tsbe1zs.me
+0.0.0.0	6un45sxmx.com
 0.0.0.0	6uzxtlv.cn
 0.0.0.0	6v4.work
 0.0.0.0	6v6.work
@@ -20651,6 +20667,7 @@
 0.0.0.0	dns2.q2cdn.com
 0.0.0.0	dns2.titannetwork.cn
 0.0.0.0	dnvus.com
+0.0.0.0	dnweq5z5g.com
 0.0.0.0	dnyzbp.cn
 0.0.0.0	dnzmhr.xyz
 0.0.0.0	do-not-tracker.org
@@ -23709,6 +23726,7 @@
 0.0.0.0	izaiwen.cn##DIV[carousel-item]
 0.0.0.0	izeokt.cn
 0.0.0.0	izicai.xyz
+0.0.0.0	izq.lwaed633.vip
 0.0.0.0	j.6avz.com
 0.0.0.0	j.baminw.cn
 0.0.0.0	j.biquge520.cc
@@ -26942,6 +26960,7 @@
 0.0.0.0	omlube.com/O/1000970O3001405O1O.js
 0.0.0.0	ommbqw.icu
 0.0.0.0	omnikool.discovery.com
+0.0.0.0	ompkcy255.vip
 0.0.0.0	omtrdc.net
 0.0.0.0	on-device-ai.vivo.com.cn
 0.0.0.0	on.maxspeedcdn.com
@@ -28067,6 +28086,7 @@
 0.0.0.0	qos.report.qq.com
 0.0.0.0	qosp.iqiyi.com
 0.0.0.0	qosp.msg.71.am
+0.0.0.0	qouy029.top
 0.0.0.0	qowfknlds.net
 0.0.0.0	qp.yunanfuwuqi.com
 0.0.0.0	qp89pj.com
@@ -28127,6 +28147,7 @@
 0.0.0.0	qt73q.top
 0.0.0.0	qtaeixd.com
 0.0.0.0	qtd95fj.online
+0.0.0.0	qthw061.top
 0.0.0.0	qtienly.top
 0.0.0.0	qtlianmeng.com
 0.0.0.0	qtmdzsj.cn
@@ -29860,6 +29881,7 @@
 0.0.0.0	swdownload.apple.com
 0.0.0.0	switchadhub.com
 0.0.0.0	switching.atm.punchbox.org
+0.0.0.0	swmshpphnu2.com
 0.0.0.0	swpgjai.pop.weddingeeos.com
 0.0.0.0	swquery.apple.com
 0.0.0.0	swscan.apple.com
@@ -31825,6 +31847,7 @@
 0.0.0.0	wpoarjokzgi.com
 0.0.0.0	wpwdf.com
 0.0.0.0	wpwpquse.cn
+0.0.0.0	wpy.jsak634.vip
 0.0.0.0	wqbapi.veredloanweb.com
 0.0.0.0	wqbweb.veredloanweb.com
 0.0.0.0	wqddq.com
