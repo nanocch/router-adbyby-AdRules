@@ -1,7 +1,7 @@
-# Version: 2026-08-17 17:05:13
+# Version: 2026-08-18 04:49:20
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33314
+# Total domains: 33323
 
 0.0.0.0	!
 0.0.0.0	!
@@ -46,6 +46,7 @@
 0.0.0.0	*.5z6h6b.cn
 0.0.0.0	*.60qso7.com
 0.0.0.0	*.636371.lifestyle
+0.0.0.0	*.6f2fd.com
 0.0.0.0	*.6nxa6g.com
 0.0.0.0	*.80ritc.com
 0.0.0.0	*.8359300.cc
@@ -102,6 +103,7 @@
 0.0.0.0	*.guanaibao.com
 0.0.0.0	*.h6jv1o.com
 0.0.0.0	*.h9bc7k.top
+0.0.0.0	*.hbshgll.cn
 0.0.0.0	*.hrdhej.xyz
 0.0.0.0	*.hychwg.cyou
 0.0.0.0	*.iburtq.xyz
@@ -133,6 +135,7 @@
 0.0.0.0	*.mise*.buzz
 0.0.0.0	*.mkwqj.com
 0.0.0.0	*.mmdf645.vip
+0.0.0.0	*.mmdg731.vip
 0.0.0.0	*.mokhuba.com
 0.0.0.0	*.mvepu.com
 0.0.0.0	*.myug4s.com
@@ -147,6 +150,7 @@
 0.0.0.0	*.o96jic.com
 0.0.0.0	*.obj23q.com
 0.0.0.0	*.ochhnea.xyz
+0.0.0.0	*.olbbfulmed.com
 0.0.0.0	*.ombuw.xyz
 0.0.0.0	*.oneliner.cn
 0.0.0.0	*.org/config/v7.js
@@ -166,6 +170,7 @@
 0.0.0.0	*.retail.n.weimob.com
 0.0.0.0	*.rfvjl.cn
 0.0.0.0	*.rhjdc.com
+0.0.0.0	*.rhkd324.com
 0.0.0.0	*.rtnwv.com
 0.0.0.0	*.s8etj5.com
 0.0.0.0	*.saxysec.com
@@ -173,12 +178,14 @@
 0.0.0.0	*.siigck.xyz
 0.0.0.0	*.sjpxfz.xyz
 0.0.0.0	*.so04011koaq.com
+0.0.0.0	*.svxd326.vip
 0.0.0.0	*.taoroad.com.cn
 0.0.0.0	*.tap0102mzq.top
 0.0.0.0	*.tbyfz.xyz
 0.0.0.0	*.tfkoa.com
 0.0.0.0	*.tkmihh.xyz
 0.0.0.0	*.tnprn.cn
+0.0.0.0	*.twpvm.com
 0.0.0.0	*.u101vb.com
 0.0.0.0	*.u2ir3v.top
 0.0.0.0	*.ud9ipy.com
@@ -192,12 +199,14 @@
 0.0.0.0	*.weilayun.com
 0.0.0.0	*.wfojsm.com
 0.0.0.0	*.wknij.com
+0.0.0.0	*.wwbszy.com
 0.0.0.0	*.wy2qq.top
 0.0.0.0	*.x586di.com
 0.0.0.0	*.x7jy10.com
 0.0.0.0	*.xiangde.top
 0.0.0.0	*.xpj2443430.cc
 0.0.0.0	*.xqojux.xyz
+0.0.0.0	*.xsade391.vip
 0.0.0.0	*.xwcphd.xyz
 0.0.0.0	*.xxsp002.cyou
 0.0.0.0	*.xzdabyw.xyz
@@ -337,7 +346,6 @@
 0.0.0.0	/_xa/ads
 0.0.0.0	/_xa/ads?
 0.0.0.0	/_xa/ads_
-0.0.0.0	/ad-sign.*/
 0.0.0.0	/adjs
 0.0.0.0	/api/LM/Report?placeUUID=$third-party
 0.0.0.0	/api/ad/*
@@ -365,15 +373,11 @@
 0.0.0.0	/biyys*hh.js$third-party
 0.0.0.0	/blxn_*_*_*?*$third-party
 0.0.0.0	/bugsnag.min.js$third-party
-0.0.0.0	/bytedance.*/
-0.0.0.0	/bytegoofy.*/
-0.0.0.0	/byteorge.*/
 0.0.0.0	/config/tj.js
 0.0.0.0	/css/ad.
 0.0.0.0	/delivery/afr.
 0.0.0.0	/dibu.adadadad
 0.0.0.0	/exads-adblock-3.10
-0.0.0.0	/fqnovelvod.*/
 0.0.0.0	/gameapk/*/hongbao.apk
 0.0.0.0	/get/*?zoneid=$script
 0.0.0.0	/gg/gg.js
@@ -401,11 +405,9 @@
 0.0.0.0	/js/pingbi.js
 0.0.0.0	/js/statistics/user_ad.js
 0.0.0.0	/js/tj.js
-0.0.0.0	/lf.fqnovel.*/
 0.0.0.0	/m.html?rmid=*&yd=
 0.0.0.0	/m.html?shareName=*&proxyAccount=
 0.0.0.0	/matomo.js$third-party
-0.0.0.0	/mgsdk-sign.*/
 0.0.0.0	/pangolin-sdk.*/
 0.0.0.0	/public/tingshu/foor.js$~third-party
 0.0.0.0	/redbaiduct.com?s=
@@ -414,7 +416,6 @@
 0.0.0.0	/show_ads_
 0.0.0.0	/sinaads/release/sinaads.js
 0.0.0.0	/site/mov*$third-party
-0.0.0.0	/snssdk.*/
 0.0.0.0	/static/2biqu/twgdh.js
 0.0.0.0	/static/83zg/tss.js
 0.0.0.0	/static/jietiandixs/jtd.js$~third-party
@@ -448,7 +449,6 @@
 0.0.0.0	/xxgg/gd*.js
 0.0.0.0	/xxgg/pf*.js
 0.0.0.0	/yinghuacd/bottom.js
-0.0.0.0	/zijieapi.*/
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
@@ -13117,6 +13117,7 @@
 0.0.0.0	@@||api-n0vadp-static.hoyoverse.com
 0.0.0.0	@@||api-pay.soulapp.cn
 0.0.0.0	@@||api-pda.jdl.com
+0.0.0.0	@@||api-play.amemv.com
 0.0.0.0	@@||api-push.meizu.com
 0.0.0.0	@@||api-shoulei-ssl.xunlei.com
 0.0.0.0	@@||api-unionid.meituan.com
@@ -13927,6 +13928,7 @@
 0.0.0.0	@@||genshin.hoyoverse.com
 0.0.0.0	@@||get.shouji.sogou.com
 0.0.0.0	@@||get.sogou.com
+0.0.0.0	@@||getbootstrap.com
 0.0.0.0	@@||ggpht.com
 0.0.0.0	@@||gia.jd.com
 0.0.0.0	@@||gift.douyucdn.cn
@@ -14331,6 +14333,7 @@
 0.0.0.0	@@||lf1-cdn-tos.bytegoofy.com
 0.0.0.0	@@||lf1-cdn-tos.bytescm.com
 0.0.0.0	@@||lf3-card-system.searchpstatp.com
+0.0.0.0	@@||lf3-cdn-tos.bdxiguastatic.com
 0.0.0.0	@@||lf3-cdn-tos.bytecdntp.com
 0.0.0.0	@@||lf3-cdn-tos.bytegoofy.com
 0.0.0.0	@@||lf3-cdn-tos.bytescm.com
@@ -14427,6 +14430,7 @@
 0.0.0.0	@@||m.intl.taobao.com
 0.0.0.0	@@||m.ip138.com
 0.0.0.0	@@||m.iqiyi.com
+0.0.0.0	@@||m.ixigua.com
 0.0.0.0	@@||m.jd.com
 0.0.0.0	@@||m.jf.10010.com
 0.0.0.0	@@||m.jiaoyimao.com
@@ -14839,6 +14843,7 @@
 0.0.0.0	@@||p3-tt.byteimg.com
 0.0.0.0	@@||p3-webcast-sign.douyinpic.com
 0.0.0.0	@@||p3-webcast.douyinpic.com
+0.0.0.0	@@||p3.bdxiguaimg.com
 0.0.0.0	@@||p3.dcarimg.com
 0.0.0.0	@@||p3.douyinpic.com
 0.0.0.0	@@||p4-ad.adukwai.com
@@ -15799,6 +15804,7 @@
 0.0.0.0	@@||www.ip138.com
 0.0.0.0	@@||www.iqiyi.com
 0.0.0.0	@@||www.itools.info
+0.0.0.0	@@||www.ixigua.com
 0.0.0.0	@@||www.javbangers.com
 0.0.0.0	@@||www.jd.com
 0.0.0.0	@@||www.jetbrains.com.cn
@@ -15968,6 +15974,7 @@
 0.0.0.0	@@||yybadaccess.3g.qq.com
 0.0.0.0	@@||yys.163.com
 0.0.0.0	@@||yzg.wavee.cn
+0.0.0.0	@@||z.ixigua.com
 0.0.0.0	@@||z.weixin.qq.com
 0.0.0.0	@@||zazhipu.com
 0.0.0.0	@@||zconfig.alibabausercontent.com
@@ -22813,6 +22820,7 @@
 0.0.0.0	hkgryazmc.pubend81372.vip
 0.0.0.0	hkk456.cc
 0.0.0.0	hkkeafj.cn
+0.0.0.0	hkl.xiuseab222.vip
 0.0.0.0	hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0	hkrpg-log-upload.mihoyo.com
 0.0.0.0	hkscldggm.xyz
@@ -26421,7 +26429,6 @@
 0.0.0.0	mstzym.com
 0.0.0.0	mswd00602.xz.ajshs.cn
 0.0.0.0	msxf.com
-0.0.0.0	msync-im1-vip6-std.easemob.com
 0.0.0.0	msypr.com
 0.0.0.0	mt*.vip
 0.0.0.0	mt131840.aishanglight.com
@@ -27106,6 +27113,7 @@
 0.0.0.0	ort-stsdk.vivo.com.cn
 0.0.0.0	ort.stsdk.vivo.com.cn
 0.0.0.0	ortc.cc
+0.0.0.0	orvexlumin.698518.xyz
 0.0.0.0	orxsq.xyz
 0.0.0.0	orz.hupu.com
 0.0.0.0	osancik.top
@@ -32154,6 +32162,7 @@
 0.0.0.0	xhbqczl.com
 0.0.0.0	xhcdn.com
 0.0.0.0	xheqbc.cn
+0.0.0.0	xhffhsl.*.boutique
 0.0.0.0	xhfz2.com##A[href
 0.0.0.0	xhfz2.com##DIV#topcont
 0.0.0.0	xhfz2.com##DIV.HomeTuList
