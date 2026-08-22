@@ -2,14 +2,12 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 33589
-! Version: 2026-08-21 20:41:15（北京时间）
+! Total count: 33475
+! Version: 2026-08-22 09:06:03（北京时间）
 *-*-*-lrycfv.vip
 *-ad-sign.byteimg.com
-*-ad-union-sdk.pglstatp-toutiao.com
 *-ad.a.yximgs.com
 *-ad.adbkwai.com
-*-ad.adkwai.com
 *-ad.adukwai.com
 *-ad.gskwai.com
 *-ad.sm.cn*
@@ -21,7 +19,6 @@
 *-inapps.appsflyersdk.com
 *-launches.appsflyersdk.com
 *-normal.zijieapi.com*
-*-reading-ad.qznovelvod.com
 *.*-t0613.vip
 *.01fwzb.com
 *.04kai.org
@@ -53,10 +50,8 @@
 *.9tjoj6.com
 *.a48962121.top
 *.acdnrvh.com
-*.ads.heytapmobi.com
 *.amwexgj.com
 *.anhuyj.cn
-*.applovin.com
 *.arbyyu.com
 *.awkwla.cn
 *.awsrp4.com
@@ -116,7 +111,6 @@
 *.jqnljze.xyz
 *.jsak628.vip
 *.jtkkkxy.com
-*.juicyads.me
 *.jvere.xyz
 *.jwcnmta.top
 *.jyzkhdq.com
@@ -195,7 +189,6 @@
 *.uweisit.top
 *.v4v6v4.com
 *.vkomjd.com
-*.voiceads.cn
 *.vu1elrx.com
 *.wacaoldy1.com
 *.weilayun.com
@@ -223,20 +216,11 @@
 *.zxscn.com
 *.zzz725.top
 */blsx_*_*_*?*$third-party
-*/omts.tc.qq.com
-*/snscosdownload/*/reserved/*
 *ad.adbkwai.com
-*ad.wtzw.com
-*adintl.cn
-*googleads*
-*googleadsserving.cn
 *live-p2p*.bilibili*
 *martrix_bbs.gif
 *martrix_bbs.jpg
-*pangolin*toutiao*.com
-*pglstatp-toutiao.com
 *stun.kugou.com
-*unityads.unity3d.com
 *vmind.qqvideo.tc.qq.com
 *yydstxt*/js/cdn.js
 -1325890192.cos.
@@ -6981,9 +6965,6 @@
 118pan.com##.card.mt-2:nth-child(2)
 11g.yiqig.cn
 11jianzhan.com
-120.226.10.195
-120.232.58.157
-120.232.6.158
 1205qitiao2022.xyz
 1206q3-giqvvwa1jie9-017.cbhdmir.cn
 120ask.com##IFRAME[width='400']
@@ -16285,7 +16266,6 @@ activity.app.autohome.com.cn
 activity.baidu.com
 activity.hdslb.com
 activity.hnhnmg.com
-activity.inads.cn
 activity.serving-sys.com
 activity.tuifish.com
 activity.yuyiya.com
@@ -16332,9 +16312,6 @@ ad-plus.cn
 ad-r-t.soulapp-inc.cn
 ad-r.soulapp.cn
 ad-reward.soulapp.cn
-ad-rs6-bjmt-platform34.idcyz.hb1.kwaidc.com
-ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com
-ad-rs6-bjmt5409.idcyz.hb1.kwaidc.com
 ad-scope.com
 ad-scope.com.cn
 ad-sdk-config.youdao.com
@@ -16406,7 +16383,6 @@ ad.dedecms.com
 ad.dev.360.cn
 ad.digitimes.com.tw
 ad.directmirror.com
-ad.dm.gg
 ad.dokrmob.com
 ad.doubanio.com
 ad.doubleclick.net
@@ -16522,7 +16498,6 @@ ad.reachlocal.com
 ad.rednet.cn
 ad.reklamport.com
 ad.richmob.cn
-ad.samsungadhub.com
 ad.scdn.io
 ad.search.ch
 ad.seeyouyima.com
@@ -16536,7 +16511,6 @@ ad.sinovision.net
 ad.sitemaji.com
 ad.slutload.com
 ad.smaato.net
-ad.smartadserver.com
 ad.smartclip.net
 ad.sohu.com
 ad.spielothek.so
@@ -16570,9 +16544,6 @@ ad.winningpartner.com
 ad.winrar.com.cn
 ad.wretch.cc
 ad.wtzw.com
-ad.wx.com
-ad.wx.com:12638
-ad.xelements.cn
 ad.xiaohongshu.com
 ad.xiaomi.com
 ad.ximalaya.com
@@ -16879,13 +16850,7 @@ adrotator.se
 adrs.sdo.com
 adrunnr.com
 ads*-normal*.zijieapi.com
-ads*-normal-hl.zijieapi.com
-ads*-normal-lf.zijieapi.com
-ads*-normal-lq.zijieapi.com
-ads*-normal.zijieapi.com
-ads*.papegames.com
 ads*.zijieapi.com
-ads-*.xhscdn.com
 ads-acc.qqbrowser.qq.com
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
@@ -16903,8 +16868,6 @@ ads-img-qc.xhscdn.com
 ads-jp.tiktok.com
 ads-lb.serving-sys.cn
 ads-marketing-vivofs.vivo.com.cn
-ads-mas-us.vivobrowser.com
-ads-mas.vivobrowser.com
 ads-pixiv.net
 ads-privacy-api.prd.mz.internal.unity3d.com
 ads-sdk-api.ranfenghd.com
@@ -16954,7 +16917,6 @@ ads.lejuliang.cn
 ads.lejuliang.com
 ads.lingyuexiu.cn
 ads.linkedin.com
-ads.log.kafka.top
 ads.midongtech.com
 ads.mojicdn.com
 ads.morefreegame.com
@@ -17134,7 +17096,6 @@ adsrvr.org
 adss.dotdo.net
 adss.video.qq.com
 adss.yahoo.com
-adsserver.yadro.ru
 adstage-analytics.herokuapp.com
 adstat.cp11.ott.cibntv.net
 adstat.izuiyou.com
@@ -17186,7 +17147,6 @@ aduu.cn
 adv-api.shenshiads.com
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
-adv.adriver.ru
 adv.api.mucfc.com
 adv.app.qq.com
 adv.bandi.so
@@ -17638,7 +17598,6 @@ apd-vodp2plogin.teg.tencent-cloud.net
 apd-vodp2pnat.teg.tencent-cloud.net
 apdfmhp.cn
 apfobmfr.cn
-api-access.pangolin-sdk-toutiao-*.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.queniuyk.com
@@ -17716,7 +17675,6 @@ api.cgyx.tv
 api.chcatv.hismarttv.com
 api.cmt.mob.com
 api.coolguang.com
-api.crashlytics.com
 api.cupid.iqiyi.com
 api.cupid.qiyi.com
 api.cxzudwk.com
@@ -17766,7 +17724,6 @@ api.kingdata.ksyun.com
 api.koudaikj.com
 api.kurobbs.com/config/getOpenScreen*
 api.kwaizt.com
-api.launchdarkly.com
 api.leadbolt.net
 api.liumingye.cn
 api.luckyorange.com
@@ -17798,7 +17755,6 @@ api.rees46.com
 api.revenuads.com
 api.rideraid.net
 api.rlcdn.com
-api.rollbar.com
 api.sa.hismarttv.com
 api.scwsf.com
 api.segment.io
@@ -18015,7 +17971,6 @@ apppush.xiaohongshu.com
 apppv.zol.com.cn
 apps.bytesfield-b.com
 apps.bytesfield.com
-apps.iad.apple.com
 apps.mobilityware.com
 apps.oceanengine.com
 apps.outfit7.com
@@ -18182,7 +18137,6 @@ audd.shuzilm.cn
 audid-api.taobao.com
 audid.umeng.com
 audience.network
-audit.quantcast.mgr.consensu.org
 auete.pro/js/mcenter/
 auni.telecome.cn
 auni.unioncom.cc
@@ -19285,7 +19239,6 @@ cdn.0i-i0.com
 cdn.5bong.com
 cdn.7nsc.cn
 cdn.9823df.com
-cdn.abtest.ai
 cdn.adapi.fotoable.com
 cdn.adsk2.co
 cdn.adstract.com
@@ -19322,7 +19275,6 @@ cdn.iads.unitychina.cn
 cdn.iclicash.com
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
-cdn.inads.cn
 cdn.innity.net
 cdn.itphanpytor.club
 cdn.jesgoo.com
@@ -19372,7 +19324,6 @@ cdn.smartimg.chelaile.net.cn
 cdn.soulapp.cn
 cdn.sp.rizhao9.com
 cdn.split.io
-cdn.spotxcdn.com
 cdn.springserve.com
 cdn.taboola.com
 cdn.tianmidian.com
@@ -19381,7 +19332,6 @@ cdn.uaa010.com
 cdn.vamaker.com
 cdn.viglink.com
 cdn.vue-js.cyou
-cdn.vwo.com
 cdn.weiye.net
 cdn.wuxiqiangheng.com
 cdn.wwads.cn
@@ -19436,7 +19386,6 @@ centering.raidrive.com###div-gpt-ad-1648048258625-0
 centering.raidrive.com###div-gpt-ad-1666694094447-0
 centering.raidrive.com/standard/c/widget
 cerebral.typn.com
-certify.alexametrics.com
 ceseasons.com
 ceshi1.ink
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
@@ -19603,7 +19552,6 @@ cleaner.baidu.com
 click*forhz.adsmogo.com
 click-cn.plista.com
 click.chinaliftoff.io
-click.em.pardot.com
 click.googleanalytics.com
 click.hunantv.com
 click.liftoff.io
@@ -19723,7 +19671,6 @@ cn-da.anythinktech.com
 cn-fp.apitd.net
 cn-tk.anythinktech.com
 cn.api.push.le.com
-cn.gdt.qq.com
 cn.pub.vpon.com
 cn.tatami-solutions.com
 cnalzlf.top
@@ -19780,14 +19727,11 @@ codesoftchina.com
 coin-api.y5coin.com
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
-coin-hive-proxy.com
 coin-hive.com
 coinblind.com
 coinerra.com
 coinhive-manager.com
-coinhive-proxy.com
 coinhive.com
-coinhiveproxy.com
 coinimp.com
 coinminerz.com
 coinnebula.com
@@ -19843,7 +19787,6 @@ connect.summit.co.uk
 connection-center.vivo.com.cn
 connectivitycheck.vivo.com.cn
 connectreadoasis.com
-consent-api.exponential.com
 consent-pref.trustarc.com
 consent.cookiebot.com
 consent.trustarc.com
@@ -20339,7 +20282,6 @@ data.chsmarttv.com
 data.danmu.baofeng.com
 data.doodlemobile.com
 data.feidee.net
-data.flurry.com
 data.gosquared.com
 data.gzuzfa.cn
 data.hicloud.com
@@ -20625,7 +20567,6 @@ disp.titan.mgtv.com
 dispatch-api-online.vemarsdev.com
 dispatcher.upmc.uc.cn
 dispenser-rtb.sape.ru
-display-apps-ui-soak.iad.apple.com
 display-apps-ui.iad.apple.com
 display.360totalsecurity.com
 display.ad.daum.net
@@ -20837,7 +20778,6 @@ down.xiazaidc.com
 down.xiazaiyuan.net
 downali.game.uc.cn
 downlaod.xiaocen.com
-download*.vzuu.com
 download-juui-plugin.hismarttv.com
 download-upgrade.hismarttv.com
 download.123cw.cn
@@ -21434,7 +21374,6 @@ elsmom.xyz
 elsynmlw.fun
 eltdeh.top
 em.baidu.com
-email-open.dripemail2.com
 email.getresponse.com
 email.mailgun.net
 emar.com
@@ -21754,7 +21693,6 @@ feedback.71.am
 feedback.whalecloud.com
 feeds.logicbuy.com
 feeds.videosz.com
-feeds.vivo.com.cn
 feedsplat.vivo.com.cn
 fei232.bhzje7ua9.com
 feidalu.com
@@ -21877,7 +21815,6 @@ flysleep.cn
 fm.p0y.cn
 fm.qzone.qq.com
 fmgoal.com
-fmiphone-apple.com
 fmkipgm.icu
 fmre1.com
 fnfhjka.xyz
@@ -22086,7 +22023,6 @@ g94.cn
 g9s.sgzs999.com
 gaandroid.talkingdata.net
 gad.kugou.com
-gads.pubmatic.com
 gadwhy.com
 gafxa.code.mytanwan.com
 gahhs029.top
@@ -22163,7 +22099,6 @@ gdjme27.com
 gdls114.com
 gdmf.apple.com
 gdoibwfvjqf.com
-gdpr.trustarc.com
 gdskywings.com
 gdsoq.com
 gdsqwy.org
@@ -23059,7 +22994,6 @@ huashengtai.net
 huashuowork.com
 huatihui.io
 huatuo.qq.com
-huaweicdncmnet.inter.iqiyi.com
 huaweinnd.top
 huaxia.name
 huaxinxunye.cn
@@ -23740,7 +23674,6 @@ ir.mail.126.com
 ir.mail.163.com
 ir.mail.yeah.net
 irc.qubiankeji.com
-iris.iad.apple.com
 iroby.com
 ironsrc.com
 irpmt.mail.163.com
@@ -23788,7 +23721,6 @@ ithome.com##.op
 ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 ithome.com##.visited-link-color-fixed:has(.tip-gray)
 itienlo.top
-itjcqlp.icu
 itnuzleafan.com
 itpest.cn
 its-dori.tumblr.com
@@ -24805,14 +24737,12 @@ lajizhan.org
 lakefish.xyz
 lakjdskls.zhdchb.com
 lalabaos1022.top
-lalabaos1026.top
 lalanuz.cn
 lalaping.com
 laljjn.xyz
 lambda.raidrive.com
 lamkghx.icu
 lan.btwan5.com
-landing.gdtimg.com
 langchars.com
 langjiyisheng.com
 lanmeifeel.xyz
@@ -24907,7 +24837,6 @@ lf-cdn-tos.bytescm.com
 lf-event-manager.oceanengine.com
 lf-fe.fqnovelstatic.com
 lf-leads-fe-scm.bytecdn.com
-lf-leads-fe-scm.bytecdn.com.*.queniubg.com
 lf-reward-video.bytedcdn.com
 lf-wkrs.wkbrowser.com
 lf1-cdn-tos.bytegoofy.com
@@ -25134,7 +25063,6 @@ localnetwork.uop
 localytics.com
 locdrop.query.yahoo.com
 lofter.httpdns.c.163.com
-log*-applog-lq.fqnovel.com
 log*-misc-lq.amemv.com
 log*-normal-lq.toutiaoapi.com
 log-alibaba-taobao-douyin.cdn.bcebos.com
@@ -25240,7 +25168,6 @@ logrcv.aiclk.com
 logrcv.yunxish.com
 logs.amap.com
 logs.chelaile.net.cn
-logs.logrocket.io
 logsdk.qq.com
 logserver-cn-comue.obs.cn-north1.ctyun.cn
 logserver-cn-ty.obs.cn-north1.ctyun.cn
@@ -25312,8 +25239,6 @@ lskmipb.icu
 lslbahl.top
 lstat.youku.com
 lsxmg.com
-lt.activecampaign.com
-lt.pardot.com
 lt.shuinn7.top
 ltcprtc.com
 ltheanine.cn
@@ -25335,7 +25260,6 @@ luckyorange.com
 luckysf.net
 lucting.cn
 lufax.com
-luggagetumbledapple.com
 luimg.baidu.com
 lulu.sqznt.cn
 luodiye6666.oss-cn-hongkong.aliyuncs.com
@@ -26176,7 +26100,6 @@ mindopu.com
 mine.z74d.com
 minemytraffic.com
 minergate.com
-minero-proxy.com
 minero.cc
 minesage.com
 minfo.wps.cn
@@ -27120,7 +27043,6 @@ open-client.douyin.com
 open-iflow.meizu.com
 open-set-api.shenshiads.com
 open-uc.cn
-open.activecampaign.com
 open.convertkit.com
 open.douyin.com
 open.e.kuaishou.cn
@@ -27249,14 +27171,8 @@ oz8xhen.top
 ozkbdxdu.icu
 p*-ad-aweme.byteimg.com
 p*-ad-sign.byteimg.com
-p*-ad.adukwai.com
 p*-ad.bytecdn.cn
-p*-be-pack-sign.pglstatp-toutiao.com
-p*-ff.adkwai.com
-p*-lm.adkwai.com
-p*-lm.adukwai.com
 p*-webcast-sign.douyinpic.com
-p*.adkwai.com
 p*.bdxiguaimg.com
 p-log.ykimg.com
 p.7060.la
@@ -27394,8 +27310,6 @@ padsdel2.cdnads.com
 page.acm.dzwww.com
 page.amap.com
 page.xywy.com
-pagead*.googleadservices-cn.com
-pagead*.googlesyndication-cn.com
 pagead-tpc.l.google.com
 pagead.google.com
 pagead.l.google.com
@@ -27661,7 +27575,6 @@ pingma.qq.com
 pingmid.qq.com
 pingshetrip.com
 pingtas.qq.com
-pinner-imgserver.byted.org
 pintour.com
 pinyuege.net/template/pinygm/public/js/
 pinzhitmall.com
@@ -27680,7 +27593,6 @@ pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.aweber.com
 pixel.facebook.com
-pixel.mailchimp.com
 pixel.mathtag.com
 pixel.quantserve.com
 pixel.rubiconproject.com
@@ -27778,7 +27690,6 @@ pohpll.xyz
 poiqknfl.com
 pojihfnkbllg.net
 pojkhufef.xyz
-polaris*-normal-lq.zijieapi.com
 polaris-sinfonlinea.zijieapi.com
 polaris.zijieapi.com
 polaris3-normal-hl.zijieapi.com
@@ -27938,7 +27849,6 @@ pubads.g.doubleclick.net
 pubbirdf.com
 pubfuture-ad.com
 pubfuture.com
-public-bjy-rs-kce-node1466.idchb1az2.hb1.kwaidc.com
 public-deliver5.miguvideo.com
 public-test.yangqianguan.com
 public.app.autohome.com.cn
@@ -28287,7 +28197,6 @@ qtmojo.com
 qttunion.com
 quanliyouxi.cn
 quansj.cn
-quantcast.mgr.consensu.org
 quantcount.com
 quantserve.com
 quanxiaozi.com
@@ -28534,7 +28443,6 @@ report.tencentmusic.com
 report.tv.kohesport.qq.com
 report123.help
 reportlog.dftoutiao.com
-reports.crashlytics.com
 repyua.com
 req.startappservice.com
 res-ga.smzdm.com
@@ -28711,7 +28619,6 @@ rtborp.xyz
 rtbstat.zcdsp.com
 rte.fuoo1.top
 rtjmln.xyz
-rtlog*-applog-lq.fqnovel.com
 rtlog.snssdk.com
 rtlog.vidown.cn
 rtlog.zijieapi.com
@@ -28929,7 +28836,6 @@ s5yx5w.top
 s6.bfzycdn.com
 s65m.win
 s6in.cc
-s7.addthis.com
 s8.001fzc.com
 s8.dnaxddnc.com
 s8.url.cn
@@ -28987,7 +28893,6 @@ saxn.sina.com.cn
 saxs.sina.com.cn
 saxxaz.taohuayuan8888.com
 saxysec.com
-sb.adtidy.com
 sb.scorecardresearch.com
 sb4you1.com
 sb6k.top
@@ -29007,7 +28912,6 @@ sc.chinaiiss.com
 sc.ggdoubi.com
 sc.ggfeng.com
 sc.iasds01.com
-sc.laoqj.top
 sc.sczxy.com
 sc.shayugg.com
 sc1369.com
@@ -29059,7 +28963,6 @@ sdapprecv.app.cntvwb.cn
 sdb.amazonaws.com
 sdchb2.com
 sdcuo.com
-sdefm2ikfmn2i34n2.ser023.com
 sdfgbuy.com
 sdfp.snssdk.com
 sdfyiu.com
@@ -29162,7 +29065,6 @@ seainan333.com
 sealaly.net
 sealine.youku.com
 search.ixigua.com
-search.spotxchange.com
 search.video.iqiyi.com
 search3-search.ixigua.com
 search5-search-hl.ixigua.com
@@ -29256,7 +29158,6 @@ settings.luckyorange.net
 settings.ttwebview.com
 sezkkb.cn
 sezvc.com
-sf*-be-pack.pglstatp-toutiao.com
 sf*-fe-tos.pglstatp-toutiao.com
 sf.vserv.mobi
 sf1-amtos-cdn.bytesmanager.com
@@ -29637,7 +29538,6 @@ soul-ad.soulapp.cn
 soulsoul.xyz
 soup.v.qq.com
 source.youxiaoad.com
-sourcepoint.mgr.consensu.org
 sousuo.xm.sjzhushou.com
 soutubot.moe##.bg-gray-800.overflow-hidden
 sovelswpq.com
@@ -29918,7 +29818,6 @@ stdl.qq.com
 steelhousemedia.com
 stervapoimenialena.info
 stescud.com
-stg-cmws.iad.apple.com
 stg-data.ads.heytapmobi.com
 stg8.com
 stgowan.com
@@ -30075,7 +29974,6 @@ sync.morgdm.ru
 sync.outbrain.com
 sync.rambler.ru
 sync.republer.com
-sync.search.spotxchange.com
 sync.springserve.com
 sync.teads.tv
 sync.teamrtb.net
@@ -30526,7 +30424,6 @@ tmisc.home.news.cn
 tmochyf.cn
 tmwbszn.icu
 tn.uvrifrd.cn
-tnc0-*.zijieapi.com
 tnc0-aliec2.zijieapi.com
 tnc0-alisc1.zijieapi.com
 tnc0-bjlgy.zijieapi.com
@@ -30624,7 +30521,6 @@ tracelog-debug.qquanquan.com
 tracelog-debug.yunxish.com
 track-east.mobileadtrading.com
 track.58.com
-track.constantcontact.com
 track.customer.io
 track.easeus.com
 track.hubspot.com
@@ -31196,7 +31092,6 @@ us-v10.events.data.microsoft.com
 us.adserver.yahoo.com
 us.bannyat.com
 us.bs.serving-sys.com
-us.edge.rms.media.net
 us.l.qq.com
 us.vortex-win.data.microsoft.com
 usage.trackjs.com
@@ -31288,7 +31183,6 @@ v.opzero.xyz
 v.oq68.com
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 v.rmbn.net
-v.smtcdns.com
 v.szpaopao.com
 v00087.com
 v00yvd.xyz
@@ -31421,9 +31315,6 @@ vda.17173.com
 vdapprecv.app.cntvwb.cn
 vdazz.net
 vdn1.vzuu.com
-vdn5-1.vzuu.com
-vdn5.vzuu.com
-vdn6.vzuu.com
 vdo3c.org
 vdrfes.site
 vds82e.sejqb.com
@@ -31478,7 +31369,6 @@ vid.applovin.com
 vid.springserve.com
 video-ad-stats.googlesyndication.com
 video-ad.sm.cn
-video-ads.twitter.com
 video-cn.snssdk.com
 video-dsp.pddpic.com
 video.cooguo.com
@@ -31497,7 +31387,6 @@ vidoomy.com
 vidsmoon.online
 vidwkd.com
 vieldeold.xyz
-view-apple.com
 view.csslcloud.net
 viewyentreat.guru
 viglink.com
@@ -32070,7 +31959,6 @@ wuqwruavhah.in
 wuuorz.cn
 wuwho.cn
 wv.inner-active.mobi
-wvcwop.zbbznk.xyz
 wvyqks.xyz
 ww-7o1-0h.os.23v7m9.cc
 ww.wcav495.vip
@@ -32318,7 +32206,6 @@ xiaomiir.yaokantv.com
 xiaoqiang
 xiaoqurong.com
 xiaorongyan.com
-xiaoshuo.km.com
 xiaoshuo.kp53.cn
 xiaoshuo.zhandao.net
 xiaosunxin.cn
@@ -33431,5 +33318,6 @@ zzycj.com
 zzz7.52896368.com
 zzztl.com
 zzzzz4.52896368.com
+{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}
 ‖*.chat.bilibili.com
 ﻿#版本：2.9
