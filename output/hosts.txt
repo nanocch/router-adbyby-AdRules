@@ -1,7 +1,7 @@
-# Version: 2026-09-15 07:13:58
+# Version: 2026-09-15 21:42:10
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33348
+# Total domains: 33361
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12911,6 +12911,10 @@
 0.0.0.0	@@||*-verify.captcha-open-southeast.aliyuncs.com
 0.0.0.0	@@||*-verify.captcha-open.aliyuncs.com
 0.0.0.0	@@||*.*.szbdyd.com
+0.0.0.0	@@||*.4399.com
+0.0.0.0	@@||*.5054399.com
+0.0.0.0	@@||*.7k7k.com
+0.0.0.0	@@||*.7k7kimg.cn
 0.0.0.0	@@||*.95516.com
 0.0.0.0	@@||*.a.yximgs.com
 0.0.0.0	@@||*.akamai-cdn-content.com
@@ -12941,6 +12945,7 @@
 0.0.0.0	@@||*.heytapdownload.com
 0.0.0.0	@@||*.hicloud.com
 0.0.0.0	@@||*.img.mobile.sina.cn
+0.0.0.0	@@||*.img4399.com
 0.0.0.0	@@||*.in-addr.arpa
 0.0.0.0	@@||*.ke.com
 0.0.0.0	@@||*.lianjia.com
@@ -14170,6 +14175,7 @@
 0.0.0.0	@@||img3.tapimg.com
 0.0.0.0	@@||img30.360buyimg.com
 0.0.0.0	@@||img4.qy0.ru
+0.0.0.0	@@||imga*.5054399.com
 0.0.0.0	@@||imgcache.qq.com
 0.0.0.0	@@||imgessl.kugou.com
 0.0.0.0	@@||imgservices-1252317822.image.myqcloud.com
@@ -15000,6 +15006,7 @@
 0.0.0.0	@@||proxy-tf-all-ws.bilivideo.com
 0.0.0.0	@@||pss.bdstatic.com
 0.0.0.0	@@||psstatic.cdn.bcebos.com
+0.0.0.0	@@||ptlogin.4399.com
 0.0.0.0	@@||ptlogin.yuewen.com
 0.0.0.0	@@||pttn.m3pd.com
 0.0.0.0	@@||ptx.cdntrex.com
@@ -15135,6 +15142,7 @@
 0.0.0.0	@@||s0.meituan.net
 0.0.0.0	@@||s01.mifile.cn
 0.0.0.0	@@||s1.hdslb.com
+0.0.0.0	@@||s1.img4399.com
 0.0.0.0	@@||s1.kskwai.com
 0.0.0.0	@@||s1.meituan.net
 0.0.0.0	@@||s1.voicecloud.cn
@@ -15726,7 +15734,12 @@
 0.0.0.0	@@||www.360.cn
 0.0.0.0	@@||www.360kuai.com
 0.0.0.0	@@||www.360simg.com
+0.0.0.0	@@||www.4399.cn
+0.0.0.0	@@||www.4399.com
+0.0.0.0	@@||www.5054399.com
 0.0.0.0	@@||www.54647.io
+0.0.0.0	@@||www.7k7k.com
+0.0.0.0	@@||www.7k7kjs.cn
 0.0.0.0	@@||www.9game.cn
 0.0.0.0	@@||www.agiso.com
 0.0.0.0	@@||www.airport.us
