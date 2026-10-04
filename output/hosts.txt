@@ -1,7 +1,7 @@
-# Version: 2026-10-04 22:11:12
+# Version: 2026-10-05 07:19:35
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33486
+# Total domains: 33485
 
 0.0.0.0	!
 0.0.0.0	!
@@ -33486,6 +33486,5 @@
 0.0.0.0	zzz7.52896368.com
 0.0.0.0	zzztl.com
 0.0.0.0	zzzzz4.52896368.com
-0.0.0.0	{"message":"429
 0.0.0.0	‖*.chat.bilibili.com
 0.0.0.0	﻿#版本：2.9
