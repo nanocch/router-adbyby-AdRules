@@ -1,7 +1,7 @@
-# Version: 2026-10-13 10:08:02
+# Version: 2026-10-14 00:10:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32862
+# Total domains: 32861
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12464,7 +12464,6 @@
 0.0.0.0	@@||1tian.kuaishou.com
 0.0.0.0	@@||22.do
 0.0.0.0	@@||316.coolapk1s.com
-0.0.0.0	@@||360.cn
 0.0.0.0	@@||360buyimg.com
 0.0.0.0	@@||360kuai.com
 0.0.0.0	@@||3975.com
