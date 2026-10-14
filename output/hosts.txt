@@ -1,7 +1,7 @@
-# Version: 2026-10-14 07:46:06
+# Version: 2026-10-14 21:52:27
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32671
+# Total domains: 32222
 
 0.0.0.0	!
 0.0.0.0	!
@@ -11605,7 +11605,6 @@
 0.0.0.0	3ie0h3b.com
 0.0.0.0	3p4.cn
 0.0.0.0	3pkf5m0gd.com
-0.0.0.0	3ppp.net##DIV.bottom_fixed
 0.0.0.0	3prndxd.cn
 0.0.0.0	3q3l.cn
 0.0.0.0	3qmh.com
@@ -11846,7 +11845,6 @@
 0.0.0.0	6728812.com
 0.0.0.0	678tl.com
 0.0.0.0	67evjpvdi.com
-0.0.0.0	67tool.com##.footer-banner
 0.0.0.0	685wo.com
 0.0.0.0	68665565.com
 0.0.0.0	68710266.com
@@ -12059,7 +12057,6 @@
 0.0.0.0	8suis.top
 0.0.0.0	90053999.com
 0.0.0.0	90mh.com/mip/qdbao77.js
-0.0.0.0	90mh.org##[style$='background-size:
 0.0.0.0	90nw.com
 0.0.0.0	91.91c379.top
 0.0.0.0	91.yelang8.cc
@@ -12075,11 +12072,6 @@
 0.0.0.0	91p20.space
 0.0.0.0	91pions.com
 0.0.0.0	91polkmj.com
-0.0.0.0	91porn.com#@#.vjs-preroll
-0.0.0.0	91porny.com###playerJsvLayer.jsv-layer
-0.0.0.0	91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
-0.0.0.0	91porny.com##A.display.d-block[href
-0.0.0.0	91porny.com/api/getPos?jspath=/
 0.0.0.0	91veg.com
 0.0.0.0	91xry.com
 0.0.0.0	91xzba.com
@@ -12105,8 +12097,6 @@
 0.0.0.0	98765432100.site
 0.0.0.0	98kyty.com
 0.0.0.0	98tl.com
-0.0.0.0	99.84.133.50
-0.0.0.0	99.84.238.181
 0.0.0.0	99.gn5m0bnwzvkndnoygn.com
 0.0.0.0	99.o2in8un5qlkj533twx.com
 0.0.0.0	990215.xyz
@@ -12130,7 +12120,6 @@
 0.0.0.0	9fgh98k.com
 0.0.0.0	9fum.ifeng.com
 0.0.0.0	9fwz.com
-0.0.0.0	9game.cn##.entry.qak_popup
 0.0.0.0	9js6.icu
 0.0.0.0	9kff.com
 0.0.0.0	9miwo.com
@@ -12142,27 +12131,7 @@
 0.0.0.0	9wushuo.com
 0.0.0.0	9xf9qkz5.com
 0.0.0.0	9xpi49.tnhkwrs.com
-0.0.0.0	:*/xcdn*/js/_init.js?$third-party
-0.0.0.0	://*.yinghua*.*/bar$~third-party
-0.0.0.0	://*banzhu*/js/cdn.js$~third-party
-0.0.0.0	://*mp4*/js/wcount.js$~third-party
-0.0.0.0	://pic*.com/upload/*.js$third-party
-0.0.0.0	://tj.*.com$third-party
-0.0.0.0	:800*/d/*n=$third-party
-0.0.0.0	:800*/sc/*n=$third-party
-0.0.0.0	:8007/*/*?is_not=
-0.0.0.0	:8008/*/*?is_not=
-0.0.0.0	:8891/v*$third-party
-0.0.0.0	::1
 0.0.0.0	<!DOCTYPE
-0.0.0.0	?adspot_
-0.0.0.0	?local_ga_js=
-0.0.0.0	@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
-0.0.0.0	@@.com/o.js$domain=2biqu.com
-0.0.0.0	@@gimg*.baidu.com/gimg/app=$domain=kimivod.com
-0.0.0.0	@@googlesyndication.com$domain=bilinovel.com
-0.0.0.0	@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
-0.0.0.0	@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 0.0.0.0	@@||*-cf.xvideos-cdn.com
 0.0.0.0	@@||*-misc-lf.fqnovel.com
 0.0.0.0	@@||*-novelapp.fqnovelvod.com
@@ -15271,11 +15240,7 @@
 0.0.0.0	@@||zodgame.xyz
 0.0.0.0	@@||ztgame.com
 0.0.0.0	Media.net
-0.0.0.0	Mplay/kk1.js
 0.0.0.0	[个人合并
-0.0.0.0	_/bigREDcat.css?
-0.0.0.0	_/bigREDdog.js
-0.0.0.0	_300x250.js
 0.0.0.0	_services._dns-sd._udp.local
 0.0.0.0	a-dxk.play.api.3g.youku.com
 0.0.0.0	a-m-s.poco.cn
@@ -15514,10 +15479,7 @@
 0.0.0.0	access1.tpns.tencent.com
 0.0.0.0	accscdn.m.taobao.com
 0.0.0.0	acdn.adnxs.com
-0.0.0.0	acglala.me##.topm,.donghua_info
 0.0.0.0	acgshenshicha.cn
-0.0.0.0	achaec.cc##[style*='px;
-0.0.0.0	achaec.cc##[style*='px;
 0.0.0.0	acint.net
 0.0.0.0	ack.tuisong.baidu.com
 0.0.0.0	ackcdn.net
@@ -15911,7 +15873,6 @@
 0.0.0.0	adbehaviorhera.ximalaya.com
 0.0.0.0	adbeuch.cn
 0.0.0.0	adbiding.com
-0.0.0.0	adblock-tester.com##.includeWrapper,
 0.0.0.0	adblock-tester.com/banners/$domain=adblock-tester.com
 0.0.0.0	adbot.tw
 0.0.0.0	adbox.sina.com.cn
@@ -16638,7 +16599,6 @@
 0.0.0.0	ahqovxli.com
 0.0.0.0	ahyau.com
 0.0.0.0	ahyuns.com
-0.0.0.0	ai-chatbot.top##.right-14
 0.0.0.0	ai-static.vivo.com.cn
 0.0.0.0	ai.advertisement.alibabacorp.sm.cn
 0.0.0.0	ai.bioon.com
@@ -16717,7 +16677,6 @@
 0.0.0.0	ali-p2p-v2.pull.yximgs.com
 0.0.0.0	ali-stats.jpush.cn
 0.0.0.0	ali2.a.yximgs.com
-0.0.0.0	ali213.net##.placeholderforpromotion
 0.0.0.0	alicoccdncnc-xn.inter.71edge.com
 0.0.0.0	alicoccdnct-xn.inter.71edge.com
 0.0.0.0	alictibet.com
@@ -17141,14 +17100,9 @@
 0.0.0.0	apk.supfast.net
 0.0.0.0	apk.xurongwl.com
 0.0.0.0	apk2.jingpengpeixun.xyz
-0.0.0.0	apkcombo.com##.diseanmevrtt
-0.0.0.0	apkcombo.com##[data-d-ad-id]
 0.0.0.0	apkdo.com
 0.0.0.0	apkinfo.voole.com
 0.0.0.0	apklog.cp11.ott.cibntv.net
-0.0.0.0	apkmirror.com##.ains.ains-has-label
-0.0.0.0	apkmirror.com##DIV[style$='
-0.0.0.0	apkpure.net,apkpure.com##DIV.js-ad-slot
 0.0.0.0	apm-a.pinduoduo.com
 0.0.0.0	apm-log-upload-os.hoyoverse.com
 0.0.0.0	apm-track.xiaohongshu.com
@@ -17243,7 +17197,6 @@
 0.0.0.0	applet.cftcredit.com
 0.0.0.0	applifier.com
 0.0.0.0	applift.com
-0.0.0.0	applnn.cc##DIV.html-box
 0.0.0.0	applog-perf.uc.cn
 0.0.0.0	applog.lc.quark.cn
 0.0.0.0	applog.mobike.com
@@ -17478,11 +17431,6 @@
 0.0.0.0	axiba66.com
 0.0.0.0	axkxy.com
 0.0.0.0	axonix.com
-0.0.0.0	axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed
-0.0.0.0	axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0
-0.0.0.0	axutongxue.com##DIV[style*='z-index:
-0.0.0.0	axutongxue.com##DIV[style='text-align:center']
-0.0.0.0	axutongxue.com##a[href
 0.0.0.0	axutongxue.com/js/uuiiio.js
 0.0.0.0	axz650.com
 0.0.0.0	ayabreya.xyz
@@ -17590,49 +17538,6 @@
 0.0.0.0	baidu-mipdx.cn.miaozhen.com
 0.0.0.0	baidu-union-js.xiachufang.com
 0.0.0.0	baidu-union-pos.xiachufang.com
-0.0.0.0	baidu.com###J-super-layer-promote
-0.0.0.0	baidu.com###bdrainrwDragButton
-0.0.0.0	baidu.com###page-copyright.se-page-copyright.se-copyrig
-0.0.0.0	baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom:
-0.0.0.0	baidu.com###qtqy_container
-0.0.0.0	baidu.com###relative_shop_flow
-0.0.0.0	baidu.com###searchTag
-0.0.0.0	baidu.com##.barea-ad
-0.0.0.0	baidu.com##.brand-entry
-0.0.0.0	baidu.com##.c-result.result[srcid='mkt_ad_space']
-0.0.0.0	baidu.com##.cos-rich-video-player-video
-0.0.0.0	baidu.com##.drag-wrap
-0.0.0.0	baidu.com##.ec-ad
-0.0.0.0	baidu.com##.ec-result-inner
-0.0.0.0	baidu.com##.ec_ad_results
-0.0.0.0	baidu.com##.ec_resitem
-0.0.0.0	baidu.com##.ec_wise_ad
-0.0.0.0	baidu.com##.ec_wise_ad
-0.0.0.0	baidu.com##.page-head-queryarea
-0.0.0.0	baidu.com##.rel-exp-feed-ad-item
-0.0.0.0	baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
-0.0.0.0	baidu.com##DIV.c-container.ec-container
-0.0.0.0	baidu.com##DIV[class='qrcode
-0.0.0.0	baidu.com##DIV[data-module='rec:undefined-undefined']
-0.0.0.0	baidu.com##DIV[data-module='swan-ad-fc-feed']
-0.0.0.0	baidu.com##[class
-0.0.0.0	baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class
-0.0.0.0	baidu.com##[data-log-view*='swan-ad-fc-ad-item']
-0.0.0.0	baidu.com##[data-tpl='adv_wenku_fc']
-0.0.0.0	baidu.com##[data-video-player='true']
-0.0.0.0	baidu.com##a.ball-wrapper__3BTBO.c-blocka
-0.0.0.0	baidu.com##div.ad-wrapper
-0.0.0.0	baidu.com##div[class$="-ecom-ads"]
-0.0.0.0	baidu.com##div[class*="cr-offset"]
-0.0.0.0	baidu.com##div[class*="result
-0.0.0.0	baidu.com##div[class*="result-op
-0.0.0.0	baidu.com##div[class*="result-op
-0.0.0.0	baidu.com##div[class*="result-op
-0.0.0.0	baidu.com##div[class*="s-isindex-wrap
-0.0.0.0	baidu.com#@##header
-0.0.0.0	baidu.com#@##page-pre
-0.0.0.0	baidu.com#@##results
-0.0.0.0	baidu.com#@#div[class*="ads"]
 0.0.0.0	baidu.com/api/wapui/getrelatedbusiness
 0.0.0.0	baidu.com/baidu.php?url=
 0.0.0.0	baidu.com/newspage/api/getmobads?
@@ -17660,12 +17565,7 @@
 0.0.0.0	baiduzhidahao.cc
 0.0.0.0	baifen.music.baidu.com
 0.0.0.0	baifendian.com
-0.0.0.0	baifumeiba.com##DIV#ad
 0.0.0.0	baigm.com
-0.0.0.0	baike.baidu.com###J-attention-wrapper
-0.0.0.0	baike.baidu.com##[class="qtqy-container"],[class="yitiao-content
-0.0.0.0	baike.baidu.com##[onclick
-0.0.0.0	baike.so.com##section#business-flow.business-flow
 0.0.0.0	baikebcs.bdimg.com/*banner*.jpg
 0.0.0.0	baimakanshu.com/assets/public/
 0.0.0.0	baishan.cdn.adintl.cn
@@ -17877,7 +17777,6 @@
 0.0.0.0	bes-mtj.baidu.com
 0.0.0.0	bes-progfree.com
 0.0.0.0	besmeargleor.com
-0.0.0.0	best.pconline.com.cn###JnoLoginFixedBottom
 0.0.0.0	beste1.icu
 0.0.0.0	bestfenqi.com
 0.0.0.0	bet36500050.com
@@ -17942,27 +17841,10 @@
 0.0.0.0	bikongzy.cn
 0.0.0.0	biliapi.com
 0.0.0.0	biliapi.net
-0.0.0.0	bilibili.com#@#[class
 0.0.0.0	billionfocus.com
 0.0.0.0	bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 0.0.0.0	bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
-0.0.0.0	bimibimi.cc##[src
 0.0.0.0	binaryage-leechgate.herokuapp.com
-0.0.0.0	bing.com,cn.bing.net###bnp_rich_div
-0.0.0.0	bing.com,cn.bing.net###uaanswer
-0.0.0.0	bing.com,cn.bing.net##.ad_sc
-0.0.0.0	bing.com,cn.bing.net##.adsMvC
-0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
-0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
-0.0.0.0	bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
-0.0.0.0	bing.com,cn.bing.net##.b_ans:has([class
-0.0.0.0	bing.com,cn.bing.net##.b_bza_pole
-0.0.0.0	bing.com,cn.bing.net##.pa_sb
-0.0.0.0	bing.com,cn.bing.net##a[h$=",Ads"]
-0.0.0.0	bing.com,cn.bing.net##a[href*="/aclick?ld="]
-0.0.0.0	bing.com,cn.bing.net##li.b_ad
-0.0.0.0	bing.com,cn.bing.net##li:has(a[h$=",Ads"])
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	bingdianhuanyuan.cn
 0.0.0.0	bingyinq.com
@@ -18025,10 +17907,6 @@
 0.0.0.0	bleumzr.icu
 0.0.0.0	bljlrl.xyz
 0.0.0.0	bllbaby.cn
-0.0.0.0	blog.51cto.com##div.right-fixadv:nth-child(6)
-0.0.0.0	blog.csdn.net##.passport-login-container
-0.0.0.0	blog.csdn.net##[class
-0.0.0.0	blog.csdn.net##div.passport-login-container:last-child
 0.0.0.0	blogad01.myweb.hinet.net
 0.0.0.0	blogad02.myweb.hinet.net
 0.0.0.0	bloggerads.net
@@ -18068,9 +17946,6 @@
 0.0.0.0	boewgph.icu
 0.0.0.0	bofnhn.com
 0.0.0.0	bohanhengtian.cn
-0.0.0.0	bohe.cn##.ml-30
-0.0.0.0	bohe.cn##.mt20
-0.0.0.0	bohe.cn##IFRAME[width='400'][height='200']
 0.0.0.0	bolt.jebe.renren.com
 0.0.0.0	book.d.ireader.com
 0.0.0.0	books-analytics-events.apple.com
@@ -18092,7 +17967,6 @@
 0.0.0.0	boxshows.com
 0.0.0.0	boxwcr.icu
 0.0.0.0	boyidianqi.com.cn
-0.0.0.0	boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom:
 0.0.0.0	boyvtr8.com
 0.0.0.0	boyxu.cn
 0.0.0.0	bozhou666.com
@@ -18230,7 +18104,6 @@
 0.0.0.0	bytedance.com
 0.0.0.0	bytedance.com.queniurc.com
 0.0.0.0	bytedance.com.w.cdngslb.com
-0.0.0.0	bytegoofy.com/goofy/*/push.js?
 0.0.0.0	byteorge.com
 0.0.0.0	byteww.com
 0.0.0.0	byvlph.xyz
@@ -18682,8 +18555,6 @@
 0.0.0.0	ceh.cehbh.com
 0.0.0.0	ceiqox.com
 0.0.0.0	cekrfk.com
-0.0.0.0	centering.raidrive.com###div-gpt-ad-1648048258625-0
-0.0.0.0	centering.raidrive.com###div-gpt-ad-1666694094447-0
 0.0.0.0	centering.raidrive.com/standard/c/widget
 0.0.0.0	cerebral.typn.com
 0.0.0.0	ceseasons.com
@@ -18742,7 +18613,6 @@
 0.0.0.0	chemdraw.com
 0.0.0.0	chemdraw.com.cn
 0.0.0.0	chemist68.top
-0.0.0.0	chen-xing/figure_bed*
 0.0.0.0	chengadx.com
 0.0.0.0	chenggao.cn
 0.0.0.0	chengzhao95511.com
@@ -18765,7 +18635,6 @@
 0.0.0.0	chinachooses.com
 0.0.0.0	chinacsky.com
 0.0.0.0	chinaheh.com
-0.0.0.0	chinaso.com##.wrap-toolbar
 0.0.0.0	chinauma.net
 0.0.0.0	chinaweichu.net
 0.0.0.0	chinaxinhe.net
@@ -18790,19 +18659,12 @@
 0.0.0.0	chumeng.link
 0.0.0.0	chunyina.co
 0.0.0.0	chushoushijian.cn
-0.0.0.0	chusixs.com/5ygsh/
 0.0.0.0	chuzushijian.cn
 0.0.0.0	chykohija.pro
 0.0.0.0	ci.csefaazc.net
 0.0.0.0	ciadre.fun
 0.0.0.0	ciajingman.com
 0.0.0.0	ciarde.fun
-0.0.0.0	cibaipuki.com##.table2
-0.0.0.0	cibaipuki.com##.topnotice
-0.0.0.0	cibaipuki.com##A[href
-0.0.0.0	cibaipuki.com##IMG[border='0'][width='100%']
-0.0.0.0	cibaipuki.com##SECTION[id
-0.0.0.0	cibaipuki.com##[href*=":"]
 0.0.0.0	cidhdgv.xyz
 0.0.0.0	cifyeldf.top
 0.0.0.0	ciislunar.com
@@ -18833,7 +18695,6 @@
 0.0.0.0	ck.kejet.net
 0.0.0.0	ck33.top
 0.0.0.0	ckerw.xyz
-0.0.0.0	ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
 0.0.0.0	cl-data.ads.heytapmobi.com
 0.0.0.0	cl.he9630.com
 0.0.0.0	cl.webterren.com
@@ -18907,7 +18768,6 @@
 0.0.0.0	clotfun.mobi
 0.0.0.0	clotfun.online
 0.0.0.0	cloud-log.yy.com
-0.0.0.0	cloud.189.cn#@#.ad-container
 0.0.0.0	cloud.360safe.com
 0.0.0.0	cloud.codenow.cn
 0.0.0.0	cloud.shtac.cn
@@ -18917,7 +18777,6 @@
 0.0.0.0	cloudcdn.yousee.com
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	cloudflare.st
-0.0.0.0	cloudflareinsights.com$third-party
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloudpush.iqiyi.com
 0.0.0.0	club.bilibili.com
@@ -19038,7 +18897,6 @@
 0.0.0.0	coinnebula.com
 0.0.0.0	col.hztags.net
 0.0.0.0	col.pagechoice.net
-0.0.0.0	colamanga.com#@#.gg_950
 0.0.0.0	collect.kugou.com
 0.0.0.0	collector.dcdn.baidu.com
 0.0.0.0	collector.github.com
@@ -19049,7 +18907,6 @@
 0.0.0.0	colonistnobilityheroic.com
 0.0.0.0	com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0	com:8891/c.php?s=*$third-party
 0.0.0.0	combine.urbanairship.com
 0.0.0.0	comesgo.com
 0.0.0.0	comet.yahoo.com
@@ -19213,7 +19070,6 @@
 0.0.0.0	cps.360buy.com
 0.0.0.0	cpu-admin.baidu.com
 0.0.0.0	cpu-openapi.baidu.com
-0.0.0.0	cpu.baidu.com##A[href*='cpro.baidu.com']
 0.0.0.0	cpu.js.org
 0.0.0.0	cpucdn.baidu.com
 0.0.0.0	cpv-adv.ggytc.com
@@ -19228,8 +19084,6 @@
 0.0.0.0	cqfangduan.com
 0.0.0.0	cqftonline.com
 0.0.0.0	cqhnm.com
-0.0.0.0	cqjschungao.com##[style*='px
-0.0.0.0	cqjschungao.com##[style='bottom:
 0.0.0.0	cqmf.mm51-tknm1582.vip
 0.0.0.0	cqsta.com
 0.0.0.0	cqtlimi.cn
@@ -19295,7 +19149,6 @@
 0.0.0.0	cs.twcczhu.com
 0.0.0.0	csad.cc
 0.0.0.0	csbew.com
-0.0.0.0	csdn.net##div:nth-child(10)
 0.0.0.0	cse1.cc
 0.0.0.0	csedasdme.xyz
 0.0.0.0	csfds000.fun
@@ -19327,7 +19180,6 @@
 0.0.0.0	cudaojia.com
 0.0.0.0	cuioxbqi.com
 0.0.0.0	cupfox*.com/statics/js/ing.js
-0.0.0.0	cupfox.app##IMG[class
 0.0.0.0	cupid.iqiyi.com
 0.0.0.0	cupid.jebe.renren.com
 0.0.0.0	current.sina.com.cn
@@ -19638,7 +19490,6 @@
 0.0.0.0	db2.fuz.cc
 0.0.0.0	db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0	dbam.dashbida.com
-0.0.0.0	dbbqb.com##.MuiPaper-root
 0.0.0.0	dbhfre.xyz
 0.0.0.0	dbhsgxh.com
 0.0.0.0	dbkdwe1.com
@@ -19697,7 +19548,6 @@
 0.0.0.0	ddrrccck.m.qxs.la
 0.0.0.0	ddush.xyz
 0.0.0.0	ddxolb.xyz
-0.0.0.0	ddzzxs.com###inglestore.inglestore
 0.0.0.0	de.ad.gameley.com
 0.0.0.0	de.as.cp61.ott.cibntv.net
 0.0.0.0	de.as.pptv.com
@@ -19846,8 +19696,6 @@
 0.0.0.0	dimcxt191r.cn
 0.0.0.0	dimg1.sz.net.cn
 0.0.0.0	ding.cxzudwk.com
-0.0.0.0	dingbu.*.*.*/*.add$third-party
-0.0.0.0	dingbu.*.*.com/dingbu.$third-party
 0.0.0.0	dingjiwangluo.com
 0.0.0.0	dingon.com.cn
 0.0.0.0	dingouqc.com
@@ -19971,7 +19819,6 @@
 0.0.0.0	dm1.tom61.com
 0.0.0.0	dm50.jkyd.net
 0.0.0.0	dm50.yxlady.com
-0.0.0.0	dm530p.net##DIV[style$=';
 0.0.0.0	dmacore.kejet.com
 0.0.0.0	dmacore.kejet.net
 0.0.0.0	dmaoaikufn2.com
@@ -19991,7 +19838,6 @@
 0.0.0.0	dmvckj.icu
 0.0.0.0	dmxfdp.xyz
 0.0.0.0	dmyrza.com
-0.0.0.0	dmzj.com##div[class*="float_code"]
 0.0.0.0	dn-growing.qbox.me
 0.0.0.0	dn3.ixinwei.com
 0.0.0.0	dn7788.com
@@ -20019,7 +19865,6 @@
 0.0.0.0	doc.go.sohu.com
 0.0.0.0	doca182.com
 0.0.0.0	doccd.xyz
-0.0.0.0	docin.com##.moneyBox
 0.0.0.0	docs.c-ctrip.com
 0.0.0.0	dodhvug.cn
 0.0.0.0	doh.iqiyi.com
@@ -20039,7 +19884,6 @@
 0.0.0.0	domp4.cc/js/wcount.js
 0.0.0.0	donchen501.cn
 0.0.0.0	dong.aeimmmj.cn
-0.0.0.0	dongmanhuayuan.myheartsite.com##.card-body
 0.0.0.0	dongmansoft.com
 0.0.0.0	dongya.org
 0.0.0.0	dontblockme.modaco.com
@@ -20052,8 +19896,6 @@
 0.0.0.0	dotmore.com.tw
 0.0.0.0	dotserver.douyucdn.cn
 0.0.0.0	dou777.com
-0.0.0.0	douban.com##IFRAME[width='315']
-0.0.0.0	douban.com##div.center
 0.0.0.0	doubanio.top
 0.0.0.0	doubleclick-cn.net
 0.0.0.0	doubleclick.com
@@ -20562,9 +20404,6 @@
 0.0.0.0	eap.enorth.com.cn
 0.0.0.0	eapi.tymcdn.com
 0.0.0.0	earmasterchina.cn
-0.0.0.0	eastday.com##DIV.lfyinliu
-0.0.0.0	eastmoney.com###dc-result-tc
-0.0.0.0	eastmoney.com##.dc-layer-tc
 0.0.0.0	easyrecoverychina.com
 0.0.0.0	eaus2watcab01.blob.core.windows.net
 0.0.0.0	eaus2watcab02.blob.core.windows.net
@@ -20620,7 +20459,6 @@
 0.0.0.0	edong.link
 0.0.0.0	edoshbw.top
 0.0.0.0	edssnet.changchunets.com
-0.0.0.0	edu.iask.sina.com.cn##.ad-screen
 0.0.0.0	eduancm.com
 0.0.0.0	eduizioq.com
 0.0.0.0	eduzzjy.com
@@ -20905,7 +20743,6 @@
 0.0.0.0	facai103.asefc.cn
 0.0.0.0	facai103.vqoorz.cn
 0.0.0.0	facai103.ytzjbf.cn
-0.0.0.0	facebook.com#@#script:not([src])
 0.0.0.0	facebook.net
 0.0.0.0	facebookma.cn
 0.0.0.0	fads315.com
@@ -20917,7 +20754,6 @@
 0.0.0.0	falsarywaybung.com
 0.0.0.0	falundata.com
 0.0.0.0	falundata.org
-0.0.0.0	familydoctor.com.cn##IFRAME[width='400']
 0.0.0.0	familydoctor.com.cn/c/a/000/ggw_
 0.0.0.0	familyincloud.com
 0.0.0.0	famorlymal.com
@@ -20935,7 +20771,6 @@
 0.0.0.0	fans.m.tmall.com
 0.0.0.0	fansi365.com
 0.0.0.0	fantuan.name
-0.0.0.0	fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
 0.0.0.0	fapi.xdrun.com
 0.0.0.0	faq.vivo.com.cn
 0.0.0.0	farm-cn.plista.com
@@ -21532,8 +21367,6 @@
 0.0.0.0	ghghgf.xuexiwa.com
 0.0.0.0	ghland.site
 0.0.0.0	ghsnhjk.cn
-0.0.0.0	ghxi.com##.wpcom_ad_wrap
-0.0.0.0	ghxi.com##DIV[style
 0.0.0.0	gi.xi.gxabj.com
 0.0.0.0	gia.jd.com
 0.0.0.0	gif.lu.sogoucdn.com
@@ -21680,7 +21513,6 @@
 0.0.0.0	grandcomms.cn
 0.0.0.0	graph.facebook.com
 0.0.0.0	grduswfx.com
-0.0.0.0	greasyfork.org#@#body
 0.0.0.0	greatnumeric.com
 0.0.0.0	green.erne.co
 0.0.0.0	greenhouseglobal.cn
@@ -21727,8 +21559,6 @@
 0.0.0.0	gu.qlogo.cn
 0.0.0.0	gu627mo8.33slthiy.vip
 0.0.0.0	guanceyun.autohome.com.cn
-0.0.0.0	guancha.cn##.g_header44
-0.0.0.0	guancha.cn##.g_swiper_container
 0.0.0.0	guang.lesports.com
 0.0.0.0	guang.sdsgwy.com
 0.0.0.0	guanggao-prod.cn-shanghai.log.aliyuncs.com
@@ -21874,7 +21704,6 @@
 0.0.0.0	haffo70.com
 0.0.0.0	hahusa.top
 0.0.0.0	haihongzg.com
-0.0.0.0	haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
 0.0.0.0	hailfi.top
 0.0.0.0	haili-spitzer.com
 0.0.0.0	hairoak.com
@@ -21889,20 +21718,13 @@
 0.0.0.0	halihali2.com/js/wap2-jm-100ftop.js
 0.0.0.0	haloapps.com
 0.0.0.0	handerfix.com
-0.0.0.0	hanime1.me#@#[class*="juicyads"]
 0.0.0.0	hanju18.net
 0.0.0.0	hanlanad.com
-0.0.0.0	hanman/static/dist/ppm/js/main.js
 0.0.0.0	hanwdsii.com
-0.0.0.0	hanyu.baidu.com###J_CishuBtn
-0.0.0.0	hanyu.baidu.com###fengchao_els.c-container.card.fengchao-els
-0.0.0.0	hanyu.baidu.com###main
-0.0.0.0	hanyu.baidu.com##.fengchao-el
 0.0.0.0	hao.7654.com
 0.0.0.0	hao.qquu8.com
 0.0.0.0	hao.tiandi.com
 0.0.0.0	hao.uc.cn
-0.0.0.0	hao123.com##.popup
 0.0.0.0	hao123.xywy.com
 0.0.0.0	hao123rt.com
 0.0.0.0	hao45.click
@@ -21916,10 +21738,6 @@
 0.0.0.0	haohuan.com
 0.0.0.0	haohuisheng555.cn
 0.0.0.0	haohuo.snssdk.com
-0.0.0.0	haokan.baidu.com##.tieba-pause-ad-container
-0.0.0.0	haokan.baidu.com##div.landrightbanner
-0.0.0.0	haokan.baidu.com##div.player-pause-code
-0.0.0.0	haokan.baidu.com##div.videolist-item-topbanner
 0.0.0.0	haokuaixiu.site
 0.0.0.0	haolew.com
 0.0.0.0	haoshengtoys.com
@@ -21933,7 +21751,6 @@
 0.0.0.0	haoyundmtaotao.com
 0.0.0.0	haoyuntj.com
 0.0.0.0	hapic1.jhkxwl.com
-0.0.0.0	happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 0.0.0.0	happyyong.com
 0.0.0.0	hapying.com
 0.0.0.0	hascosafety.com
@@ -21943,13 +21760,10 @@
 0.0.0.0	hashing.win
 0.0.0.0	hats.haibao.cn
 0.0.0.0	hauqou.top
-0.0.0.0	hax.co.id#@#.ad-box
-0.0.0.0	hax.co.id#@#.ad-wrapper
 0.0.0.0	hax.co.id/dist/js/ajax.js
 0.0.0.0	hbalx.cn
 0.0.0.0	hbandier.com
 0.0.0.0	hbdt.luomi.com
-0.0.0.0	hbhtyl.com##P[style
 0.0.0.0	hbhuatie.com
 0.0.0.0	hbkunye.com
 0.0.0.0	hblinwei.com
@@ -22018,7 +21832,6 @@
 0.0.0.0	hegk09a.top
 0.0.0.0	heib10.top
 0.0.0.0	heib12.top
-0.0.0.0	heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
 0.0.0.0	heimo.rrsdl.com
 0.0.0.0	heioa.xyz
 0.0.0.0	hejban.youwatch.org
@@ -22028,8 +21841,6 @@
 0.0.0.0	help.yunaq.com
 0.0.0.0	henanpenqitu.com
 0.0.0.0	henanqiuzhige.com
-0.0.0.0	hentaicomic.ru#@#.Flagrow-Ads-under-header
-0.0.0.0	hentaicomic.ru#@#.pcd_ad
 0.0.0.0	herrrv.com
 0.0.0.0	heshun365.cn
 0.0.0.0	hesramfi.com
@@ -22293,8 +22104,6 @@
 0.0.0.0	httpsjs.com
 0.0.0.0	htvixv.xyz
 0.0.0.0	huabao.360.cn
-0.0.0.0	huadongty.com##DIV[id$='
-0.0.0.0	huadongty.com##SECTION
 0.0.0.0	huahuaka.com
 0.0.0.0	huakai2025.com/color.js
 0.0.0.0	huashan-datahub-drcn.emui.dbankcloud.com
@@ -22340,18 +22149,6 @@
 0.0.0.0	huodong.weibo.cn
 0.0.0.0	huoju.asia
 0.0.0.0	hushenqiquan.com
-0.0.0.0	huya.com###J_adBnM
-0.0.0.0	huya.com###J_liveListHeader
-0.0.0.0	huya.com###matchComponent4
-0.0.0.0	huya.com###public-screen-ab
-0.0.0.0	huya.com###sidebarBanner
-0.0.0.0	huya.com###template
-0.0.0.0	huya.com##.Ad--1M4tksnOmUetminmFTLCfE
-0.0.0.0	huya.com##.end-ab-banner
-0.0.0.0	huya.com##.main-ab-close-mode
-0.0.0.0	huya.com##.new-reward-ab-wrap
-0.0.0.0	huya.com##.small-handle-tip
-0.0.0.0	huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 0.0.0.0	hv.code.tanwanyx.com
 0.0.0.0	hvdath.xyz
 0.0.0.0	hvdswb.tnhjwrs.com
@@ -22419,7 +22216,6 @@
 0.0.0.0	hzrghx.xyz
 0.0.0.0	hzsod71wov.me
 0.0.0.0	hzvcaadn.icu
-0.0.0.0	hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
 0.0.0.0	hzxfmc.com
 0.0.0.0	hzyuw.com
 0.0.0.0	i-fk.cn
@@ -22560,10 +22356,6 @@
 0.0.0.0	ifacelog.dns.iqiyi.com
 0.0.0.0	ifacelog.iqiyi.com
 0.0.0.0	ifdvlh.cn
-0.0.0.0	ifeng.com##IFRAME[frameborder='0'][border='0']
-0.0.0.0	ifeng.com##[class
-0.0.0.0	ifeng.com##[href
-0.0.0.0	ifeng.com##div[class
 0.0.0.0	ifeng.com/*&adids=
 0.0.0.0	ifeng.com/showcode
 0.0.0.0	ifengad.3g.ifeng.com
@@ -22601,7 +22393,6 @@
 0.0.0.0	ijgbuj.xyz
 0.0.0.0	ijgocb.cn
 0.0.0.0	ijkmafsf.xyz
-0.0.0.0	ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 0.0.0.0	ikcode.baidu.com
 0.0.0.0	ikesepsckslp.cn
 0.0.0.0	ikhwh4456djsjfdfa.mbhkgit.com
@@ -22808,7 +22599,6 @@
 0.0.0.0	imgpublic.ycomesc.live
 0.0.0.0	imgsdy8iyf8723y97g.top
 0.0.0.0	imgsreview.dftoutiao.com
-0.0.0.0	imgur.com##.Ad.sas.Smart
 0.0.0.0	imgwdyey.com
 0.0.0.0	imgxxx.shunxincar.cn
 0.0.0.0	imindmap.cc
@@ -22945,11 +22735,8 @@
 0.0.0.0	ioswhi.com
 0.0.0.0	iot-eu-logser.realme.com
 0.0.0.0	iot-logser.realme.com
-0.0.0.0	ip-cidr,
 0.0.0.0	ip-geo.iqiyi.com
 0.0.0.0	ip.hivps.xyz
-0.0.0.0	ip.sb##.wwads_abp
-0.0.0.0	ip.sb##[style='text-align:
 0.0.0.0	ip.tianqiapi.com
 0.0.0.0	ip.ws.126.net
 0.0.0.0	ip1398.com
@@ -22964,8 +22751,6 @@
 0.0.0.0	ipic.staticsdo.com
 0.0.0.0	ipinfo.io
 0.0.0.0	ipinyou.com
-0.0.0.0	iplark.com##body
-0.0.0.0	iplark.com##div.search-container
 0.0.0.0	iplm.cc
 0.0.0.0	ipm.atm.cp31.ott.cibntv.net
 0.0.0.0	ipm.atm.youku.com
@@ -22979,7 +22764,6 @@
 0.0.0.0	iqgoukn.cn
 0.0.0.0	iqid.iqiyi.com
 0.0.0.0	iqiyi-mipdx.cn.miaozhen.com
-0.0.0.0	iqiyi.com##.header__ele
 0.0.0.0	iqiyi.irs01.com
 0.0.0.0	iqiyim.adtrack.enlightent.cn
 0.0.0.0	ir-na.amazon-adsystem.com
@@ -23020,20 +22804,9 @@
 0.0.0.0	it.snssdk.com.edgekey.net
 0.0.0.0	itad.linetv.tw
 0.0.0.0	itaoxiaoshuo.com
-0.0.0.0	itdog.cn##.lantern_left
-0.0.0.0	itdog.cn##.lantern_right
-0.0.0.0	itdog.cn##.mb-3
-0.0.0.0	itdog.cn##.pointer
-0.0.0.0	itdog.cn##.rounded-lg
-0.0.0.0	itdog.cn##IMG[src
-0.0.0.0	itdog.cn#%#window.alert=function(str){return}
 0.0.0.0	item.ttkvod.com
 0.0.0.0	items.bingdiantao.com
 0.0.0.0	itheatmoran.com
-0.0.0.0	ithome.com##.j_iframe_show
-0.0.0.0	ithome.com##.op
-0.0.0.0	ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
-0.0.0.0	ithome.com##.visited-link-color-fixed:has(.tip-gray)
 0.0.0.0	itienlo.top
 0.0.0.0	itnuzleafan.com
 0.0.0.0	itpest.cn
@@ -23062,7 +22835,6 @@
 0.0.0.0	iweiweb.com
 0.0.0.0	iwttbz.xyz
 0.0.0.0	iwuaym.icu
-0.0.0.0	ix6080.com##DIV[style$='vw;
 0.0.0.0	ixav-cse.avlyun.com
 0.0.0.0	ixbua.xyz
 0.0.0.0	ixelrsd.cn
@@ -23077,8 +22849,6 @@
 0.0.0.0	iyinghua.io/bar/
 0.0.0.0	iymgmtq.com
 0.0.0.0	iytrn.xyz
-0.0.0.0	izaiwen.cn##.item-box
-0.0.0.0	izaiwen.cn##DIV[carousel-item]
 0.0.0.0	izeokt.cn
 0.0.0.0	izicai.xyz
 0.0.0.0	izq.lwaed633.vip
@@ -23146,14 +22916,8 @@
 0.0.0.0	jashautchord.com
 0.0.0.0	jauql.top
 0.0.0.0	jav23.com
-0.0.0.0	jav777.cc,jav777.xyz###playertopads
-0.0.0.0	jav777.cc,jav777.xyz##.myad_alert_82
-0.0.0.0	jav777.cc,jav777.xyz##.myad_alert_82_box
-0.0.0.0	jav777.cc,jav777.xyz##P[style='margin-left:5px;
-0.0.0.0	jav777.cc,jav777.xyz##[src='/close.gif']
 0.0.0.0	javascript.trafficmanager.net
 0.0.0.0	javase.top
-0.0.0.0	javbus.com##.container-fluid:nth-child(9)
 0.0.0.0	javhd.com
 0.0.0.0	jayhou.top
 0.0.0.0	jb.32n.icu
@@ -23243,9 +23007,6 @@
 0.0.0.0	jianduankm.com
 0.0.0.0	jianmei123.com
 0.0.0.0	jianpian.vip
-0.0.0.0	jianshu.com##.app-float-btn
-0.0.0.0	jianshu.com##[aria-label='lwa-ad-one']
-0.0.0.0	jianshu.com#@#div[class$="_0"]
 0.0.0.0	jiansuo.dsxdn.com
 0.0.0.0	jianxiaw.com
 0.0.0.0	jianxinshanghai.com
@@ -23286,9 +23047,6 @@
 0.0.0.0	jingdian230.meilika.net
 0.0.0.0	jinghuazhijia.com
 0.0.0.0	jingwoxin.com
-0.0.0.0	jingyan.baidu.com###wrapper
-0.0.0.0	jingyan.baidu.com##.ad-card
-0.0.0.0	jingyan.baidu.com##.asp-self-rander
 0.0.0.0	jinhaitun888.xyz
 0.0.0.0	jinpaigz.com
 0.0.0.0	jinritemai.com
@@ -23320,7 +23078,6 @@
 0.0.0.0	jjjxsw.com/js/common.*
 0.0.0.0	jjkiahh.icu
 0.0.0.0	jjklrcw.com
-0.0.0.0	jjtyss.com##ins[class],.myui-player.clearfix
 0.0.0.0	jjx.xjtxcj.com
 0.0.0.0	jjxgly.com
 0.0.0.0	jjyy.gaopengqcdz.cn
@@ -23338,7 +23095,6 @@
 0.0.0.0	jlssbz.com
 0.0.0.0	jmbluyxkl.xyz
 0.0.0.0	jmesxbe.icu
-0.0.0.0	jmhongyan.com##ins[class],.container
 0.0.0.0	jmine.cn
 0.0.0.0	jmonitor.jiuzhilan.com
 0.0.0.0	jmosl.com
@@ -23496,7 +23252,6 @@
 0.0.0.0	js.ysfzf.cn
 0.0.0.0	js.zol.com.cn
 0.0.0.0	js.zyrfanli.com
-0.0.0.0	js/yys/Pfhl365.js
 0.0.0.0	js1.2abc8.com
 0.0.0.0	js1.nend.net
 0.0.0.0	js1.xbaixing.com
@@ -23594,10 +23349,6 @@
 0.0.0.0	jtys8.com
 0.0.0.0	ju33.com
 0.0.0.0	juejin.cn
-0.0.0.0	juejin.cn###juejin
-0.0.0.0	juejin.cn###juejin
-0.0.0.0	juejin.cn###juejin
-0.0.0.0	juejin.cn##.extension
 0.0.0.0	juhuiwangluokeji.com
 0.0.0.0	juicyads.com
 0.0.0.0	juicyads.in
@@ -23935,7 +23686,6 @@
 0.0.0.0	ksdayhtl.xyz
 0.0.0.0	ksdsuzhou.com
 0.0.0.0	kshuiz.top
-0.0.0.0	ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 0.0.0.0	kskwai.com
 0.0.0.0	kslbahd.top
 0.0.0.0	ksqfwxu.cn
@@ -24144,7 +23894,6 @@
 0.0.0.0	leyuty76.com
 0.0.0.0	leyuty77.com
 0.0.0.0	lezbrja.cn
-0.0.0.0	lezhutv.com##[style='bottom:
 0.0.0.0	lezhutv.com/static/jquerys.js
 0.0.0.0	leztc.com
 0.0.0.0	lf*-ad-union-sdk.pglstatp-toutiao.com
@@ -24583,7 +24332,6 @@
 0.0.0.0	luodiye6666.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	luogod.xyz
 0.0.0.0	luohxs.com/*/*.kkvvxn
-0.0.0.0	luoqiuzw.com##DIV[id
 0.0.0.0	luotediao.net
 0.0.0.0	luoyangjinmeii.com
 0.0.0.0	lupic.cdn.bcebos.com
@@ -24679,7 +24427,6 @@
 0.0.0.0	m.aty.cp45.ott.cibntv.net
 0.0.0.0	m.aty.snmsohu.aisee.tv
 0.0.0.0	m.aty.sohu.com
-0.0.0.0	m.autohome.com.cn##section
 0.0.0.0	m.axsre.com
 0.0.0.0	m.baidu.com.yiqisee.cn
 0.0.0.0	m.baidu.com.zhiduo.org
@@ -24775,7 +24522,6 @@
 0.0.0.0	m.gtiou.com
 0.0.0.0	m.gtnde.com
 0.0.0.0	m.guaas.com
-0.0.0.0	m.guancha.cn##.g_header.go-to-app
 0.0.0.0	m.guanren11.com
 0.0.0.0	m.guanren5.com
 0.0.0.0	m.guanren6.com
@@ -24801,24 +24547,17 @@
 0.0.0.0	m.hsbkr.com
 0.0.0.0	m.htper.com
 0.0.0.0	m.huanyuexpress.com
-0.0.0.0	m.hupu.com##A[href
-0.0.0.0	m.hupu.com##IMG[alt='NBA英雄'][width='94%']
-0.0.0.0	m.hupu.com##[class
 0.0.0.0	m.huyulh.com
 0.0.0.0	m.hyzui.com
 0.0.0.0	m.icyrd.com
 0.0.0.0	m.ienkdaged.cn
 0.0.0.0	m.ienkdago.cn
 0.0.0.0	m.infvb.com
-0.0.0.0	m.iqiyi.com##.iqyGuide-content,.cover
 0.0.0.0	m.irauz.com
 0.0.0.0	m.irkuj.com
 0.0.0.0	m.iruad.com
 0.0.0.0	m.ishowms.com
 0.0.0.0	m.jcwwxn.com
-0.0.0.0	m.jd.com###appdlCon
-0.0.0.0	m.jd.com##DIV.modal__mask
-0.0.0.0	m.jd.com##DIV.modal__wrap
 0.0.0.0	m.jdaot.com
 0.0.0.0	m.jgkto.com
 0.0.0.0	m.jhcgood.com
@@ -24834,7 +24573,6 @@
 0.0.0.0	m.jwiyr.com
 0.0.0.0	m.jyhwt.cn
 0.0.0.0	m.kcooy.com
-0.0.0.0	m.kdslife.com###app.Card.DownloadGuide
 0.0.0.0	m.kejet.net
 0.0.0.0	m.kewro.com
 0.0.0.0	m.khuoy.com
@@ -24910,9 +24648,6 @@
 0.0.0.0	m.qcw.com
 0.0.0.0	m.qhuik.com
 0.0.0.0	m.qianka.com
-0.0.0.0	m.qidian.com##A.catalog-download
-0.0.0.0	m.qidian.com##I.icon-logo
-0.0.0.0	m.qidian.com##P.text-content
 0.0.0.0	m.qingzhencai.net
 0.0.0.0	m.qiyunmuye.com
 0.0.0.0	m.qsove.com
@@ -24939,9 +24674,7 @@
 0.0.0.0	m.sjuqc.com
 0.0.0.0	m.sjzhushou.com
 0.0.0.0	m.slshiye.cn
-0.0.0.0	m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
 0.0.0.0	m.smsksx.com
-0.0.0.0	m.smzdm.com##.damo-footer-open-app__fixed-logo
 0.0.0.0	m.sosjyx.com
 0.0.0.0	m.srrux.com
 0.0.0.0	m.suehy.com
@@ -25123,12 +24856,6 @@
 0.0.0.0	manlungkey.com
 0.0.0.0	manmanju.com/mg/show*.js
 0.0.0.0	manual.sensorsdata.cn
-0.0.0.0	manwa.me#@#.ad-area
-0.0.0.0	manwa1.me,manwa2.me,manwa.me##.ad-area-close
-0.0.0.0	manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
-0.0.0.0	manwa1.me,manwa2.me,manwa.me##[data-group
-0.0.0.0	manwa1.me,manwa2.me,manwa.me##[style*='15px'][style*='background-color:'][style*='margin:
-0.0.0.0	manwa1.me,manwa2.me,manwa.me##[style='transform-origin:
 0.0.0.0	mao.1f866.com
 0.0.0.0	maobujie.com
 0.0.0.0	maomaotang.com
@@ -25167,8 +24894,6 @@
 0.0.0.0	marketo.com
 0.0.0.0	marketo.net
 0.0.0.0	markmedia.com
-0.0.0.0	marriedgames.com.br###custom_html-2
-0.0.0.0	marriedgames.com.br##div.sp-backdrop-info.show-prompt:first-child
 0.0.0.0	mars.jd.com
 0.0.0.0	masdk.3g.qq.com
 0.0.0.0	masdkv6.3g.qq.com
@@ -25184,7 +24909,6 @@
 0.0.0.0	match.prod.bidr.io
 0.0.0.0	match.rtbidder.net
 0.0.0.0	match.rundsp.com
-0.0.0.0	match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle
 0.0.0.0	matching.targeterra.com
 0.0.0.0	material.istreamsche.com
 0.0.0.0	material.mtty.xin
@@ -25280,19 +25004,16 @@
 0.0.0.0	mediav.com
 0.0.0.0	mediav.com$third-party
 0.0.0.0	mediavisor.doubleclick.net
-0.0.0.0	medium.com##.m,
 0.0.0.0	medproad.com
 0.0.0.0	medrx.telstra.com.au
 0.0.0.0	meethanshi.com
 0.0.0.0	meetrics.com
 0.0.0.0	meetrics.net
 0.0.0.0	meetsourhig.biz
-0.0.0.0	mefcl.com##article:has(span.sticky-icon)
 0.0.0.0	megadatav7.ultralisk.cn
 0.0.0.0	megajoy.com
 0.0.0.0	meihaoxiangwang.com
 0.0.0.0	meihu56.cn
-0.0.0.0	meijuii.cc##DIV[style*='vw;
 0.0.0.0	meimeidaren.com
 0.0.0.0	meishesdk.com
 0.0.0.0	meiti1.net
@@ -25433,7 +25154,6 @@
 0.0.0.0	mini.eastday.com
 0.0.0.0	mini.hao123.com
 0.0.0.0	mini.jijiplayer.com
-0.0.0.0	mini.yyrtv.com##.right-gg
 0.0.0.0	mini2015.qq.com
 0.0.0.0	miniapp-ad.cdn.bcebos.com
 0.0.0.0	minidcsc.kugou.com
@@ -25555,14 +25275,9 @@
 0.0.0.0	mobclix.com
 0.0.0.0	mobfox.com
 0.0.0.0	mobgi.com
-0.0.0.0	mobi*.*.cam/*_$third-party
-0.0.0.0	mobi*.*.cyou/*_$third-party
-0.0.0.0	mobi*.*.top/*_$third-party
-0.0.0.0	mobi*.*.xyz/*_$third-party
 0.0.0.0	mobile-pubt.ele.me
 0.0.0.0	mobile-service.segment.com
 0.0.0.0	mobile.app.autohome.com.cn
-0.0.0.0	mobile.baidu.com##SECTION.detail-banner.banner-ck
 0.0.0.0	mobile.da.mgtv.com
 0.0.0.0	mobile.events.data.microsoft.com
 0.0.0.0	mobile.launchdarkly.com
@@ -25587,8 +25302,6 @@
 0.0.0.0	mobvista.com
 0.0.0.0	mobwin.app.qq.com
 0.0.0.0	moead.xyz
-0.0.0.0	moegirl.org.cn##[class
-0.0.0.0	moegirl.org.cn##[style*='box-shadow:
 0.0.0.0	moegirl.org.cn/insight/moegirlinsight.
 0.0.0.0	mofjgesm.memti79268.cc
 0.0.0.0	mohecm.com
@@ -25596,7 +25309,6 @@
 0.0.0.0	moka.inte.sogoucdn.com
 0.0.0.0	moka113.jdjdodd.cn
 0.0.0.0	molpmh.xyz|
-0.0.0.0	momxs.com###inglestore.inglestore
 0.0.0.0	mon.ad.xelements.cn
 0.0.0.0	mon.snssdk.com
 0.0.0.0	mon.toutiao.com
@@ -25727,10 +25439,6 @@
 0.0.0.0	msite.baidu.com
 0.0.0.0	msltzer.cn
 0.0.0.0	msm.qq.com
-0.0.0.0	msn.cn###main
-0.0.0.0	msn.cn###main
-0.0.0.0	msn.cn###onetrust-consent-sdk
-0.0.0.0	msn.cn###rightRailContentContainer
 0.0.0.0	msn.wrating.com
 0.0.0.0	msnclick.wrating.com
 0.0.0.0	msphoneclick.kuwo.cn
@@ -25771,7 +25479,6 @@
 0.0.0.0	mujkdna.xyz
 0.0.0.0	multi-az-ad.kuaishou.cn
 0.0.0.0	multi-az-ad.kuaishou.com
-0.0.0.0	mumu*.com/js/cdn.js$~third-party
 0.0.0.0	munchkin.marketo.net
 0.0.0.0	mus-nettech.youku.com
 0.0.0.0	musclesaskewfeeding.com
@@ -25803,7 +25510,6 @@
 0.0.0.0	mws.adsage.com
 0.0.0.0	mwzbp.ccbangong.com
 0.0.0.0	mwzbp.iask.com.cn
-0.0.0.0	mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size:
 0.0.0.0	mxevdii.cn
 0.0.0.0	mxmrt.com
 0.0.0.0	mxpnl.com
@@ -25827,14 +25533,6 @@
 0.0.0.0	mylmad.com
 0.0.0.0	mymm.zichenit.com
 0.0.0.0	myqcloud.com/uploads/m3u8/*.ts$third-party
-0.0.0.0	myqqjd.com##.adsbygoogl
-0.0.0.0	mysteel.com##div[class*="ad-flash-abort"]
-0.0.0.0	mysteel.com##div[class*="ad05"]
-0.0.0.0	mysteel.com##div[class*="ad14"]
-0.0.0.0	mysteel.com##div[class*="adtop"]
-0.0.0.0	mysteel.com##div[class*="adtop2
-0.0.0.0	mysteel.com##div[class*="tmLink
-0.0.0.0	mysteel.com##div[class*="topAD"]
 0.0.0.0	mytanwan.com
 0.0.0.0	mytzdhz.cn
 0.0.0.0	mywb3.com
@@ -26037,7 +25735,6 @@
 0.0.0.0	nisangna.co
 0.0.0.0	nisihu.com.cn
 0.0.0.0	nissifresh.com
-0.0.0.0	nite07.com##.hope-c-PJLV-ikSuVsl-css
 0.0.0.0	nithisp.cn
 0.0.0.0	niulai0323166.space
 0.0.0.0	niurenw.com
@@ -26171,7 +25868,6 @@
 0.0.0.0	nwgfzjdjhm2.xyz
 0.0.0.0	nwwap.com
 0.0.0.0	nxhwvt.xyz
-0.0.0.0	nxnba.com##.bootom-fixed
 0.0.0.0	nxnjw.com
 0.0.0.0	nxnzad.com
 0.0.0.0	nxrhs.com
@@ -26253,8 +25949,6 @@
 0.0.0.0	offerwall.yandex.net
 0.0.0.0	officeme.cn
 0.0.0.0	officesoftcn.com
-0.0.0.0	ofiii.com##.jsx-126687236
-0.0.0.0	ofiii.com##div.nonlinear_image_container.ad_impression
 0.0.0.0	ofodai.com
 0.0.0.0	ofooe.cn
 0.0.0.0	ofreadingand.biz
@@ -26309,8 +26003,6 @@
 0.0.0.0	okqwidvnsk.net
 0.0.0.0	olcdn.com
 0.0.0.0	oldulgk.cn
-0.0.0.0	olevod.com##.B1Lss,.B1Rss
-0.0.0.0	olevod.com##.ads-bg
 0.0.0.0	olpv.onlylady.com
 0.0.0.0	olpvimg.onlylady.com
 0.0.0.0	olstats.onlylady.com
@@ -26443,7 +26135,6 @@
 0.0.0.0	oslbahk.top
 0.0.0.0	osnignsk.xyz
 0.0.0.0	oss-asq-download.11222.cn
-0.0.0.0	oss-cn-hangzhou.aliyuncs.com##A.hm_item[href
 0.0.0.0	oss.cdn.aiclk.com
 0.0.0.0	oss4bpc.moji.com
 0.0.0.0	ossfile001.com
@@ -26627,7 +26318,6 @@
 0.0.0.0	p9-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0	p9-developer-sign.bytemaimg.com
 0.0.0.0	p9-pack.byteimg.com
-0.0.0.0	pabopa.com##DIV[style='width:
 0.0.0.0	pacaio.match.qq.com
 0.0.0.0	package01.com
 0.0.0.0	packet.cf
@@ -26655,10 +26345,6 @@
 0.0.0.0	painiuimg.com
 0.0.0.0	palmertx.com/template/js/img-1.php
 0.0.0.0	palmnews.sina.cn
-0.0.0.0	pan.baidu.com##.nd-operate-guidance
-0.0.0.0	pan.baidu.com##A.active-msg
-0.0.0.0	pan.baidu.com##div.content
-0.0.0.0	pan.baidu.com##div.nd-main-layout:first-child
 0.0.0.0	pan.baidu.com/buy/ad/*
 0.0.0.0	pan0304.com/ads.
 0.0.0.0	panchaxumbilic.com
@@ -26786,7 +26472,6 @@
 0.0.0.0	pejrq.xyz
 0.0.0.0	pendo.io
 0.0.0.0	pengauto.cn
-0.0.0.0	people.com.cn##div.main:nth-child(2)
 0.0.0.0	peplle.cn
 0.0.0.0	pepnsnq.cn
 0.0.0.0	perm-api.vivo.com.cn
@@ -26834,7 +26519,6 @@
 0.0.0.0	phputils.wc-os.com
 0.0.0.0	pi.pardot.com
 0.0.0.0	pianba.tv/api/web_htmls.js
-0.0.0.0	pianbas.com##.nopc.cpcad
 0.0.0.0	pianyuan.la/slade.js
 0.0.0.0	piaochong.co
 0.0.0.0	pic.0597kk.com
@@ -26983,8 +26667,6 @@
 0.0.0.0	plof69.com
 0.0.0.0	plt.data.pplive.com
 0.0.0.0	plugin-sync-upgrade-juui.hismarttv.com
-0.0.0.0	plugin.speedtest.cn##.active-ad
-0.0.0.0	plugin.speedtest.cn##.pub-ad,
 0.0.0.0	plus.google.com
 0.0.0.0	plusjrmallstatic.cdn.bcebos.com
 0.0.0.0	pluto.sina.cn
@@ -27052,8 +26734,6 @@
 0.0.0.0	poqjnkdsou.net
 0.0.0.0	poqwnllkm.com
 0.0.0.0	poqwua.cn
-0.0.0.0	pornhub.com##.adContainer
-0.0.0.0	pornhub.com##.topAdContainter
 0.0.0.0	pos.baidu.com
 0.0.0.0	post.ra.icast.cn
 0.0.0.0	poster.weather.com.cn
@@ -27395,11 +27075,8 @@
 0.0.0.0	qihang168.top
 0.0.0.0	qihaoqu.com
 0.0.0.0	qijpaih.cn
-0.0.0.0	qilishusong.cn##[style*='display:
 0.0.0.0	qimiaomh.com/muban/m/static/js/common.js
 0.0.0.0	qimiaomh.com/muban/m/static/js/hhh.js
-0.0.0.0	qinav.com##div[class="b300"]
-0.0.0.0	qinav.com##div[id="qinav_b*"]
 0.0.0.0	qinchugudao.com
 0.0.0.0	qingqu.la
 0.0.0.0	qinhemuye.com
@@ -27472,10 +27149,6 @@
 0.0.0.0	qps.000aaap2023.com
 0.0.0.0	qpztub.xyz
 0.0.0.0	qq-hls.xyz
-0.0.0.0	qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id
-0.0.0.0	qq.com##.ad-cell-common
-0.0.0.0	qq.com##A[dt-eid
-0.0.0.0	qq.com##[id
 0.0.0.0	qq.guansenff.cn
 0.0.0.0	qq.tapiche.cn
 0.0.0.0	qq17.toytoy.xyz
@@ -27533,7 +27206,6 @@
 0.0.0.0	quantcount.com
 0.0.0.0	quantserve.com
 0.0.0.0	quanxiaozi.com
-0.0.0.0	quark.cn##.ad-wolong-container
 0.0.0.0	qubdjkqwl.com
 0.0.0.0	qucaigg.com
 0.0.0.0	qucncfo.cn
@@ -27547,8 +27219,6 @@
 0.0.0.0	quminglemei.com
 0.0.0.0	qupinhj.com
 0.0.0.0	qurl.f.360.cn
-0.0.0.0	qushucheng.com##.appguide-wrap
-0.0.0.0	qushucheng.com##.hotcmd-wp
 0.0.0.0	qushucheng.com/public/
 0.0.0.0	quspga.xyz
 0.0.0.0	qutaobi.com
@@ -28275,7 +27945,6 @@
 0.0.0.0	sclizhong.com
 0.0.0.0	sclog.moviebox.baofeng.com
 0.0.0.0	scorecardresearch.com
-0.0.0.0	scoregg.com##.float-modal
 0.0.0.0	scribe.twitter.com
 0.0.0.0	scrippsnetworks.com
 0.0.0.0	script-bd.baixing.net
@@ -28547,7 +28216,6 @@
 0.0.0.0	shankejingling.com
 0.0.0.0	shanvezhu.com
 0.0.0.0	shanxicloud.net
-0.0.0.0	share.acgnx.se##IMG[src*='share.acgnx.se']
 0.0.0.0	share.gzdsw.com
 0.0.0.0	share.jileme.net
 0.0.0.0	shareasale-analytics.com
@@ -28666,15 +28334,7 @@
 0.0.0.0	similm.xyz
 0.0.0.0	simiyue2.com
 0.0.0.0	simplewebanalysis.com
-0.0.0.0	sina.cn###float-btn.callApp_fl_btn
-0.0.0.0	sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
-0.0.0.0	sina.cn##SECTION.sw_c0.sina_sliders_pos
-0.0.0.0	sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
 0.0.0.0	sina.cn/cm/sinaads_
-0.0.0.0	sina.com.cn###SFA_NV_POP
-0.0.0.0	sina.com.cn##[id
-0.0.0.0	sina.com.cn##div.wrap:nth-child(18)
-0.0.0.0	sina.com.cn##div[class*="stock-finapp-box"]
 0.0.0.0	sina.wrating.com
 0.0.0.0	sina.yinstar.org
 0.0.0.0	sinaalicdn.com
@@ -28726,7 +28386,6 @@
 0.0.0.0	skogsborg.net
 0.0.0.0	skxuueby.cn
 0.0.0.0	sky.tongjiai.com
-0.0.0.0	skyroad.downallbook.com##IMG[height='60'][width='98%']
 0.0.0.0	sl.adbiding.com
 0.0.0.0	sl.hpplay.cn
 0.0.0.0	sl.xawjwl.com
@@ -28748,7 +28407,6 @@
 0.0.0.0	slutcmail.com
 0.0.0.0	slzs.52xiyou.com
 0.0.0.0	sm.0.0.0.0.cn
-0.0.0.0	sm.cn##.ad-wolong-container
 0.0.0.0	sm1.todgo.com
 0.0.0.0	sm2.todgo.com
 0.0.0.0	sm2kz.net
@@ -28757,11 +28415,6 @@
 0.0.0.0	smad.ms.zhangyue.net
 0.0.0.0	smartad.10010.com
 0.0.0.0	smartadserver.com
-0.0.0.0	smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
-0.0.0.0	smartapps.cn##swan-nest-banner-ad.ad-expose
-0.0.0.0	smartapps.cn##swan-nest-banner-ad[class*="ad-expose"]
-0.0.0.0	smartapps.cn##swan-template[data-origin-name*="adRecommendation"]
-0.0.0.0	smartapps.cn##swan-view[class*="sw-26__bdad-wrap"]
 0.0.0.0	smartlook.com
 0.0.0.0	smartmad.com
 0.0.0.0	smartmail.cyou
@@ -28798,21 +28451,6 @@
 0.0.0.0	sntcbhv.com
 0.0.0.0	so.360.cn
 0.0.0.0	so.clzgd.com
-0.0.0.0	so.com###card_container
-0.0.0.0	so.com###side
-0.0.0.0	so.com###so-activity-entry
-0.0.0.0	so.com##.c-title-tag
-0.0.0.0	so.com##.e_result
-0.0.0.0	so.com##.inner_left
-0.0.0.0	so.com##.res-mediav
-0.0.0.0	so.com##.res-mediav-right
-0.0.0.0	so.com##.tg-wrap
-0.0.0.0	so.douyin.com##X-VIEW.inner.PrimaryBG-light
-0.0.0.0	so.douyin.com##[class
-0.0.0.0	so.douyin.com##[class*='h5-ad-']
-0.0.0.0	so.toutiao.com##.relative.pointer-events-none
-0.0.0.0	so.toutiao.com##DIV[id
-0.0.0.0	so.toutiao.com##section.commonbox.hasfooter
 0.0.0.0	so9l.com
 0.0.0.0	soa-vip-ssl.xunlei.com
 0.0.0.0	soarfi.cn
@@ -28836,28 +28474,6 @@
 0.0.0.0	sofunlib.com/assets/publish
 0.0.0.0	sogaha.cn
 0.0.0.0	sogo.uc.continuefaf.top
-0.0.0.0	sogou.com##.ad_result
-0.0.0.0	sogou.com##.banner-container
-0.0.0.0	sogou.com##.ips-overwrite-width
-0.0.0.0	sogou.com##.pc-brand-wrapper
-0.0.0.0	sogou.com##.qb-download-banner-non-share
-0.0.0.0	sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
-0.0.0.0	sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
-0.0.0.0	sohu.com###recommendSearch
-0.0.0.0	sohu.com##.cbd-plate-bill.common-ad
-0.0.0.0	sohu.com##.f:has([assporiginsrc])
-0.0.0.0	sohu.com##.feedback
-0.0.0.0	sohu.com##.float-discuss-container
-0.0.0.0	sohu.com##.float-discuss-up.float-discuss-enter
-0.0.0.0	sohu.com##.middle-insert-ad
-0.0.0.0	sohu.com##.nice-img-clz
-0.0.0.0	sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
-0.0.0.0	sohu.com##A[href='javascript:void(0);']
-0.0.0.0	sohu.com##DIV[id
-0.0.0.0	sohu.com##IFRAME[frameborder='0']
-0.0.0.0	sohu.com##IFRAME[width='325'][frameborder='0']
-0.0.0.0	sohu.com##[data-spm
-0.0.0.0	sohu.com##[data-spm-content='ad']
 0.0.0.0	sohu.irs01.com
 0.0.0.0	sohu.wrating.com
 0.0.0.0	solaron.top
@@ -28871,7 +28487,6 @@
 0.0.0.0	song001.com
 0.0.0.0	sonomoyo.com
 0.0.0.0	sos0easy.com
-0.0.0.0	soshu888.net##[style$='width:
 0.0.0.0	sou.dkdlsj.com
 0.0.0.0	sou.xanbhx.com
 0.0.0.0	souid.com
@@ -28880,7 +28495,6 @@
 0.0.0.0	soup.v.qq.com
 0.0.0.0	source.youxiaoad.com
 0.0.0.0	sousuo.xm.sjzhushou.com
-0.0.0.0	soutubot.moe##.bg-gray-800.overflow-hidden
 0.0.0.0	sovelswpq.com
 0.0.0.0	soviewo.com
 0.0.0.0	sp.360.cn
@@ -29155,8 +28769,6 @@
 0.0.0.0	statsigapi.net
 0.0.0.0	status-ipv6.jpush.cn
 0.0.0.0	status-un.trafficmanager.net
-0.0.0.0	stbemucode.com##DIV.header-ads
-0.0.0.0	stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 0.0.0.0	stdl.qq.com
 0.0.0.0	steelhousemedia.com
 0.0.0.0	stervapoimenialena.info
@@ -29578,7 +29190,6 @@
 0.0.0.0	temai.snssdk.com
 0.0.0.0	temai.taobao.com
 0.0.0.0	temp.163.com
-0.0.0.0	template/m1938pc/ads/*.js
 0.0.0.0	templates_pc/default/scripts/chapter_bottom.js
 0.0.0.0	ten.sngapm.qq.com
 0.0.0.0	tencent-dtv.m.cn.miaozhen.com
@@ -29650,7 +29261,6 @@
 0.0.0.0	thelifeandmore.com
 0.0.0.0	themis.hupu.com
 0.0.0.0	themis.yahoo.com
-0.0.0.0	thepaper.cn##[class
 0.0.0.0	thesac2.top
 0.0.0.0	thesac3.top
 0.0.0.0	thesac4.top
@@ -29688,10 +29298,6 @@
 0.0.0.0	tianyanzs.com
 0.0.0.0	tianyuewangluo.top
 0.0.0.0	ticcdn.com
-0.0.0.0	tieba.baidu.com##.activity_head
-0.0.0.0	tieba.baidu.com##.tbui_slideshow_slide
-0.0.0.0	tieba.baidu.com##DIV[id
-0.0.0.0	tieba.baidu.com##div[class*='-ad-pb-']
 0.0.0.0	tifyeldi.top
 0.0.0.0	tikimg.cc
 0.0.0.0	time.video.iqiyi.com
@@ -29812,7 +29418,6 @@
 0.0.0.0	toolbar.baidu.com
 0.0.0.0	toolbar.msn.com
 0.0.0.0	tools.3g.qq.com
-0.0.0.0	tools.bugscaner.com###div_qrcode_container
 0.0.0.0	tools.mouseflow.com
 0.0.0.0	toourbb.com
 0.0.0.0	top.h.qhimg.com
@@ -30030,7 +29635,6 @@
 0.0.0.0	tumblrprobes.cedexis.com
 0.0.0.0	tumblrreports.cedexis.com
 0.0.0.0	tumeite.cn
-0.0.0.0	tuniu.com##.web_envelope_mod,
 0.0.0.0	tuobeng.net
 0.0.0.0	tupian888.*.bcebos.com
 0.0.0.0	tuplzt.xyz
@@ -30043,7 +29647,6 @@
 0.0.0.0	tuyyex.icu
 0.0.0.0	tv.code.jjyx.com
 0.0.0.0	tv.snssdk.com
-0.0.0.0	tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 0.0.0.0	tvabqt.cn
 0.0.0.0	tvapp.hpplay.cn
 0.0.0.0	tvdpebx.cn
@@ -30350,7 +29953,6 @@
 0.0.0.0	unjs.jfcdns.com
 0.0.0.0	unjs.jingyanben.com
 0.0.0.0	unlitui.com
-0.0.0.0	unpkg.com/aladug/*.js
 0.0.0.0	unpleasantconcrete.com
 0.0.0.0	unreshiramor.com
 0.0.0.0	uns.soarfi.cn
@@ -30529,7 +30131,6 @@
 0.0.0.0	v.l.youku.com
 0.0.0.0	v.opzero.xyz
 0.0.0.0	v.oq68.com
-0.0.0.0	v.qq.com##div[class*="mod_row_box
 0.0.0.0	v.rmbn.net
 0.0.0.0	v.szpaopao.com
 0.0.0.0	v00087.com
@@ -30547,8 +30148,6 @@
 0.0.0.0	v10.events.data.microsoft.com
 0.0.0.0	v10.vortex-win.data.microsoft.com
 0.0.0.0	v10c.events.data.microsoft.com
-0.0.0.0	v11av.xyz##.content__body
-0.0.0.0	v11av.xyz##.row.q-ma-none
 0.0.0.0	v12-r0566gbscjw.z.irs01.com
 0.0.0.0	v16-ad.kwai.net
 0.0.0.0	v1d.szbdyd.com
@@ -30614,7 +30213,6 @@
 0.0.0.0	v9gfm.xyz
 0.0.0.0	va.gxpan.cn
 0.0.0.0	va.videojj.com
-0.0.0.0	vacations.ctrip.com##.side_function
 0.0.0.0	vad1.jianshen8.com
 0.0.0.0	vainews.cn
 0.0.0.0	val.api.youku.com
@@ -31010,7 +30608,6 @@
 0.0.0.0	wd.adcolony.com
 0.0.0.0	wda.ydt.com.cn
 0.0.0.0	wdadad.cn
-0.0.0.0	wdbay.com##[class][classname]
 0.0.0.0	wddsva0.com
 0.0.0.0	wdgsl.com
 0.0.0.0	wdpkx.cn
@@ -31056,9 +30653,6 @@
 0.0.0.0	webstat.qiumibao.com
 0.0.0.0	webstat.ws.126.net
 0.0.0.0	webterren.com
-0.0.0.0	webtor.io##DIV.ad
-0.0.0.0	webtor.io##IFRAME[scrolling='no']
-0.0.0.0	webtor.io##[data-element='empty']
 0.0.0.0	webtrends.yccdn.com
 0.0.0.0	webview.unityads.unity3d.com
 0.0.0.0	webvisor.com
@@ -31087,12 +30681,8 @@
 0.0.0.0	weld.uunice.com
 0.0.0.0	weld830.uunice.com
 0.0.0.0	weldc1.021ye.com
-0.0.0.0	wen.baidu.com##.related-asp-new
-0.0.0.0	wen.baidu.com##.wap-youx-change-asp
-0.0.0.0	wen.baidu.com##aside[class*="grid-r
 0.0.0.0	wenjinsai.top
 0.0.0.0	wenluoxi.com
-0.0.0.0	wenshushu.cn##A[href
 0.0.0.0	wensixuetang.com
 0.0.0.0	werois.com
 0.0.0.0	werpig.com
@@ -31144,8 +30734,6 @@
 0.0.0.0	wificheck.cn
 0.0.0.0	wifijia.net
 0.0.0.0	wifishow.ggsafe.com
-0.0.0.0	wiki.mbalib.com###ad_wikiLeft1
-0.0.0.0	wiki.mbalib.com##.app-warp
 0.0.0.0	wikigifth.com
 0.0.0.0	wildcard.moatads.com.edgekey.net
 0.0.0.0	win.gdt.qq.com
@@ -31166,12 +30754,9 @@
 0.0.0.0	wiyun.com
 0.0.0.0	wjguc.com
 0.0.0.0	wjz-cdn.baidu.com
-0.0.0.0	wk.baidu.com##.fc-ad-wrap
-0.0.0.0	wk.baidu.com##.middle-box-root
 0.0.0.0	wka8.com
 0.0.0.0	wkanc.com
 0.0.0.0	wkanx.com
-0.0.0.0	wkings.blog##.di7ubns5b2nz
 0.0.0.0	wkrcbszi.xyz
 0.0.0.0	wl.51taifu.com
 0.0.0.0	wl.eastlady.cn
@@ -31199,7 +30784,6 @@
 0.0.0.0	wmxke.com
 0.0.0.0	wn.pos.baidu.com
 0.0.0.0	wn.x.jd.com
-0.0.0.0	wn01.uk##IMG[alt][style='width:
 0.0.0.0	wn68din.cn
 0.0.0.0	wn80drk.shop
 0.0.0.0	wndlkj.com
@@ -31223,7 +30807,6 @@
 0.0.0.0	woodpecker.uc.cn
 0.0.0.0	woopra.com
 0.0.0.0	wootric.com
-0.0.0.0	woozooo.com##.ves
 0.0.0.0	worjeklmq.com
 0.0.0.0	worlderva.com
 0.0.0.0	worldh5.gamehz.cn
@@ -31401,7 +30984,6 @@
 0.0.0.0	x.bikaer.com
 0.0.0.0	x.castanet.net
 0.0.0.0	x.cnxad.com
-0.0.0.0	x.com/*/videoads/
 0.0.0.0	x.da.hunantv.com
 0.0.0.0	x.da.mgtv.com
 0.0.0.0	x.eccorp.cc
@@ -31472,7 +31054,6 @@
 0.0.0.0	xd.code.tanwanyx.com
 0.0.0.0	xd0411.xdt.usqiryn.cn
 0.0.0.0	xd3r.javgg.eu
-0.0.0.0	xda-developers.com##.adzone-above-latest
 0.0.0.0	xdadevelopers.browsi.mobi
 0.0.0.0	xdbwc.com
 0.0.0.0	xdcqcyp.com
@@ -31510,11 +31091,6 @@
 0.0.0.0	xhcdn.com
 0.0.0.0	xheqbc.cn
 0.0.0.0	xhffhsl.*.boutique
-0.0.0.0	xhfz2.com##A[href
-0.0.0.0	xhfz2.com##DIV#topcont
-0.0.0.0	xhfz2.com##DIV.HomeTuList
-0.0.0.0	xhfz2.com##DIV.pctext
-0.0.0.0	xhfz2.com##span.lileft
 0.0.0.0	xhiit0n.xyz
 0.0.0.0	xhkvff.cn
 0.0.0.0	xhmrv.com
@@ -31588,7 +31164,6 @@
 0.0.0.0	xilele.com
 0.0.0.0	xiliweisha.cn
 0.0.0.0	xilofr.xyz
-0.0.0.0	ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC
 0.0.0.0	ximit8023.maijijo.com
 0.0.0.0	xin.ygqczh.com
 0.0.0.0	xinasiaj.com
@@ -31652,7 +31227,6 @@
 0.0.0.0	xmawwbz.icu
 0.0.0.0	xmcmn.com
 0.0.0.0	xmcxz.com
-0.0.0.0	xmh/200/200-*.gif
 0.0.0.0	xmindchina.net
 0.0.0.0	xmjajv.xyz
 0.0.0.0	xmkbrfyu.cn
@@ -31778,8 +31352,6 @@
 0.0.0.0	xutmnla.cn
 0.0.0.0	xuwfmhh.icu
 0.0.0.0	xvadtrack.xingya.com.cn
-0.0.0.0	xvideos.com###ad-footer
-0.0.0.0	xvideos.com##.thumb-ad
 0.0.0.0	xwbspx.xyz
 0.0.0.0	xwlyfl.xyz
 0.0.0.0	xwqtatnw.icu
@@ -31803,7 +31375,6 @@
 0.0.0.0	xxmh456.com
 0.0.0.0	xxmh645.com
 0.0.0.0	xxniln.xyz
-0.0.0.0	xxooo.cf###overlay
 0.0.0.0	xxp.gytygc.com
 0.0.0.0	xxpkg.com
 0.0.0.0	xxsmad4.com
@@ -31840,7 +31411,6 @@
 0.0.0.0	xytom.com
 0.0.0.0	xyxy01.com
 0.0.0.0	xyy.code.weddingeeos.com
-0.0.0.0	xyz:9002/*?x=$third-party
 0.0.0.0	xz-development.oss-cn-beijing.aliyuncs.com
 0.0.0.0	xz.ercfh.com
 0.0.0.0	xzq.greenxf.net
@@ -31915,7 +31485,6 @@
 0.0.0.0	ydpushserver.youdao.com
 0.0.0.0	ydqzkj.com
 0.0.0.0	ydtykj.net
-0.0.0.0	ydyse.com##.left,.bottom,.right,.ad,.adimage
 0.0.0.0	yea.uploadimagex.com
 0.0.0.0	yeabble.com
 0.0.0.0	yeah.qq.com
@@ -31924,7 +31493,6 @@
 0.0.0.0	yegziyf.cn
 0.0.0.0	yelang8.cc
 0.0.0.0	yellowto.com
-0.0.0.0	yemancomic.com##div
 0.0.0.0	yenauddk.com
 0.0.0.0	yengo.com
 0.0.0.0	yenyshy.com
@@ -31953,7 +31521,6 @@
 0.0.0.0	yh18h8s.com
 0.0.0.0	yh20230625tu.com
 0.0.0.0	yhbsk.cn
-0.0.0.0	yhdm*.com/js/wap2-jm-ms.js?ver=
 0.0.0.0	yhdm.tv/bar/yfyh.js
 0.0.0.0	yhfophk.com
 0.0.0.0	yhhnjg.com
@@ -32086,7 +31653,6 @@
 0.0.0.0	youp05.com
 0.0.0.0	youquantao.com
 0.0.0.0	yousee.com
-0.0.0.0	youtube.com##AD-SLOT-RENDERER
 0.0.0.0	youtube.com/get_midroll_
 0.0.0.0	youtubee.top
 0.0.0.0	youxi.baidu.com
@@ -32294,8 +31860,6 @@
 0.0.0.0	zazgiyoh*.xyz
 0.0.0.0	zb.516624.com
 0.0.0.0	zb.nxing.cn
-0.0.0.0	zb.zhaobiao.cn##.enrol_ad
-0.0.0.0	zb.zhaobiao.cn##div.box:nth-child(5)
 0.0.0.0	zb757.cc
 0.0.0.0	zbc6hy*.live
 0.0.0.0	zbc6hye*.xyz
@@ -32459,22 +32023,10 @@
 0.0.0.0	zhhbqg.com/ww/*.js
 0.0.0.0	zhhbqg.com/xxgg/*.js
 0.0.0.0	zhichi08.com
-0.0.0.0	zhidao.baidu.com###knowledge-answer-list
-0.0.0.0	zhidao.baidu.com###qb-side
-0.0.0.0	zhidao.baidu.com###wap-youx-change-asp
-0.0.0.0	zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
-0.0.0.0	zhidao.baidu.com##[class$='-ecom-ads']
-0.0.0.0	zhidao.baidu.com##button[class*="task-list-button"]
-0.0.0.0	zhidao.baidu.com##div.jump-top-box:last-child
 0.0.0.0	zhidian3g.cn
 0.0.0.0	zhifenjie.com
 0.0.0.0	zhihei.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
-0.0.0.0	zhihu.com##.KfeCollection-VipRecommendCard
-0.0.0.0	zhihu.com##.OpenInAppButton
-0.0.0.0	zhihu.com##.zhihuAdvert-MBanner-wordDownload
-0.0.0.0	zhihu.com##A.MBannerAd
-0.0.0.0	zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 0.0.0.0	zhihu.com/plutus_adreaper?ar=*
 0.0.0.0	zhihu.xmcimg.com
 0.0.0.0	zhihuiyun.net.cn
@@ -32543,7 +32095,6 @@
 0.0.0.0	znyjmbh.icu
 0.0.0.0	zo66.com
 0.0.0.0	zokjds.com/js/xiao.js
-0.0.0.0	zol.com.cn##A.dingtong.xianshiyouhui
 0.0.0.0	zone-szl-moblie-app.gtm.fenqile.com
 0.0.0.0	zonyff.xyz
 0.0.0.0	zoomanalytics.co
