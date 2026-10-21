@@ -1,7 +1,7 @@
-# Version: 2026-10-21 07:14:39
+# Version: 2026-10-21 21:58:45
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32289
+# Total domains: 32290
 
 0.0.0.0	!
 0.0.0.0	!
@@ -25736,6 +25736,7 @@
 0.0.0.0	nexac.com
 0.0.0.0	nexage.com
 0.0.0.0	nexstep.zdworks.com
+0.0.0.0	nextacdn.top
 0.0.0.0	nextcps.com
 0.0.0.0	nextlnk9.com
 0.0.0.0	nexus.ensighten.com

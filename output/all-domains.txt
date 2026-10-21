@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 32439
-! Version: 2026-10-21 00:21:35（北京时间）
+! Total count: 32440
+! Version: 2026-10-21 11:20:41（北京时间）
 *-*-*-lrycfv.vip
 *-ad-sign.byteimg.com
 *-ad.a.yximgs.com
@@ -25731,6 +25731,7 @@ nex.163.com/q?
 nexac.com
 nexage.com
 nexstep.zdworks.com
+nextacdn.top
 nextcps.com
 nextlnk9.com
 nexus.ensighten.com
