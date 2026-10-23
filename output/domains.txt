@@ -1,14 +1,14 @@
-# Version: 2026-10-23 21:38:19
+# Version: 2026-10-24 07:15:25
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32297
+# Total domains: 32298
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 32447
-! Version: 2026-10-23 11:24:35（北京时间）
+! Total count: 32448
+! Version: 2026-10-24 00:28:14（北京时间）
 *-*-*-lrycfv.vip
 *-ad-sign.byteimg.com
 *-ad.a.yximgs.com
@@ -17568,6 +17568,7 @@ baichuan.baidu.com
 baidu-mipdx.cn.miaozhen.com
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
+baidu.com###page-copyright.se-page-copyright
 baidu.com/api/wapui/getrelatedbusiness
 baidu.com/baidu.php?url=
 baidu.com/newspage/api/getmobads?

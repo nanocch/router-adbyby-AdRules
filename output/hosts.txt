@@ -1,7 +1,7 @@
-# Version: 2026-10-23 21:38:19
+# Version: 2026-10-24 07:15:25
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32297
+# Total domains: 32298
 
 0.0.0.0	!
 0.0.0.0	!
@@ -17568,6 +17568,7 @@
 0.0.0.0	baidu-mipdx.cn.miaozhen.com
 0.0.0.0	baidu-union-js.xiachufang.com
 0.0.0.0	baidu-union-pos.xiachufang.com
+0.0.0.0	baidu.com###page-copyright.se-page-copyright
 0.0.0.0	baidu.com/api/wapui/getrelatedbusiness
 0.0.0.0	baidu.com/baidu.php?url=
 0.0.0.0	baidu.com/newspage/api/getmobads?
