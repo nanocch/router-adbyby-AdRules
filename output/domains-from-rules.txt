@@ -1,10 +1,4 @@
 
-! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Expires: 12 Hours
-! Homepage: https://github.com/qq5460168/666
-! Title: 去广告规则，酷安反馈反馈
-! Total count: 32449
-! Version: 2026-10-24 23:23:38（北京时间）
 *-*-*-lrycfv.vip
 *-ad-sign.byteimg.com
 *-ad.a.yximgs.com
@@ -11421,6 +11415,7 @@
 213fjdd.com
 2144.cn
 21511.ua96.com
+21511.ua96.com
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
 216.239.32.40 translate.googleapis.com
@@ -15247,7 +15242,6 @@
 @@||zodgame.xyz
 @@||ztgame.com
 Media.net
-[个人合并 2.0]
 _services._dns-sd._udp.local
 a-dxk.play.api.3g.youku.com
 a-m-s.poco.cn
@@ -15414,6 +15408,7 @@ aads.shuzilm.cn
 aaenv48847h.com
 aafanke.cc
 aaid.umeng.com
+aaid.umeng.com
 aaid.uyunad.com
 aam.adsremote.scrippsnetworks.com
 aan.amazon.com
@@ -15483,6 +15478,7 @@ acc.qq.com
 access.if.iqiyi.com
 access.njherald.com
 access.toggle.qq.com
+access1.tpns.tencent.com
 access1.tpns.tencent.com
 accscdn.m.taobao.com
 acdn.adnxs.com
@@ -16206,6 +16202,7 @@ ads.raidrive.com##img
 ads.reader.yueyouxs.com
 ads.servebom.com
 ads.service.kugou.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.sinaimg.cn
 ads.sohu.com
@@ -16313,6 +16310,8 @@ adservice.huawei.com
 adservice.kugou.com
 adservice.sigmob.cn
 adserviceretry.kglink.cn
+adserviceretry.kglink.cn
+adserviceretry.kugou.com
 adserviceretry.kugou.com
 adserving-oss.bangdao-tech.com
 adsessionserv.com
@@ -16324,6 +16323,7 @@ adsfilebssdlbig.*.kugou.com
 adsfilebssdlbig.ali.kugou.com
 adsfilebssdlbig.ali.kugou.com.wswebcdn.com
 adsfilebssdlbig.tx.kugou.com
+adsfileretry.service.kugou.com
 adsfileretry.service.kugou.com
 adsfs-sdkconfig.heytapimage.com
 adsfs.heytapimage.com
@@ -16817,6 +16817,7 @@ android-lrcresource.wps.cn
 android.bugly.qq.com
 android.push.126.net
 android.rqd.qq.com
+android.rqd.qq.com
 androiddownload.damai.cn
 androidgo.duapp.com
 androidlog.shouji.baofeng.com
@@ -16879,6 +16880,8 @@ apdfmhp.cn
 apfobmfr.cn
 api-access.pangolin-sdk-toutiao-*.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.queniuyk.com
 api-access.pangolin-sdk-toutiao1.com
@@ -17760,6 +17763,7 @@ bdplus.baidu.com
 bdpuaw.com
 bds.hainan.net
 bds.snssdk.com
+bds.snssdk.com
 bds.soarfi.cn
 bdsp.x.jd.com
 bdtongfei.cn
@@ -18214,6 +18218,7 @@ c.ptffw.net
 c.queene.cn
 c.rexuebi.com
 c.rscxwmj.cn
+c.sayhi.360.cn
 c.sayhi.360.cn
 c.shunlige.com
 c.silvinst.com
@@ -19721,6 +19726,7 @@ dieka888.com
 difnxm.cn
 dig-cfg.wtzw.com
 dig.bdurl.net
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digdug.divxnetworks.com
@@ -19763,6 +19769,7 @@ disqusads.com
 distf.kankan.com
 ditiehunlian.com
 ditorialproce.biz
+diyibanzhu
 diyibanzhu
 diyibanzhu*/js/cdn.js$~third-party
 diyuxa.com
@@ -19824,11 +19831,13 @@ dlswbr.baidu.com
 dlxxjsh.top
 dlzjdesign.com
 dm-hl.toutiao.com
+dm-hl.toutiao.com
 dm-lq.toutiao.com
 dm.388g.cc
 dm.51okc.com
 dm.92to.com
 dm.aizhan.com
+dm.bytedance.com
 dm.bytedance.com
 dm.chalook.net
 dm.fsyzcs.com
@@ -19845,6 +19854,7 @@ dm.riji.cn
 dm.sanwen.net
 dm.sanwen8.com
 dm.sb580.com
+dm.toutiao.com
 dm.toutiao.com
 dm.video.weibocdn.com
 dm.wo.com.cn
@@ -20635,6 +20645,7 @@ etahub.com
 etest.dangcdn.com
 eteun.cn
 ether-pack.pangolin-sdk-toutiao.com
+ether-pack.pangolin-sdk-toutiao.com
 ethicalads.io
 ethod.gzgmjcx.com
 etienlw.top
@@ -20706,6 +20717,7 @@ expo123.net
 ext-adv.kaixinyf.cn
 ext.baidu.com
 ext.theglobalweb.com
+extlog.snssdk.com
 extlog.snssdk.com
 extmaps-api.yandex.net
 extmoney.i1608.com
@@ -22282,6 +22294,7 @@ i.ma.social-touch.com
 i.meituan.com
 i.mmcdn.cn
 i.snssdk.com
+i.snssdk.com
 i.ssix.io
 i.syasn.com
 i.tansuotv.com
@@ -22816,12 +22829,14 @@ iroby.com
 ironsrc.com
 irpmt.mail.163.com
 irs01.com
+irs01.com
 irs01.net
 irs03.com
 irs09.com
 irtefs.xyz
 iruacwa.xyz
 is-lq.snssdk.com
+is.snssdk.com
 is.snssdk.com
 is.snssdk.com.queniukw.com
 isancio.top
@@ -23816,6 +23831,7 @@ l.minisplat.cn
 l.mnjkw.cn
 l.playlustofus.com
 l.pnsblw.cn
+l.pnsblw.cn
 l.qq.com
 l.supfast.net
 l.ujian.cc
@@ -24081,6 +24097,7 @@ lives.l.aiseet.atianqi.com
 lives.l.cp81.ott.cibntv.net
 lives.l.ott.video.qq.com
 lives.l.qq.com
+lives.l.qq.com
 lives.l.qq.com/livemsg?&ad_type=*
 liveupdate.mac.sandai.net
 livew.l.qq.com
@@ -24178,6 +24195,8 @@ log-api-mn.huxiu.com
 log-api.caoliao.net
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao-b.com
+log-api.pangolin-sdk-toutiao-b.com
+log-api.pangolin-sdk-toutiao.com
 log-api.pangolin-sdk-toutiao.com
 log-dmp.suishenyun.cn
 log-hl.snssdk.com
@@ -24225,6 +24244,7 @@ log.snssdk.com.bytedns.net
 log.stat.kugou.com
 log.tagtic.cn
 log.tbs.qq.com
+log.tpns.tencent.com
 log.tpns.tencent.com
 log.umsns.com
 log.v2.hunantv.com
@@ -25492,6 +25512,8 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mssdhde.cn
 mssdk-bu.bytedance.com
+mssdk-bu.bytedance.com
+mssdk-bu.snssdk.com
 mssdk-bu.snssdk.com
 mssdk.volces.com
 mssdk.zijieapi.com
@@ -26320,6 +26342,7 @@ p215223.inclk.com
 p215223.mycdn2.co
 p242.plainwrk.name
 p26-be-pack-sign.pglstatp-toutiao.com
+p26-be-pack-sign.pglstatp-toutiao.com
 p26.gejulm*.com
 p2cdn.com
 p2kfynrr.icu
@@ -26363,11 +26386,13 @@ p555.cc
 p6-ad-sign.byteimg.com
 p6-ad.byteimg.com
 p6-be-pack-sign.pglstatp-toutiao.com
+p6-be-pack-sign.pglstatp-toutiao.com
 p6-ecom-qualification-sign.ecombdimg.com
 p66-ad.adkwai.com
 p7uxzbht8h.adobe.io
 p8u.hinet.net
 p9-ad-sign.byteimg.com
+p9-be-pack-sign.pglstatp-toutiao.com
 p9-be-pack-sign.pglstatp-toutiao.com
 p9-developer-sign.bytemaimg.com
 p9-pack.byteimg.com
@@ -26413,6 +26438,7 @@ pangolin-sdk-toutiao*.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
+pangolin.snssdk.com
 pangolin.snssdk.com
 pangolin.snssdk.com/api/ad/*
 pangolin16.isnssdk.com
@@ -27023,6 +27049,7 @@ px.ucweb.com
 pxene.com
 pxl.connexity.net
 py.da.mgtv.com
+py.da.mgtv.com
 py.wikigifth.com
 pyeditingpro.biz
 pyerc.com
@@ -27219,6 +27246,7 @@ qqhuhu.com
 qqlogo.qq.com
 qqm98.com
 qqnde.xyz
+qqpublic.qpic.cn
 qqpublic.qpic.cn
 qqq123987.site
 qqqwww987.site
@@ -27882,6 +27910,7 @@ s2rkge.vmgikpw.com
 s2s.adjust.cn
 s2s.adjust.com
 s3-fe-scm.pglstatp-toutiao.com
+s3-fe-scm.pglstatp-toutiao.com
 s3.pfp.sina.net
 s3.rongnews.com
 s364-ad-canl5.nbjz.db9w.com
@@ -28068,6 +28097,7 @@ sdk.cferw.com
 sdk.cmgame.com
 sdk.conf.igexin.com
 sdk.e.qq.com
+sdk.e.qq.com
 sdk.gdt.qq.com
 sdk.hzsanjiaomao.com
 sdk.hzzfcm.com
@@ -28076,6 +28106,7 @@ sdk.m.youku.com
 sdk.markmedia.com.cn
 sdk.mobad.ijinshan.com
 sdk.mobads.adwangmai.com
+sdk.nouzhu.cn
 sdk.nouzhu.cn
 sdk.open.amp.igexin.com
 sdk.open.lbs.igexin.com
@@ -28235,13 +28266,18 @@ sf*-fe-tos.pglstatp-toutiao.com
 sf.vserv.mobi
 sf1-amtos-cdn.bytesmanager.com
 sf1-be-pack.pglstatp-toutiao.com
+sf1-be-pack.pglstatp-toutiao.com
 sf1-fe-tos.pglstatp-toutiao.com
 sf1-ttcdn-tos.pstatp.com
 sf16-static.i18n-pglstatp.com
 sf3-be-pack.pglstatp-toutiao.com
+sf3-be-pack.pglstatp-toutiao.com
+sf3-fe-tos.pglstatp-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
 sf3-ttcdn-tos.pstatp.com
+sf3-ttcdn-tos.pstatp.com
+sf6-be-pack.pglstatp-toutiao.com
 sf6-be-pack.pglstatp-toutiao.com
 sf6-fe-tos.pglstatp-toutiao.com
 sf6-ttcdn-tos.pstatp.com
@@ -29123,6 +29159,7 @@ t75.qyqc4s.com
 t7cp4fldl.com
 t7x22m7c.com
 t7z.cupid.iqiyi.com
+t7z.cupid.iqiyi.com
 t7z.cupid.ptqy.gitv.tv
 t91215.xyz
 t91772.xyz
@@ -29444,10 +29481,12 @@ tnc0-bjlgy.zijieapi.com
 tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com
+tnc3-aliec2.snssdk.com
 tnc3-aliec2.toutiaoapi.com
 tnc3-aliec2.zijieapi
 tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
+tnc3-alisc1.snssdk.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
 tnc3-alisc1.zijieapi
@@ -29455,6 +29494,7 @@ tnc3-alisc1.zijieapi.com
 tnc3-alisc1.zijieapi.com.queniuyk.com
 tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
+tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
 tnc3-bjlgy.zijieapi
@@ -29465,7 +29505,9 @@ tns-counter.ru
 tns.simba.taobao.com
 toastspinner.com
 tobapplog.ctobsnssdk.com
+tobapplog.ctobsnssdk.com
 tobapplog.volceapplog.com
+toblog.ctobsnssdk.com
 toblog.ctobsnssdk.com
 toblog.snssdk.com
 toblog.volceapplog.com
@@ -29887,6 +29929,7 @@ ug.baidu.com
 ug.pangolin-dsp-toutiao.com
 ug.qbimg.qq.com
 ug.snssdk.com
+ug.snssdk.com
 ugbjqwe.com
 ugc-upload.3g.qq.com
 ugc.moji001.com
@@ -29933,6 +29976,7 @@ ulog-sdk.ksapisrv.com
 ulog.imap.baidu.com
 ulogjs.gifshow.com
 ulogjs.ksapisrv.com
+ulogs.umeng.com
 ulogs.umeng.com
 ulogs.umengcloud.com
 ulogs.umengcloud.com.gds.alibabadns.com
@@ -30254,6 +30298,7 @@ v5-novelapp.fqnovelvod.com
 v6-adashx.ut.amap.com
 v6-adashx.ut.cainiao.com
 v6-adashx.ut.ele.me
+v6-be-pack.pglstatp-toutiao.com
 v6-be-pack.pglstatp-toutiao.com
 v6-data.video.dns.iqiyi.com
 v6-devs-data.dutils.com
@@ -31493,6 +31538,7 @@ xzxhpcdz.icu
 xzyituo.com
 xzzyi.com
 y.3957957.com
+y.da.hunantv.com
 y.da.hunantv.com
 y.da.mgtv.com
 y.damifan.cn
