@@ -1,7 +1,7 @@
-# Version: 2026-10-28 23:14:08
+# Version: 2026-10-29 08:05:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32289
+# Total domains: 32299
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12447,7 +12447,9 @@
 0.0.0.0	@@||app.home.360.cn
 0.0.0.0	@@||app.huabao.360.cn
 0.0.0.0	@@||app.market.xiaomi.com
+0.0.0.0	@@||app.mi.com
 0.0.0.0	@@||app.toutiao.com
+0.0.0.0	@@||app.xiaomi.com
 0.0.0.0	@@||app.zhuanzhuan.com
 0.0.0.0	@@||appcenter.ms
 0.0.0.0	@@||appcfg.v.qq.com
@@ -12474,6 +12476,7 @@
 0.0.0.0	@@||aps.amap.com
 0.0.0.0	@@||aq.qq.com
 0.0.0.0	@@||archive.biliimg.com
+0.0.0.0	@@||archive.stardock.com
 0.0.0.0	@@||arenascan.com
 0.0.0.0	@@||article.zlink.toutiao.com
 0.0.0.0	@@||as.weixin.qq.com
@@ -12802,6 +12805,7 @@
 0.0.0.0	@@||contentcenter-vali-drcn.dbankcdn.com
 0.0.0.0	@@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	@@||coop.voicecloud.cn
+0.0.0.0	@@||copilot.tencent.com
 0.0.0.0	@@||core.tantanapp.com
 0.0.0.0	@@||cos.ap-bangkok.myqcloud.com
 0.0.0.0	@@||cos.ap-beijing-1.myqcloud.com
@@ -13111,6 +13115,8 @@
 0.0.0.0	@@||fonts.gstatic.com
 0.0.0.0	@@||forum.trae.cn
 0.0.0.0	@@||forums.oneplus.com
+0.0.0.0	@@||forums.stardock.com
+0.0.0.0	@@||forums.stardock.net
 0.0.0.0	@@||foundation.youdao.com
 0.0.0.0	@@||fourhoi.com
 0.0.0.0	@@||fourier-videoclip-eu.allawnos.com
@@ -13326,6 +13332,7 @@
 0.0.0.0	@@||id.realme.com
 0.0.0.0	@@||id1.cloud.huawei.com
 0.0.0.0	@@||id6.me
+0.0.0.0	@@||identity.stardock.com
 0.0.0.0	@@||idmb.register.xmpush.global.xiaomi.com
 0.0.0.0	@@||idmsa.apple.com
 0.0.0.0	@@||ietheivaicai.com
@@ -14769,6 +14776,7 @@
 0.0.0.0	@@||up.cm.ksmobile.com
 0.0.0.0	@@||upage.imtt.qq.com
 0.0.0.0	@@||update.360safe.com
+0.0.0.0	@@||update.appstore.vivo.com.cn
 0.0.0.0	@@||update.hicloud.com
 0.0.0.0	@@||update.huorong.cn
 0.0.0.0	@@||update.vivo.com
@@ -15115,6 +15123,8 @@
 0.0.0.0	@@||www.siyuan-note.club
 0.0.0.0	@@||www.so.com
 0.0.0.0	@@||www.spaceship.com
+0.0.0.0	@@||www.stardock.com
+0.0.0.0	@@||www.stardock.net
 0.0.0.0	@@||www.sygjx.com
 0.0.0.0	@@||www.taobao.com
 0.0.0.0	@@||www.taptap.cn
