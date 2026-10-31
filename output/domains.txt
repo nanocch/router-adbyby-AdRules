@@ -1,13 +1,52 @@
-# Version: 2026-10-31 07:55:08
+# Version: 2026-10-31 22:37:17
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32299
+# Total domains: 32328
 
+! ==============================================
 ! Homepage: https://github.com/qq5460168/AD886
-! Last Updated: 2026-10-31 01:42:39（北京时间）
+! Last Updated: 2026-10-31 18:59:37（北京时间）
 ! Title: 酷安广告规则
-! Total count: 32449
+! Total count: 32416
 ! by: 酷安@那个谁520
+! 📋 规则来源：5460
+! 📋 规则来源：AdRules DNS Filter
+! 📋 规则来源：DD
+! 📋 规则来源：FCM Hosts
+! 📋 规则来源：SMhosts
+! 📋 规则来源：Zisbusy
+! 📋 规则来源：liwenjie119
+! 📋 规则来源：mphin
+! 📋 规则来源：下一个ID见
+! 📋 规则来源：周木木
+! 📋 规则来源：大萌主
+! 📋 规则来源：晴雅
+! 📋 规则来源：本地补充(data/rules/adblock.txt)
+! 📋 规则来源：测试hosts
+! 📋 规则来源：白名单(dangchu)
+! 📋 规则来源：秋风规则
+! 📋 规则来源：茯苓
+! 📋 规则来源：茯苓白名单
+! 📋 规则来源：补充(Who520)
+! 🔗 原始地址：https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list
+! 🔗 原始地址：https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts
+! 🔗 原始地址：https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts
+! 🔗 原始地址：https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Develop/FuLingRules/FuLingAllowList.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Develop/FuLingRules/FuLingBlockList.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt#补充
+! 🔗 原始地址：https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/SMhosts.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt
+! 🔗 原始地址：https://raw.githubusercontent.com/rssvcn/qy-Ads-Rule/main/black.txt
+! 🔗 原始地址：本地文件
 *-*-*-lrycfv.vip
 *-ad-sign.byteimg.com
 *-ad.a.yximgs.com
@@ -1339,7 +1378,6 @@
 0.0.0.0 api.u.mob.com
 0.0.0.0 api.umeng.com
 0.0.0.0 api.upgrade.skysrt.com
-0.0.0.0 api.upgrade.skysrt.com  
 0.0.0.0 api.utag.mob.com
 0.0.0.0 api.verification.jpush.cn
 0.0.0.0 api.verify.mob.com
@@ -2587,7 +2625,6 @@
 0.0.0.0 g.rs.yoyi.com.cn
 0.0.0.0 g1.163.com
 0.0.0.0 g1.tagtic.cn
-0.0.0.0 g1.tagtic.cn 
 0.0.0.0 g1max.mediav.com
 0.0.0.0 g1xd.mediav.com
 0.0.0.0 g2.ganjing.world
@@ -3022,9 +3059,7 @@
 0.0.0.0 img.adbox.sina.com.cn
 0.0.0.0 img.admobile.top
 0.0.0.0 img.adnyg.com
-0.0.0.0 img.adnyg.com 
 0.0.0.0 img.adnyg.com.w.kunlungr.com
-0.0.0.0 img.adnyg.com.w.kunlungr.com 
 0.0.0.0 img.adprod.cn
 0.0.0.0 img.ads.huntmad.com
 0.0.0.0 img.ads.mobilefuse.net
@@ -3387,7 +3422,6 @@
 0.0.0.0 log.snssdk.com.bytedns.net
 0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.tagtic.cn
-0.0.0.0 log.tagtic.cn 
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.umeng.com
 0.0.0.0 log.umengcloud.com
@@ -3791,7 +3825,6 @@
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 myvpn.inmobi.com
 0.0.0.0 mz-api.smzdm.com
-0.0.0.0 mz-api.smzdm.com 
 0.0.0.0 n.3g.163.com
 0.0.0.0 n.mark.le.com
 0.0.0.0 n.mark.letv.com
@@ -4111,7 +4144,6 @@
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.gtimg.com
 0.0.0.0 pgdt.ugdtimg.com
-0.0.0.0 pgdt.ugdtimg.com 
 0.0.0.0 phone.getui.com
 0.0.0.0 phone.igexin.com
 0.0.0.0 pic-ad-ld.tupian1234.com
@@ -4779,7 +4811,6 @@
 0.0.0.0 sdl.domob.cn
 0.0.0.0 sdn.kugou.com
 0.0.0.0 sdownload.stargame.com
-0.0.0.0 sdownload.stargame.com 
 0.0.0.0 sea.advertising.yahoo.com
 0.0.0.0 sea.napi.ucweb.com
 0.0.0.0 sealine.youku.com
@@ -6083,7 +6114,6 @@
 010teacher.com
 010xk.com
 018520.com
-01bz
 01daa.lubih.com
 01daa.lutci.com
 01daa.lutgh.com
@@ -8633,7 +8663,7 @@
 127.0.0.1 insights.samsung.com
 127.0.0.1 install.kugou.com
 127.0.0.1 install2.kugou.com
-127.0.0.1 installer-drcn.hispace.hihonorcloud.com 
+127.0.0.1 installer-drcn.hispace.hihonorcloud.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 intellicc.bcs.cmbchina.com #(招行)掌上生活弹窗广告，开屏去不掉，误杀大量图片
 127.0.0.1 interest.mix.sina.com.cn
@@ -15249,7 +15279,6 @@
 @@||zmde.yijoys.com
 @@||zodgame.xyz
 @@||ztgame.com
-Media.net
 _services._dns-sd._udp.local
 a-dxk.play.api.3g.youku.com
 a-m-s.poco.cn
