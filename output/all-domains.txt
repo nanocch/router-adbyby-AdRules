@@ -1,8 +1,8 @@
 ! ==============================================
 ! Homepage: https://github.com/qq5460168/AD886
-! Last Updated: 2026-10-31 18:59:37（北京时间）
+! Last Updated: 2026-11-01 00:49:36（北京时间）
 ! Title: 酷安广告规则
-! Total count: 32416
+! Total count: 32411
 ! by: 酷安@那个谁520
 ! 📋 规则来源：5460
 ! 📋 规则来源：AdRules DNS Filter
@@ -6175,6 +6175,7 @@
 0x01e7.website
 0xxd.com
 0yq00i.cn
+1![个人收集 2.0]
 1.1010pic.com
 1.11130.com.cn
 1.201980.com
@@ -6227,7 +6228,6 @@
 103.99.35.250 jp.static.mega.co.nz
 103.99.35.251 sg.static.mega.co.nz
 107iwh.cn
-108.138.246.125 api.themoviedb.org
 108.177.104.188     alt7-mtalk.google.com
 108.177.125.188 alt4-mtalk.google.com
 108.177.125.188 mtalk.google.com  #台湾
@@ -11236,10 +11236,8 @@
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
 13.107.42.16 pipelines.actions.githubusercontent.com
-13.224.163.98 api.themoviedb.org
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
-13.35.0.128 api.themoviedb.org
 13023.url.7wkw.com
 131r3lknzg.com
 133.237.176.198 hb.afl.rakuten.co.jp
@@ -11311,7 +11309,6 @@
 17un.co
 17un.com
 17zhaole.com
-18.65.159.31 api.themoviedb.org
 180.163.150.33      dl.l.google.com
 180.163.151.161     dl.google.com
 180rgwee.com
@@ -11737,8 +11734,6 @@
 51y5.net
 51yes.com
 51zhanzhuang.cn
-52.84.166.68 api.themoviedb.org
-52.84.166.71 api.themoviedb.org
 5207470.com
 5269120.com
 526d.uunice.com
