@@ -1,7 +1,7 @@
-# Version: 2026-11-10 10:48:37
+# Version: 2026-11-11 00:29:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32323
+# Total domains: 32328
 
 0.0.0.0	!
 0.0.0.0	!
@@ -14292,6 +14292,8 @@
 0.0.0.0	@@||puui.qpic.cn
 0.0.0.0	@@||pv.sohu.com
 0.0.0.0	@@||pvip.funshion.com
+0.0.0.0	@@||pvp.icreate.qq.com
+0.0.0.0	@@||pvp.qq.com
 0.0.0.0	@@||px.wpk.quark.cn
 0.0.0.0	@@||py.qlogo.cn
 0.0.0.0	@@||py2.qlogo.cn
@@ -14979,6 +14981,7 @@
 0.0.0.0	@@||woocall.sina.com.cn
 0.0.0.0	@@||work.weixin.qq.com
 0.0.0.0	@@||world.qpic.cn
+0.0.0.0	@@||world.qq.com
 0.0.0.0	@@||worldwide.sogou.com
 0.0.0.0	@@||wpvip.duba.net
 0.0.0.0	@@||wq.360buyimg.com
@@ -15200,6 +15203,7 @@
 0.0.0.0	@@||wxmini-api.uyouqu.com
 0.0.0.0	@@||wxpay.qpic.cn
 0.0.0.0	@@||wxpaylogo.qpic.cn
+0.0.0.0	@@||wxq.qq.com
 0.0.0.0	@@||wxsnsdy.wxs.qq.com
 0.0.0.0	@@||wxsnsencsvp.wxs.qq.com
 0.0.0.0	@@||x.kuwo.cn
@@ -15234,6 +15238,7 @@
 0.0.0.0	@@||yeah.163.com
 0.0.0.0	@@||yep.com
 0.0.0.0	@@||yhd.com
+0.0.0.0	@@||yingdi.qq.com
 0.0.0.0	@@||yixiu-abtest.alicdn.com
 0.0.0.0	@@||ykimg.com
 0.0.0.0	@@||ylog.huya.com

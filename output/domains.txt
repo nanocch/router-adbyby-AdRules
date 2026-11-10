@@ -1,13 +1,13 @@
-# Version: 2026-11-10 10:48:37
+# Version: 2026-11-11 00:29:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32323
+# Total domains: 32328
 
 ! ==============================================
 ! Homepage: https://github.com/qq5460168/AD886
-! Last Updated: 2026-11-10 05:56:01（北京时间）
+! Last Updated: 2026-11-10 13:57:43（北京时间）
 ! Title: 酷安广告规则
-! Total count: 32411
+! Total count: 32416
 ! by: 酷安@那个谁520
 ! 📋 规则来源：5460
 ! 📋 规则来源：AdRules DNS Filter
@@ -14292,6 +14292,8 @@
 @@||puui.qpic.cn
 @@||pv.sohu.com
 @@||pvip.funshion.com
+@@||pvp.icreate.qq.com
+@@||pvp.qq.com
 @@||px.wpk.quark.cn
 @@||py.qlogo.cn
 @@||py2.qlogo.cn
@@ -14979,6 +14981,7 @@
 @@||woocall.sina.com.cn
 @@||work.weixin.qq.com
 @@||world.qpic.cn
+@@||world.qq.com
 @@||worldwide.sogou.com
 @@||wpvip.duba.net
 @@||wq.360buyimg.com
@@ -15200,6 +15203,7 @@
 @@||wxmini-api.uyouqu.com
 @@||wxpay.qpic.cn
 @@||wxpaylogo.qpic.cn
+@@||wxq.qq.com
 @@||wxsnsdy.wxs.qq.com
 @@||wxsnsencsvp.wxs.qq.com
 @@||x.kuwo.cn
@@ -15234,6 +15238,7 @@
 @@||yeah.163.com
 @@||yep.com
 @@||yhd.com
+@@||yingdi.qq.com
 @@||yixiu-abtest.alicdn.com
 @@||ykimg.com
 @@||ylog.huya.com
