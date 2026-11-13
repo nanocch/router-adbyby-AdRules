@@ -1,7 +1,7 @@
-# Version: 2026-11-13 00:55:06
+# Version: 2026-11-13 09:14:58
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32330
+# Total domains: 32335
 
 0.0.0.0	!
 0.0.0.0	!
@@ -271,6 +271,7 @@
 0.0.0.0	*vmind.qqvideo.tc.qq.com
 0.0.0.0	*yydstxt*/js/cdn.js
 0.0.0.0	-normal-lq.zijieapi.com
+0.0.0.0	/(
 0.0.0.0	/js/0x1a2b3c4d.js
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
@@ -12920,6 +12921,7 @@
 0.0.0.0	@@||defaultts.tc.qq.com
 0.0.0.0	@@||detail.meizu.com
 0.0.0.0	@@||detail.zol.com.cn
+0.0.0.0	@@||dev.mi.com
 0.0.0.0	@@||dev.miuiflash.com
 0.0.0.0	@@||develope-oss.lanzoug.com
 0.0.0.0	@@||developer.apple.com$generichide
@@ -13321,6 +13323,7 @@
 0.0.0.0	@@||huichuan-mc.sm.cn
 0.0.0.0	@@||huichuan.sm.cn
 0.0.0.0	@@||huluxia.com
+0.0.0.0	@@||hyperos.developer.xiaomi.com
 0.0.0.0	@@||i.dell.com
 0.0.0.0	@@||i.gtimg.cn
 0.0.0.0	@@||i.ibb.co
@@ -13467,6 +13470,7 @@
 0.0.0.0	@@||io75a.ocloud.heytapmobi.com
 0.0.0.0	@@||ios.bugly.qq.com
 0.0.0.0	@@||ios.crashsight.qq.com
+0.0.0.0	@@||iot.mi.com
 0.0.0.0	@@||ip*.ahcdn.com
 0.0.0.0	@@||ip.900cha.com
 0.0.0.0	@@||ip.cn
@@ -13823,6 +13827,7 @@
 0.0.0.0	@@||midas.gtimg.cn
 0.0.0.0	@@||mime.baidu.com
 0.0.0.0	@@||mimg.127.net
+0.0.0.0	@@||mimo.mi.com
 0.0.0.0	@@||mini-game-gl.heytapmobile.com
 0.0.0.0	@@||mini2015.qq.com
 0.0.0.0	@@||miniapp.gtimg.cn
