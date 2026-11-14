@@ -1,7 +1,7 @@
-# Version: 2026-11-14 23:13:32
+# Version: 2026-11-15 07:59:37
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32335
+# Total domains: 32341
 
 0.0.0.0	!
 0.0.0.0	!
@@ -16171,7 +16171,6 @@
 0.0.0.0	ads-img-al.xhscdn.com
 0.0.0.0	ads-img-bak.xhscdn.com
 0.0.0.0	ads-img-qc.xhscdn.com
-0.0.0.0	ads-jp.tiktok.com
 0.0.0.0	ads-jssdk.vivo.com.cn
 0.0.0.0	ads-lb.serving-sys.cn
 0.0.0.0	ads-marketing-vivofs.vivo.com.cn
@@ -16185,6 +16184,7 @@
 0.0.0.0	ads-video-1251524319.cos.ap-shanghai.myqcloud.com
 0.0.0.0	ads-video-al.xhscdn.com
 0.0.0.0	ads-video-qc.xhscdn.com
+0.0.0.0	ads-vp5.xhscdn.com
 0.0.0.0	ads.*.kugou.com
 0.0.0.0	ads.95516.com
 0.0.0.0	ads.adadapted.com
@@ -18804,6 +18804,7 @@
 0.0.0.0	clickzs.com
 0.0.0.0	client-api.ele.me
 0.0.0.0	client-dmp.suishenyun.cn
+0.0.0.0	client-upload.cn-shanghai.log.aliyuncs.com
 0.0.0.0	client.88tours.com
 0.0.0.0	client.show.qq.com
 0.0.0.0	client.sidesearch.lycos.com
@@ -20121,6 +20122,7 @@
 0.0.0.0	dts.akamai.startappexchange.com
 0.0.0.0	dtscout.com
 0.0.0.0	dtsxn.cn
+0.0.0.0	du-app.cn-hangzhou.log.aliyuncs.com
 0.0.0.0	du.jd.com
 0.0.0.0	dualstack-logs.amap.com
 0.0.0.0	duanat.com
@@ -24216,6 +24218,7 @@
 0.0.0.0	log-api.huxiu.com
 0.0.0.0	log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0	log-api.pangolin-sdk-toutiao.com
+0.0.0.0	log-auth.zztfly.com
 0.0.0.0	log-dmp.suishenyun.cn
 0.0.0.0	log-hl.snssdk.com
 0.0.0.0	log-klink.zijieapi.com
@@ -28349,6 +28352,8 @@
 0.0.0.0	shibeiou.com
 0.0.0.0	shiftrro.com
 0.0.0.0	shigl.top
+0.0.0.0	shihuo-new.log.shihuocdn.cn
+0.0.0.0	shihuo.log.shihuocdn.cn
 0.0.0.0	shijixinrui.cn
 0.0.0.0	shili.downxia.com
 0.0.0.0	shili.wanyx.com
@@ -30070,6 +30075,7 @@
 0.0.0.0	up-hl.3g.qq.com
 0.0.0.0	up.hiao.com
 0.0.0.0	up4.ucweb.com
+0.0.0.0	upc.zztfly.com
 0.0.0.0	upd.faronicslabs.com
 0.0.0.0	update.appstore.vivo.com.cn
 0.0.0.0	update.avlyun.sec.miui.com
