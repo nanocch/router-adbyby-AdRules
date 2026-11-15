@@ -1,7 +1,7 @@
-# Version: 2026-11-15 07:59:37
+# Version: 2026-11-15 23:44:25
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32341
+# Total domains: 32340
 
 0.0.0.0	!
 0.0.0.0	!
@@ -14024,7 +14024,6 @@
 0.0.0.0	@@||open.bytedanceapi.com
 0.0.0.0	@@||open.douyin.com
 0.0.0.0	@@||open.oppomobile.com
-0.0.0.0	@@||open.snssdk.com
 0.0.0.0	@@||open.unionpay.com
 0.0.0.0	@@||open.unionpayintl.com
 0.0.0.0	@@||openap-alps.51y5.net

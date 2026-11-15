@@ -1,13 +1,13 @@
-# Version: 2026-11-15 07:59:37
+# Version: 2026-11-15 23:44:25
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32341
+# Total domains: 32340
 
 ! ==============================================
 ! Homepage: https://github.com/qq5460168/AD886
-! Last Updated: 2026-11-15 01:39:49（北京时间）
+! Last Updated: 2026-11-15 12:50:29（北京时间）
 ! Title: 酷安广告规则
-! Total count: 32429
+! Total count: 32428
 ! by: 酷安@那个谁520
 ! 📋 规则来源：5460
 ! 📋 规则来源：AdRules DNS Filter
@@ -14024,7 +14024,6 @@
 @@||open.bytedanceapi.com
 @@||open.douyin.com
 @@||open.oppomobile.com
-@@||open.snssdk.com
 @@||open.unionpay.com
 @@||open.unionpayintl.com
 @@||openap-alps.51y5.net
