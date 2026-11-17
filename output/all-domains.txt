@@ -1,8 +1,8 @@
 ! ==============================================
 ! Homepage: https://github.com/qq5460168/AD886
-! Last Updated: 2026-11-17 05:38:48（北京时间）
+! Last Updated: 2026-11-17 14:34:27（北京时间）
 ! Title: 酷安广告规则
-! Total count: 32437
+! Total count: 32438
 ! by: 酷安@那个谁520
 ! 📋 规则来源：5460
 ! 📋 规则来源：AdRules DNS Filter
@@ -27514,6 +27514,7 @@ regist.fotoable.com
 register.app.jpy.jp
 registeridm.com
 regulationprivilegescan.top
+reke.at.sohu.com
 reksaidnslog.security.mihoyo.com
 relafp.xyz
 relap.io
