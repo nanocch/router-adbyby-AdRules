@@ -1,7 +1,7 @@
-# Version: 2026-11-18 01:42:37
+# Version: 2026-11-18 10:29:00
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32349
+# Total domains: 32352
 
 0.0.0.0	!
 0.0.0.0	!
@@ -18846,6 +18846,7 @@
 0.0.0.0	cloudcdn.yousee.com
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	cloudflare.st
+0.0.0.0	cloudflareinsights.com
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloudpush.iqiyi.com
 0.0.0.0	club.bilibili.com
@@ -30175,6 +30176,7 @@
 0.0.0.0	usingde.com
 0.0.0.0	uslbaht.top
 0.0.0.0	uslsxe.com
+0.0.0.0	usnorbert.com
 0.0.0.0	uspauline.com
 0.0.0.0	usphfiona.com
 0.0.0.0	usr-api.1sapp.com
@@ -30919,6 +30921,7 @@
 0.0.0.0	wo1990.com
 0.0.0.0	wo685.com
 0.0.0.0	woaizhongguo.cdn111222.com
+0.0.0.0	wodeshucheng5.com/*/1
 0.0.0.0	wodhid.com
 0.0.0.0	wof.matchkj.com
 0.0.0.0	wogukcd.xyz
