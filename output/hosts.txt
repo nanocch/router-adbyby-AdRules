@@ -1,7 +1,7 @@
-# Version: 2026-11-20 09:48:26
+# Version: 2026-11-21 01:03:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32352
+# Total domains: 32353
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12158,6 +12158,7 @@
 0.0.0.0	9wushuo.com
 0.0.0.0	9xf9qkz5.com
 0.0.0.0	9xpi49.tnhkwrs.com
+0.0.0.0	://gg.*/*.js$third-party
 0.0.0.0	@@||*-cf.xvideos-cdn.com
 0.0.0.0	@@||*-misc-lf.fqnovel.com
 0.0.0.0	@@||*-novelapp.fqnovelvod.com
