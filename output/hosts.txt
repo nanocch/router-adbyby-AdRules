@@ -1,7 +1,7 @@
-# Version: 2026-11-22 08:30:51
+# Version: 2026-11-23 00:29:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32353
+# Total domains: 32354
 
 0.0.0.0	!
 0.0.0.0	!
@@ -271,6 +271,7 @@
 0.0.0.0	*vmind.qqvideo.tc.qq.com
 0.0.0.0	*yydstxt*/js/cdn.js
 0.0.0.0	-normal-lq.zijieapi.com
+0.0.0.0	.com:30009/*t*$third-party
 0.0.0.0	/(
 0.0.0.0	/js/0x1a2b3c4d.js
 0.0.0.0	0.0.0.0
