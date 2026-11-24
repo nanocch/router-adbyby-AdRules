@@ -1,7 +1,7 @@
-# Version: 2026-11-24 04:24:09
+# Version: 2026-11-24 12:52:11
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32354
+# Total domains: 32352
 
 0.0.0.0	!
 0.0.0.0	!
@@ -11299,7 +11299,6 @@
 0.0.0.0	168.it168.com
 0.0.0.0	1680go.com
 0.0.0.0	168ad.cc
-0.0.0.0	169.150.249.166
 0.0.0.0	16m.cc
 0.0.0.0	170yy.com
 0.0.0.0	172.247.208.87/js/head.js
@@ -11757,7 +11756,6 @@
 0.0.0.0	52qqmxd.com
 0.0.0.0	5345ll.com
 0.0.0.0	537901.com
-0.0.0.0	54.192.18.90
 0.0.0.0	54.192.73.28
 0.0.0.0	549htbet.com
 0.0.0.0	54askjdklm.xyz
