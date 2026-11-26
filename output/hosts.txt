@@ -1,7 +1,7 @@
-# Version: 2026-11-26 02:43:07
+# Version: 2026-11-26 10:56:47
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 32352
+# Total domains: 32357
 
 0.0.0.0	!
 0.0.0.0	!
@@ -6124,6 +6124,7 @@
 0.0.0.0	01v62.xyz
 0.0.0.0	020kqy.com
 0.0.0.0	022003xs.com
+0.0.0.0	022022.cc
 0.0.0.0	022aifang.com
 0.0.0.0	023hysj.com
 0.0.0.0	02539717.com
@@ -6200,7 +6201,6 @@
 0.0.0.0	1.hao123.com
 0.0.0.0	1.hnyouneng.com
 0.0.0.0	1.hslyqs.com
-0.0.0.0	1.huanle739.cc
 0.0.0.0	1.i1766.com
 0.0.0.0	1.iqeq.com.cn
 0.0.0.0	1.jeasyui.net
@@ -11468,7 +11468,6 @@
 0.0.0.0	23.204.10.89
 0.0.0.0	23.204.10.89
 0.0.0.0	23.215.0.204
-0.0.0.0	23.222.193.171
 0.0.0.0	23.231.151.252
 0.0.0.0	23.48.224.239
 0.0.0.0	23.49.100.232
@@ -11500,6 +11499,7 @@
 0.0.0.0	24smi.net
 0.0.0.0	25.y25287524.vip
 0.0.0.0	25.y25718211.vip
+0.0.0.0	256kpdz.com
 0.0.0.0	256ppp.com
 0.0.0.0	26.26678381.vip
 0.0.0.0	2634273f48e9.com
@@ -12362,6 +12362,7 @@
 0.0.0.0	@@||ap.6wz.co
 0.0.0.0	@@||ap6.ssl.msdk.qq.com
 0.0.0.0	@@||apd-pcdniegwzlogin.teg.tencent-cloud.net
+0.0.0.0	@@||apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0	@@||apd-pcdnwxstat.teg.tencent-cloud.net
 0.0.0.0	@@||apd-ugcvlive.apdcdn.tc.qq.com
 0.0.0.0	@@||apd-vlive.apdcdn.tc.qq.com
@@ -13913,6 +13914,8 @@
 0.0.0.0	@@||mss0.bdstatic.com
 0.0.0.0	@@||mssdk3-normal-lf.zijieapi.com
 0.0.0.0	@@||msync-im1-vip6-std.easemob.com
+0.0.0.0	@@||mum.alibabachengdun.com
+0.0.0.0	@@||mum.alibabachengdun.net
 0.0.0.0	@@||mumu.163.com
 0.0.0.0	@@||music.163.com
 0.0.0.0	@@||music.douyin.com
@@ -19927,7 +19930,6 @@
 0.0.0.0	dns.wechat.com
 0.0.0.0	dns.weibo.cn
 0.0.0.0	dns.weixin.qq.com
-0.0.0.0	dns.weixin.qq.com.cn
 0.0.0.0	dns2.q2cdn.com
 0.0.0.0	dns2.titannetwork.cn
 0.0.0.0	dnvus.com
@@ -22188,6 +22190,7 @@
 0.0.0.0	huabao.360.cn
 0.0.0.0	huahuaka.com
 0.0.0.0	huakai2025.com/color.js
+0.0.0.0	huanle739.cc
 0.0.0.0	huashan-datahub-drcn.emui.dbankcloud.com
 0.0.0.0	huashengtai.net
 0.0.0.0	huashuowork.com
@@ -22335,6 +22338,7 @@
 0.0.0.0	i.xicairencs.cn
 0.0.0.0	i.ys7.com
 0.0.0.0	i.zhuoyaju.com
+0.0.0.0	i1.go2yd.com
 0.0.0.0	i1236.net
 0.0.0.0	i2.akjunshi.com
 0.0.0.0	i3818.com
@@ -29257,6 +29261,7 @@
 0.0.0.0	tb.code.twyxi.com
 0.0.0.0	tb060x.corp.youdao.com
 0.0.0.0	tb104x.corp.youdao.com
+0.0.0.0	tb6999.com
 0.0.0.0	tbaocdn.com
 0.0.0.0	tbcgumkadc.xyz
 0.0.0.0	tbexpand.alicdn.com
